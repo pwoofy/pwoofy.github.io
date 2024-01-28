@@ -9,6 +9,6 @@ hello there
 
 if you see this then you are seeing the start of
 
-some stupid blog page ..
+some stupid page ..
 
 > meow!
