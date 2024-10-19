@@ -74,9 +74,6 @@ Which outputs:
 
 `FLAG{S0_3a5y_1254!!}`
 
-ersonal Opinion
->! I think that this challenge was a really cool starter for those who are new to the CTF scene. I introduced a friend through this challenge and it was a fun experience. Really basic challenge too, which is nice. 
-
 <h2>
     Forensics / tiny_usb
 </h2>
@@ -94,9 +91,6 @@ To solve it, you just need to mount it to your disk. Pretty simple. Once you do 
 So, the answer is:
 
 `FLAG{hey_i_just_bought_a_usb}`
-
-Personal Opinion
->! Really short challenge, I have nothing to comment on.
 
 
 <h2>
@@ -143,10 +137,6 @@ You can say that the file is messy here, but we can see the flag on the top left
 
 `FLAG{RDP_is_useful_yipeee}`
 
-Personal Opinion
->! I guess this taught beginners to realize that google is your main source of information here. Still, an interesting solve.
-
-
 <h2>
     Forensics / codebreaker
 </h2>
@@ -181,9 +171,6 @@ In the end, I was left with just this QR code. Some parts of it were still cross
 ![Screenshot 2024-06-24 at 07.26.36](https://hackmd.io/_uploads/rkcBpVIIC.png)
 
 `FLAG{How_scan-dalous}`
-
-Personal Opinion
->! I'm sure there's an easier way to solve this, and I'll take a look on other people's writeups to better understand this.
 
 
 <h2>
@@ -264,9 +251,6 @@ Running this payload gives us:
 
 `FLAG{jqj6jqjqjqjqjqj6jqjqjqjqj6jqjqjq}`
 
-Personal Opinion
->! Cool little puzzle to solve. Not that much thought about it, it's just nice.
-
 
 <h2>
     Pwnable / nc
@@ -295,9 +279,6 @@ Where [input] is our input. Obviously this just means that we need to convert 15
 `FLAG{th3_b3ginning_0f_th3_r0ad_to_th3_pwn_p1ay3r}`
 
 (alternatively the attachment also gave the flag)
-
-Personal Opinion
->! It would have been much better if the answer wasn't given straight out by opening the attachments, but it's a cool introduction to nc anyways.
 
 
 <h2>
@@ -493,9 +474,6 @@ The only thing I changed here was the timestamp, and created a timestamp for one
 But once you do that, you have the whole flag.
 
 `FLAG{lyingthetime}`
-
-Personal Opinion
->! This was actually really interesting, I learned a thing or two from this. I wouldn't say this is my hardest web solve, but it's certainly in the top 25. 
 
 
 # 
