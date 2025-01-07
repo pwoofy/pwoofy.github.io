@@ -113,9 +113,6 @@ ___
 
 I think this CTF was one of the most fun CTFs that I played, was really satisfying to solve as well, hehe :3c
 
-<br>
----
-
 <h1>Additional Writeups</h1>
 
 This section will link some challenges that aren't mentioned here that were solved by our team.
