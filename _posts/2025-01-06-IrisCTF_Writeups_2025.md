@@ -102,14 +102,6 @@ Turns out, if you crop it and get specifically that part, you are able to hear s
 `irisctf{welcome_to_iris_radio_enjoy_surfing_the_waves}`
 
 <h2>
-    Networks / Inferno Barrier
-</h2>
-
-The full writeup for this challenge can be found in my teammate's writeup, which is located [here](https://hackmd.io/@GrumpyC/BkP9XGFLke), written by GrumpyC.
-
-But essentially, solving this challenge requires encoding packets and sending it to the server in base64 format.
-
-<h2>
     Networks / Shake My Hand
 </h2>
 
@@ -121,6 +113,7 @@ ___
 
 I think this CTF was one of the most fun CTFs that I played, was really satisfying to solve as well, hehe :3c
 
+<br>
 ---
 
 <h1>Additional Writeups</h1>
