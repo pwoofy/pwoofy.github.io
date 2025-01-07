@@ -1,0 +1,11 @@
+- title: "Sunset"
+  artist: "Jane Doe"
+  url: "/images/galaxy.jpg"
+  link: "/images/galaxy.jpg"
+  original_link: "https://example.com/sunset"
+
+- title: "Mountains"
+  artist: "John Smith"
+  url: "/images/silly1.png"
+  link: "/images/silly1.png"
+  original_link: "https://example.com/mountains"

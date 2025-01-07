@@ -1149,3 +1149,39 @@ Modules - reusable parts of our design
 //@import "highlights";
 @import "darcula";
 @import "svg-icons";
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.gallery-item {
+  flex: 1 1 calc(33.333% - 16px);
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.gallery-item img {
+  max-width: 100%;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.05);
+}
+
+.gallery-info {
+  margin-top: 8px;
+  font-size: 0.9em;
+}
+
+.gallery-info a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.gallery-info a:hover {
+  text-decoration: underline;
+}
