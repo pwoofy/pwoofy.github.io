@@ -102,7 +102,55 @@ Turns out, if you crop it and get specifically that part, you are able to hear s
 `irisctf{welcome_to_iris_radio_enjoy_surfing_the_waves}`
 
 <h2>
-    Network / Inferno Barrier
+    Networks / Inferno Barrier
 </h2>
 
-WIP
+The full writeup for this challenge can be found in my teammate's writeup, which is located [here](https://hackmd.io/@GrumpyC/BkP9XGFLke), written by GrumpyC.
+
+But essentially, solving this challenge requires encoding packets and sending it to the server in base64 format.
+
+<h2>
+    Networks / Shake My Hand
+</h2>
+
+WIP.
+
+___
+
+<h1>Final Thoughts</h1>
+
+I think this CTF was one of the most fun CTFs that I played, was really satisfying to solve as well, hehe :3c
+
+---
+
+<h1>Additional Writeups</h1>
+
+This section will link some challenges that aren't mentioned here that were solved by our team.
+
+<h2>
+Written by GrumpyC
+</h2>
+
+- [Miscellaneous / Cobra's Den](https://hackmd.io/@GrumpyC/H1ZVC3uI1x)
+- [Networks / Inferno Barrier](https://hackmd.io/@GrumpyC/BkP9XGFLke)
+
+    
+<h2>
+Written by Azazo
+</h2>
+
+- [Miscellaneous / O_WRONLY](https://azazazo.github.io/posts/irisctf25/#misc---o_wronly)
+- [Cryptography / knutsacque](https://azazazo.github.io/posts/irisctf25/#crypto---knutsacque)
+- [Cryptography / AYES](https://azazazo.github.io/posts/irisctf25/#crypto---ayes)
+
+<h2>
+Written by Xtrimi
+</h2>
+
+- [Forensics / deldeldel](https://xtrimi.github.io/posts/iris25/#deldeldel-50)
+- [Forensics / Tracem 1](https://xtrimi.github.io/posts/iris25/#tracem-1-152)
+- [OSINT / Late Night Bite](https://xtrimi.github.io/posts/iris25/#late-night-bite-50)
+- [OSINT / where's bobby 2](https://xtrimi.github.io/posts/iris25/#wheres-bobby-2-50)
+- [Web / Password Manager](https://xtrimi.github.io/posts/iris25/#password-manager-50)
+- [Web / Political](https://xtrimi.github.io/posts/iris25/#political-50)
+- [Web / Bad Todo](https://xtrimi.github.io/posts/iris25/#bad-todo-247)
