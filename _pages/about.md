@@ -30,7 +30,7 @@ i also volunteer for organizations, most notable feat was mentoring students in 
 as a typical southeast asian person, of course i play rhythm games. mostly chunimai & mobile rgs, but hey if you're curious here's my feats
 
 - Phigros: 16.00
-- Chunithm: 13.97
+- Chunithm: 15.44
 - maimai: 5852
 - PJSK: diff 32 fc
 
