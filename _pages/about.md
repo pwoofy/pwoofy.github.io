@@ -52,3 +52,13 @@ i'm also a puzzler. i do puzzles since 2019-2020, and i have a few achievements 
 - Find The Chomiks: Über Secret Chomik First Victor
 
 also, there might be puzzles in my website someday.
+
+---
+<h2> I HAVE NO LIFE !!! </h2>
+---
+
+currently mainly grinding hypixel skyblock
+
+skycrypt: https://sky.shiiyu.moe/stats/kittyboyfailure
+
+![Nadeshiko Stats](/images/nadeshiko.png)
