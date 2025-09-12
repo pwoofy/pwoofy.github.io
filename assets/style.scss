@@ -1185,3 +1185,203 @@ Modules - reusable parts of our design
 .gallery-info a:hover {
   text-decoration: underline;
 }
+
+/* Style for the header link '#' */
+.header-link {
+  color: #a7a7a7; /* Light grey color, you can change this */
+  text-decoration: none;
+  margin-left: 0.5em; /* Space between header text and '#' */
+  opacity: 0; /* Hide it by default */
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* Show the '#' when hovering over the parent header (h2, h3, etc.) */
+h2:hover .header-link,
+h3:hover .header-link {
+  opacity: 1;
+}
+
+
+/*
+  Puzzle Difficulty Styling (Final Animation Fix)
+*/
+
+/* Define the blueprint for our animated variable */
+@property --rainbow-hue {
+  syntax: '<angle>';
+  inherits: true;
+  initial-value: 0deg;
+}
+
+/* Default style for all puzzle headers */
+.puzzle-entry h2 {
+  color: #f8e6e6;
+  text-shadow: none;
+}
+
+/* > 700 Difficulty: Cool Color */
+.difficulty-rare h2 {
+  color: #00e5ff;
+}
+
+/* > 800 Difficulty: Cool color + Cool text outline */
+.difficulty-epic h2 {
+  color: #d86aff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+/* > 900 Difficulty: Cool color + Cool text outline + Cool box */
+.difficulty-legendary {
+  border: 1px solid #ffca28;
+  border-radius: 10px;
+  padding: 0 1em 1em 1em;
+  margin-bottom: 1em;
+  box-shadow: 0 0 15px rgba(255, 202, 40, 0.6);
+}
+.difficulty-legendary h2 {
+  color: #ffca28;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+/* > 950 Difficulty: Full Rainbow Annihilation! */
+.difficulty-mythic {
+  --rainbow-speed: 5s;
+  border-radius: 10px;
+  padding: 0 1em 1em 1em;
+  margin-bottom: 1em;
+  border: 2px solid;
+  animation: rainbow-cycle var(--rainbow-speed) linear infinite;
+  border-color: hsl(var(--rainbow-hue), 100%, 70%);
+  box-shadow: 0 0 20px hsl(var(--rainbow-hue), 100%, 70%);
+}
+.difficulty-mythic h2 {
+  background: linear-gradient(90deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+  background-size: 200% auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow-text-animation calc(var(--rainbow-speed) / 2) linear infinite;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: hsl(var(--rainbow-hue), 100%, 50%);
+}
+
+/* Keyframes for the rainbow text animation (for the fill) */
+@keyframes rainbow-text-animation {
+  from { background-position: 0% 50%; }
+  to { background-position: 200% 50%; }
+}
+
+/* Keyframes for the rainbow cycle (for the box and outline) */
+@keyframes rainbow-cycle {
+  to { --rainbow-hue: 360deg; }
+}
+
+/*
+  Style for UNKNOWN Difficulty Puzzles (Analog Horror Version 2.0)
+*/
+.difficulty-unknown {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 0 1em 1em 1em;
+  margin-bottom: 1em;
+  position: relative;
+  overflow: hidden;
+  animation: ominous-flicker 4s ease-in-out infinite;
+}
+
+/* "Ghosting" text effect (remains the same) */
+.difficulty-unknown ul,
+.difficulty-unknown p {
+  color: #d9d9d9;
+  opacity: 0.7;
+  text-shadow:
+     0 0 2px rgba(255, 0, 193, 0.5),
+     0 0 5px rgba(0, 255, 249, 0.5),
+     0 0 10px rgba(255, 255, 255, 0.3);
+  transition: all 0.3s ease;
+  user-select: none;
+}
+.difficulty-unknown:hover ul,
+.difficulty-unknown:hover p {
+  color: #fff;
+  opacity: 1;
+  text-shadow: none;
+}
+
+/* UPGRADED: Glitch effect with multi-layer scanlines */
+.difficulty-unknown h2 {
+  position: relative;
+  color: #d9d9d9;
+
+  /* NEW: We now have two background layers for a cooler effect */
+  background-image:
+    /* Layer 1: The thick, slow VHS tracking bar */
+    linear-gradient(transparent 0%, rgba(0,0,0,0.2) 45%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.2) 55%, transparent 100%),
+    /* Layer 2: The fine, fast scanlines */
+    repeating-linear-gradient(transparent 0, rgba(0,0,0,0.5) 1px, transparent 3px);
+
+  /* NEW: Define sizes for each background layer */
+  background-size: 100% 150%, 100% 3px;
+  background-repeat: no-repeat, repeat;
+
+  /* NEW: Three animations running at once! */
+  animation:
+    glitch-skew 1s infinite linear alternate-reverse,
+    vhs-tracking 6s infinite linear, /* Slower animation for the tracking bar */
+    rolling-scanlines 0.2s linear infinite; /* Faster animation for fine scanlines */
+}
+
+/* The glitch pseudo-elements remain the same */
+.difficulty-unknown h2::before,
+.difficulty-unknown h2::after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #1a1a1a;
+  overflow: hidden;
+}
+.difficulty-unknown h2::before {
+  left: 3px;
+  text-shadow: -2px 0 #ff00c1;
+  animation: glitch-effect-1 2s infinite linear alternate-reverse;
+}
+.difficulty-unknown h2::after {
+  left: -3px;
+  text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+  animation: glitch-effect-2 3s infinite linear alternate-reverse;
+}
+
+
+/* Keyframes for all the animations */
+
+/* Ominous flicker (remains the same) */
+@keyframes ominous-flicker {
+  0%   { box-shadow: 0 0 20px rgba(136, 10, 10, 0.4); } 48%  { box-shadow: 0 0 20px rgba(136, 10, 10, 0.4); } 50%  { box-shadow: 0 0 30px rgba(136, 10, 10, 0.9); } 52%  { box-shadow: 0 0 15px rgba(136, 10, 10, 0.3); } 54%  { box-shadow: 0 0 30px rgba(136, 10, 10, 0.9); } 56%  { box-shadow: 0 0 20px rgba(136, 10, 10, 0.4); } 100% { box-shadow: 0 0 20px rgba(136, 10, 10, 0.4); }
+}
+
+/* Fine scanlines animation (remains the same) */
+@keyframes rolling-scanlines {
+  from { background-position-y: 0, 0; }
+  to { background-position-y: 0, 3px; }
+}
+
+/* NEW: Keyframes for the VHS tracking bar */
+@keyframes vhs-tracking {
+  from { background-position-y: -150%, 0; }
+  to { background-position-y: 150%, 0; }
+}
+
+/* Glitch keyframes (remain the same) */
+@keyframes glitch-skew {
+  0% { transform: skewX(0); } 10% { transform: skewX(0); } 11% { transform: skewX(-2deg); } 12% { transform: skewX(0); } 50% { transform: skewX(0); } 51% { transform: skewX(3deg); } 52% { transform: skewX(0); } 100% { transform: skewX(0); }
+}
+@keyframes glitch-effect-1 {
+  0% { clip-path: inset(85% -6px 13%); } 20% { clip-path: inset(45% -6px 40%); } 40% { clip-path: inset(23% -6px 70%); } 60% { clip-path: inset(55% -6px 20%); } 80% { clip-path: inset(89% -6px 5%); } 100% { clip-path: inset(67% -6px 25%); }
+}
+@keyframes glitch-effect-2 {
+  0% { clip-path: inset(13% -6px 80%); } 20% { clip-path: inset(50% -6px 32%); } 40% { clip-path: inset(8% -6px 90%); } 60% { clip-path: inset(40% -6px 40%); } 80% { clip-path: inset(78% -6px 15%); } 100% { clip-path: inset(23% -6px 80%); }
+}
