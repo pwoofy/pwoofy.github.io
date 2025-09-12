@@ -465,7 +465,7 @@ print("Finished prompting for all assets.")
 <br>
 
 <div class="puzzle-entry" >
-    <h2>Post-Mortem [#35]</h2>
+    <h2>Random Number Generation [#35]</h2>
     <ul>
         <li>Difficulty: 277</li>
         <li>Personal Difficulty: 30</li>
