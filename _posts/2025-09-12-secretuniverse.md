@@ -412,7 +412,7 @@ print("Finished prompting for all assets.")
         <li>Official Solution: "Get the eye to laser the laughing emoji."</li>
         <li>Unlocks: A Game Of Secrets</li>
     </ul>
-    <p>You all had it easy. Comeuppance used to have no badge, so I just thought that since comeuppance is a "deserved penalty", what in the map deserves a penalty from the eye? The laughing face. This just means that you should shoot the laughing emoji. However, since there is a badge now, you can just use your logic to shoot it.</p>
+    <p>You all had it easy. Comeuppance used to have no badge icon, so I just thought that since comeuppance is a "deserved penalty", what in the map deserves a penalty from the eye? The laughing face. This just means that you should shoot the laughing emoji. However, since there is a badge now, you can just use your logic to shoot it.</p>
 </div>
 <br>
 
@@ -449,5 +449,587 @@ print("Finished prompting for all assets.")
 <li>Unlocks: roblox game!</li>
 </ul>
 <p>May god have mercy on us all.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Post-Mortem [#34]</h2>
+    <ul>
+        <li>Difficulty: 351</li>
+        <li>Personal Difficulty: 200</li>
+        <li>Official Solution: "Hit a checkpoint in the easy obby while dead."</li>
+        <li>Unlocks: Indoor Obby</li>
+    </ul>
+    <p>You can figure out from the badge icon that you have to do something with resetting character (hence, post-mortem). The only place you can sort of die while hitting a finish line is by dying while hitting a checkpoint.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Post-Mortem [#35]</h2>
+    <ul>
+        <li>Difficulty: 277</li>
+        <li>Personal Difficulty: 30</li>
+        <li>Official Solution: "Touch the Rainberge which spawns on the baseplate with a 1/1000 chance every second"</li>
+        <li>Unlocks: Super Secret Checklist</li>
+    </ul>
+    <p>The server will randomly send a message saying the Rainberge has spawned. You just have to find it in the map.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Sharpshooter [#36]</h2>
+    <ul>
+        <li>Difficulty: 401</li>
+        <li>Personal Difficulty: 300</li>
+        <li>Official Solution: "Walk the plank on floor 10 of the Infinitower and hit a bullseye on the 'Target' Structure"</li>
+        <li>Unlocks: Running Track</li>
+    </ul>
+    <p>This is something you kinda have to try out for yourself. You'll figure out logically that you can drop to the bullseye from any height.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Hackerman [#37]</h2>
+    <ul>
+        <li>Difficulty: 60</li>
+        <li>Personal Difficulty: 80</li>
+        <li>Official Solution: "Open the developer console"</li>
+        <li>Personal Opinion: No way this shit is a 60 wtf</li>
+        <li>Unlocks: RandomMoneyMaker 9000™</li>
+    </ul>
+    <p>You press F9. Should be something you think of at the start.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Ultraviolet [#38]</h2>
+    <ul>
+        <li>Difficulty: 789</li>
+        <li>Personal Difficulty: 840</li>
+        <li>Official Solution: "Equip body colors visible on the statue through the magnifying glass while the game window is unfocused."</li>
+        <li>Bullshit Meter: 7/10</li>
+        <li>Personal Opinion: BULLSHIT</li>
+        <li>Unlocks: Baseplate Control Panel</li>
+    </ul>
+    <p>This one is a bit stupid. You first need the Magnifying Glass from the Photobomb structure. Once you do that, you can "let light pass through your magnifying glass" by tabbing out while keeping your magnifying glass facing the statue. Doing so, you get the following colors:</p>
+    Head: White (Very White)<br>
+    Torso, Left Arm, Right Arm: Piss Yellow (very yellow)<br>
+    Left Leg, Right Leg: Bright Green (Very Green)<br>
+    <p>Equipping these colors as your avatar, you unlock the Ultraviolet secret.</p>
+
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Ultraviolent [#39]</h2>
+    <ul>
+        <li>Difficulty: 789</li>
+        <li>Personal Difficulty: 702</li>
+        <li>Official Solution: "Load an eye accessory onto the statue and die to its laser."</li>
+        <li>Unlocks: Paint Yourself!</li>
+    </ul>
+    <p>Once you obtained the Statue Identifier from Titan Attack, you can find out that you can load eyes on to the statue, which causes a weird behavior where it shoots laser to you. Simply die to the laser.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Compound Nouns [#40]</h2>
+    <ul>
+        <li>Difficulty: 808</li>
+        <li>Personal Difficulty: 839</li>
+        <li>Official Solution: "Input the chemical formula of Trinitrotoluene on the laughing emoji."</li>
+        <li>Bullshit Meter: 7/10</li>
+        <li>Personal Opinion: are you fr</li>
+        <li>Unlocks: The Demon Core</li>
+    </ul>
+    <p>If you can see the list of things that the laughing emoji can point to, one of them is the chemical compound for Trinitrotoluene. TNT has a molecular formula of C7H5N3O6. You might find that, at first, clicking 7 -> 5 -> 3 -> 6 doesn't work. This is because you have to click in order to reach that point, such as it will be similar to a clock showing 7PM, 5PM, 3PM, 6PM. You click 7 times to reach 7PM, then you click 10 times (7 + 10 = 17 - 12 = 5), then you click 10 times again (5 + 10 = 15 - 12 = 3), then you click it 3 times to reach 6PM.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Locke and Key [#41]</h2>
+    <ul>
+        <li>Difficulty: 469</li>
+        <li>Personal Difficulty: 412</li>
+        <li>Official Solution: "Drop the key from floor 2 of the elevator down onto the baseplate and open the Evil Door."</li>
+        <li>Unlocks: Paint Yourself!</li>
+    </ul>
+    <p>If you have the Evil Door unlocked from the "Secret" secret, you can kind of piece the clues together. You have a key in Elevator Traveling, and you have the locked door. You utilize the fact that you can drop tools from Floor 2, grab the key, and open the door.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Call of the Void [#42]</h2>
+    <ul>
+        <li>Difficulty: 333</li>
+        <li>Personal Difficulty: 311</li>
+        <li>Official Solution: "Drop all the blocks on floor 3 of the elevator trials into the void."</li>
+        <li>Unlocks: Skybound Secrets</li>
+    </ul>
+    <p>This one is just something that you kinda have to try out for yourself.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Compact Contour [#43]</h2>
+<ul>
+<li>Difficulty: 719</li>
+<li>Personal Difficulty: 613</li>
+<li>Official Solution: "Follow the instructions hidden in the microprofiler and complete the lights out puzzle."</li>
+<li>Unlocks: Writer's Ruins</li>
+</ul>
+<p>One of the things that people should usually start checking is the microprofiler. You can access this by going to your roblox menu, go to settings, scroll all the way down to Micro Profiler, and switch it to on. You should see a lot of data at the top, but rest assured, most of these are for debugging purposes. What you want to do is to hover over the Mode, switch the Mode to Timer, go to the Script section, and you should see a human-readable text in here: </p>
+
+![MicroProfiler Image](/images/secretuniverse/CompactContour.png)
+
+<p>"Click every brick forming the outline of the 'spawn' structure ... face's mouth from top to bottom". From here, you can roughly guess what this is mentioning. At the spawn, there is a set of structures built in a way that it looks like a face. You can click on the outlines, top to bottom, left to right.</p>
+
+![Face](/images/secretuniverse/CCFace.png)
+
+<p>Once you do so, you are presented with a 5x5 lights out puzzle. You can simply do a google search on this if you're too lazy to decrypt it yourself</p>
+</div>
+<br>
+
+
+<div class="puzzle-entry" >
+    <h2>Freudian Slip [#44]</h2>
+    <ul>
+        <li>Difficulty: 333</li>
+        <li>Personal Difficulty: 210</li>
+        <li>Official Solution: "Press a hidden button inside your torso."</li>
+        <li>Unlocks: The Thinker</li>
+    </ul>
+    <p>As you continue to solve secrets and look for clues, you'll realize that one body part of yours is clickable, and it's inside your torso. Once you click it, you get some monologue about yourself. A bit entertaining to watch.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>As Above, So Below [#45]</h2>
+<ul>
+<li>Difficulty: 606</li>
+<li>Personal Difficulty: 673</li>
+<li>Official Solution: "Complete the puzzle hidden in the skybox. (Jump 6 times at 42x11)"</li>
+<li>Unlocks: Baseplate Hole Punch</li>
+</ul>
+<p>This will be a bit hard for those of you who doesn't have a keen eye, but if you stand at the void, and you look hard enough, you can see this:</p>
+![AASB Image](/images/secretuniverse/AASBnormal.png)
+<p>Can't see it? Let me help you sharpen it a bit more!</p>
+![AASB Edited Image](/images/secretuniverse/AASBEdited.png)
+<p>From here, it is very obvious. You have to set your (0,0) to the top left, and count 11 studs to the right, and 42 studs down, then when you're at the spot, jump 6 times as indicated.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Saper [#46]</h2>
+    <ul>
+        <li>Difficulty: 240</li>
+        <li>Personal Difficulty: 40 (3)</li>
+        <li>Official Solution: "Win a game of minesweeper."</li>
+        <li>Unlocks: Crossword</li>
+    </ul>
+    <p>Surely you know how to play minesweeper, right?</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>3600 [#47]</h2>
+    <ul>
+        <li>Difficulty: 400</li>
+        <li>Personal Difficulty: 10 (cmon, its just afk)</li>
+        <li>Official Solution: "Spend an hour in the server."</li>
+        <li>Unlocks: Tower of Passage</li>
+    </ul>
+    <p>3600 is commonly refered to "number of seconds in an hour". Have fun.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Historian [#48]</h2>
+    <ul>
+        <li>Difficulty: UNKNOWN</li>
+        <li>Personal Difficulty: 10^23</li>
+        <li>Official Solution: TO BE FOUND</li>
+        <li>Unlocks: Starter House</li>
+    </ul>
+    <p>Fuck. We're all dead.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Many Ways [#49]</h2>
+    <ul>
+        <li>Difficulty: 578</li>
+        <li>Personal Difficulty: 300 (100)</li>
+        <li>Official Solution: "Teleport from 'How many ways can you join this Roblox game?' after obtaining the 'fabled' secret."</li>
+        <li>Unlocks: CYJTRG</li>
+    </ul>
+    <p>This one is a bit gimmicky, but if you know about HMWCYJTRG, you'd expect a badge just by joining the game from SU. From there, it's straightforward</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Task Master [#50]</h2>
+    <ul>
+        <li>Difficulty: 499</li>
+        <li>Personal Difficulty: 450</li>
+        <li>Official Solution: "Obtain all 9 badges displayed on the 'Badger' structure."</li>
+        <li>Unlocks: Weather Machine</li>
+    </ul>
+    <p>You should be fine following guides. Have fun. This takes a while.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>The Foundation [#51]</h2>
+    <ul>
+        <li>Difficulty: 70</li>
+        <li>Personal Difficulty: 30</li>
+        <li>Official Solution: "Click the baseplate from up close."</li>
+        <li>Unlocks: easiest obby on roblox!</li>
+    </ul>
+    <p>A bit obvious, but you can click the baseplate in first person.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Soothing Keys [#52]</h2>
+    <ul>
+        <li>Difficulty: 642</li>
+        <li>Personal Difficulty: 642</li>
+        <li>Official Solution: "Input the correct code heard from the Escape Menu Chair."</li>
+        <li>Unlocks: Anything Chair (& Clock)</li>
+    </ul>
+    <p>This is a reference to an ACBAS secret, where the words "soothing keys" randomly play in the radio. Similar to that, you must sit down on the void chair (that you can get by pressing escape and sitting on the chair), and you will hear "Agitating Locks". You input this by sitting down on the chair, hovering over the audio button, and editing the text there.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Titan Attack [#53]</h2>
+    <ul>
+        <li>Difficulty: 696</li>
+        <li>Personal Difficulty: 670</li>
+        <li>Official Solution: "Punch holes around the statues until it falls."</li>
+        <li>Personal Opinion: So tedious bro</li>
+        <li>Unlocks: Statue Identifier</li>
+    </ul>
+    <p>You can use the baseplate hole puncher from As Above, So Below to "attack" the titan. You make a hole under the titan, and you should get the secret..</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Long Live The King [#54]</h2>
+    <ul>
+        <li>Difficulty: UNKNOWN</li>
+        <li>Personal Difficulty: 2^222</li>
+        <li>Official Solution: TO BE FOUND</li>
+        <li>Unlocks: Ardy's Ship</li>
+    </ul>
+    <p>Holy Fuck.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Ultrastar [#55]</h2>
+    <ul>
+        <li>Difficulty: 890</li>
+        <li>Personal Difficulty: 850</li>
+        <li>Official Solution: "Complete the 'Star Pie' pepperoni puzzle."</li>
+        <li>Unlocks: Inverse Pyramid</li>
+    </ul>
+    <p>This puzzle is a bit silly. You'll realize that if you favorited all badges, you get to have ALL star pie pepperonis to be lit up. This is because each of them corresponded to a certain pepperoni. By doing elimination, you can figure out which badges light up which pepperoni, and from there, we can index the n-th number of the badge. For example, the badge 'so close' activates pepperoni with number '3', which means you take the third digit from the badge, 17[4]605653. You apply the same logic to get another badge at 423842212, which is the Egypt Exhibit badge.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Back For More [#56]</h2>
+    <ul>
+        <li>Difficulty: 49</li>
+        <li>Personal Difficulty: 1</li>
+        <li>Official Solution: "Rejoin the game."</li>
+        <li>Unlocks: Horse Plinko</li>
+    </ul>
+    <p>Should be obvious, this is a word that most games use already.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Fabled [#57]</h2>
+<ul>
+<li>Difficulty: 489</li>
+<li>Personal Difficulty: 400</li>
+<li>Official Solution: "Join the private server with the ID hidden at the Minesweeper structure."</li>
+<li>Unlocks: HMW</li>
+</ul>
+Also should be obvious. You can join games with a private code, and in this case, the code is 83a641b01751564f90a6415a4b42e403. You can append this to the share code link, which is [this link](https://www.roblox.com/share?code=83a641b01751564f90a6415a4b42e403&type=Server)
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Fuchsia [#58]</h2>
+<ul>
+<li>Difficulty: 610</li>
+<li>Personal Difficulty: 480</li>
+<li>Official Solution: "Solve the pink ball velocity puzzle."</li>
+<li>Unlocks: Answer Machine</li>
+</ul>
+<p>If you click on the Fuchsia ball from the BRB secret, you are prompted to save a model. In this model, you can find that the ball is a union. If you negate the union, you will find another ball placed far away with a few weird values that you won't find normally. This is in AssemblyLinearVelocity, where you find the following values: 42.21, 38.624, 380.426. Additionally, if you have tried messing around with the Fuchsia model itself ingame, you can find out that the baseplate that is under the Ball is clickable. We can interpret this as a grid of 25x25, and the values, separated by a dot or a space, are the coordinates in where we must click. The glowing sign is where our anchor should be.</p>
+<p>From there, we obtain the following values: Row 2, Column 17<br>Row 1, Column 21<br>Row 2, Column 13<br>Row 25, Column 24<br>Row 16, Column 5<br>Row 18, Column 1.</p>
+<p>Now, we can map this to the Fuchsia grid as follows:</p>
+![Fuchsia Grid](/images/secretuniverse/Fuchsia.png)
+<p>Order is in ROYGBIV</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Recluse [#59]</h2>
+    <ul>
+        <li>Difficulty: UNKNOWN</li>
+        <li>Personal Difficulty: ???</li>
+        <li>Official Solution: TO BE FOUND</li>
+        <li>Personal Opinion: YES THIS SECRET IS FOUND. I KNOW. BUT WE'RE LOOKING FOR HOW TO DO THIS LEGITIMATELY</li>
+        <li>Unlocks: Nil Portal</li>
+    </ul>
+    <p>Evil Keith. Where are you?</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Quid Pro Quo [#60]</h2>
+    <ul>
+        <li>Difficulty: 815</li>
+        <li>Personal Difficulty: 700 (600)</li>
+        <li>Official Solution: "Reflect an eye's laser back at it using a reflective object."</li>
+        <li>Unlocks: Void Path</li>
+    </ul>
+    <p>If you google it, Quid Pro Quo is a latin phrase meaning "this for that", or similar to a trade-off. Considering the fact that you have a laser eye that is chasing you, you can use this to your advantage and shoot the laser back to itself.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>brb [#61]</h2>
+    <ul>
+        <li>Difficulty: 234</li>
+        <li>Personal Difficulty: 100 (its just afk)</li>
+        <li>Official Solution: "Get kicked from the game for being AFK."</li>
+        <li>Unlocks: Ball</li>
+    </ul>
+    <p>Just AFK. That's it.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>The Beginning [#62]</h2>
+<ul>
+<li>Difficulty: 780</li>
+<li>Personal Difficulty: 750</li>
+<li>Official Solution: "Solve the pink ball version history puzzle and beat the TRIA.os map."</li>
+<li>🏆 Puzzle Award: Probably one of the coolest puzzles ingame 🏆</li>
+<li>Unlocks: Gazebo</li>
+</ul>
+If you try to download the ball model straight through AssetDelivery, we can find out that strangely enough, the AssetDelivery for the Ball shows that it is on version 2, which means that there exists a version before. We can download the original asset through this [asset downloader](https://gev.neocities.org/rblxplacedl), or if you prefer a more direct link using the AssetDelivery API, [this link](https://assetdelivery.roblox.com/v1/asset/?id=107512846420490&version=1). Once you open the V1 version of the model, you'll realize that a lot of the stuff are the same, except one thing: an ID. Yep, there is a different ID. This one goes under 84515480041362.
+![Image of Asset](/images/secretuniverse/BruteBG.png)
+That's strange, we can find [an asset](https://create.roblox.com/store/asset/84515480041362/sqbkm) under this ID. The name of the model is "sqbkm", and in the description is another ID. I wonder what it can lead to?
+![Tria OS?!](/images/secretuniverse/TriaWTF.png)
+Tria.OS? That's a bit weird, but it will make more sense once you join. First of all, since Tria.OS doesn't allow you to load any random map, you must create an unverified server. Once you do so, you must load the map ID of "sqbkm". Once you do so, you can find that a map called "Secrets of the Universe" is loaded. 
+As you join, you can see that the game gave you an instruction: 
+
+Find 5 structures. 
+
+You can locate the first one by falling off the map, <br>
+The second one by throwing the ball off the map, <br>
+The third one...is an among us to the left of where you spawn, by some patches of grass (you can click it and it will glow). <br>
+The fourth one is an orb inside of your body. And yes, you must be fast. <br>
+
+Once you do so, you can find a code written in the spawn of the map. Take note of it, insert it in the Answer Machine obtained from Fuchsia, and the machine shall blow up, giving you The Beginning. 
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Subliminal Messaging [#63]</h2>
+    <ul>
+        <li>Difficulty: 831</li>
+        <li>Personal Difficulty: 727</li>
+        <li>Official Solution: "Follow the instructions given in LaunchData attached to friend invites."</li>
+        <li>Unlocks: ID Neighbors</li>
+    </ul>
+    <p>This one is a bit funny. If you know how to intercept LaunchData as Roblox starts, this will be easy for you. When you invite someone from the board, 2 API requests get called. 1 of the API is a link-resolve request, where in the response, you will get "pastel blue_concrete_bullseye_linked sword_reveal thyself, secret!. Seeing this, you can figure out what to do. Go to the Ultraviolet baseplate changer, set the color to pastel blue, set the material to the concrete, stand in the middle of the bullseye while holding a linked sword, and say in the chat "reveal thyself, secret!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Debugge/r [#64]</h2>
+    <ul>
+        <li>Difficulty: 720</li>
+        <li>Personal Difficulty: 531</li>
+        <li>Official Solution: "Find and execute the Instructions hidden in the F9 console at the Horse Plinko."</li>
+        <li>Unlocks: MemoryMoneyMaker 9000™</li>
+    </ul>
+    <p>This one is a bit funny, but let's say you've used the horse plinko once in the session. You can then head to your Roblox's Logs Files (on macOS, its in ~/Library/Logs/Roblox), and you can see an info that is very easy to miss, as it is buried under tons of TestService logs. It says to touch the 31st, 32nd, and 40th pegs of the Horse Plinko, then press start.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Cognitohazard [#65]</h2>
+    <ul>
+        <li>Difficulty: UNKNOWN</li>
+        <li>Personal Difficulty: 6^271</li>
+        <li>Official Solution: TO BE FOUND</li>
+        <li>Unlocks: Swinburne's Chair</li>
+    </ul>
+    <p>A lot of people claim to have leads on this. I believe they're all wrong! And I know why!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>TALKE [#66]</h2>
+<ul>
+<li>Difficulty: 800</li>
+<li>Personal Difficulty: 831</li>
+<li>Official Solution: "Discover the different chat bubble that appears when chatting on the "Chat Bubble" structure and solve the puzzle."</li>
+<li>Unlocks: 🗣️</li>
+</ul>
+<p>This is a bit funny. First of all, you want to stand on the loud and proud chat bubble, then speak a message that contains mostly of whitespace, then you should see this:</p>
+![TALKE](/images/secretuniverse/talke1.png)
+Do you see it? No? Let me make it clearer!
+![TALKE2](/images/secretuniverse/talke2.png)
+Yep, our beloved feodoric has put a 0.99 transparency image in our chat bubble. The chat bubble contains an italian flag, and the words "good morning". You can find out that the word for good morning in italian is buongiorno, so you can test by saying this everywhere. Eventually, once you head to egor realm, you're greeted with a friendly ball!
+
+Your goal? Annoy the shit out of that fucking ball. Repeat what it says until it explodes.
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Agent Orange [#67]</h2>
+    <ul>
+        <li>Difficulty: UNKNOWN</li>
+        <li>Personal Difficulty: 33^33</li>
+        <li>Official Solution: TO BE FOUND</li>
+        <li>Unlocks: Box of Death</li>
+    </ul>
+    <p>A lot of people also claim to have leads on this. I believe they're all wrong! And I know why!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Guest [#68]</h2>
+    <ul>
+        <li>Difficulty: 50</li>
+        <li>Personal Difficulty: 40</li>
+        <li>Official Solution: "Join the game through a friend's invite."</li>
+        <li>Unlocks: Notification Bell</li>
+    </ul>
+    <p>Once you copy the share code, you can join through that as well. Very funny info: If you actually have the notifs on for the game, the bell will glow!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" >
+    <h2>Transliteration [#69]</h2>
+    <ul>
+        <li>Difficulty: 333</li>
+        <li>Personal Difficulty: 300 (299)</li>
+        <li>Official Solution: "Solve the crossword."</li>
+        <li>Unlocks: Paths</li>
+    </ul>
+    <p>Surely you can fill out the crosswords yourself, but the answer, in order, is Vocation[a]l, [b]r, Ca[s]hmere, Wid[t]h, Unive[r]se, S[a]per, ??? (what is this), [c]heer, [t]his. Surely the missing answer is useful. But anyways, you get "abstract" as the answer.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Meet The Owner [#70]</h2>
+<ul>
+<li>Difficulty: 991</li>
+<li>Personal Difficulty: 937</li>
+<li>Official Solution: "Complete the strange orb puzzle."</li>
+<li>Personal Opinion: gj feodoric this was fun</li>
+<li>🏆 Puzzle Award: A very well made and long puzzle 🏆</li>
+<li>Unlocks: Essential Establishment</li>
+</ul>
+Sigh. Here we go.
+
+The first step to solving this puzzle, like how other people have done it, is realizing that you actually have a strange orb in your inventory. Holding it out, the first thing you see is the fact that the portal color has changed. Weird. You investigate it, and it turns out...it brings you to a very weird location.
+
+Here's where a lot of people seemed to stop try, but there's actually more! If you go to ~/Library/Logs/Roblox (on MacOS), you can find the fact that the game is sending you a warning. 
+
+```
+2025-09-12T21:12:22.471Z,6430.471191,6e1ef000,6 [FLog::Error] Error: Failed to load sound rbxasset://sounds/wordsy.wav: Temp read failed.
+```
+
+Hmm, weird, but where have I seen this before? Oh! Right! ~~ACBAS!~~ (Not really I didn't actually know it from ACBAS, and it was from my own research)
+
+But anyways, the error is quite straightforward. The game is telling you that you seem to not have a file called wordsy.wav in your sounds file. Hmm, weird, so let's try adding a file called wordsy.wav inside that folder, and let's re-enter it!
+
+![Corner is Open](/images/secretuniverse/CORNEROPEN.png)
+
+When I first showed this discovery to my team, a lot of them thought I was exploiting, but nope, the prerequisite was just to have a file called wordsy.wav! That's quite fun, what's in it, you might ask?
+
+...nothing of use. It seems that the audio is played in a way that it skips to different parts of the audio. Not sure that it means, so we dropped that for a bit...
+
+...until one day, one of my teammates sent me this:
+
+![Zero Hotbar](/images/secretuniverse/zerobar.png)
+
+That's interesting! Turns out, if you hover over the zero hotbar with a wide enough monitor, you can find the strings 99430, WAY out of the screen. I wonder what it will lead to?
+
+![Feodoric's Place](/images/secretuniverse/feoWHAT.png)
+
+[Feodoric's Place](https://www.roblox.com/games/99430/Feodorics-Place)? That's interesting! I wonder what it has!
+
+![oops](/images/secretuniverse/oops.png)
+
+Uhm...Last updated 18 years ago... Surely this is a red herring?
+
+WRONG!!! YOU'RE WRONG!!! YOU ARE WRONG!!! If you use Pwoofy's API Scanner™, with the universeID of Feodoric's place, which is 244803, you can find a localization data:
+
+![Localization Data Found!](/images/secretuniverse/localizationdata.png)
+
+There is a localization data on Feodoric's place, how interesting! This shows that despite the place being last updated 18 years ago, updating the localization data actually doesn't count as an update! I wonder what localization data the game has?
+
+![namedesc](/images/secretuniverse/namedesc.png)
+
+Hmm, interesting, so we have YQ_-UToUEXW. I wonder what this could be? Perhaps, a [youtube link](https://www.youtube.com/watch?v=YQ_-UToUEXW)?
+
+Hm, no, that didn't work, maybe we're missing a step...
+
+...and indeed we're missing a step! Did you know that you can search for the name of the strange orb? If you go to your SU inventory and type in b, you'll find that the strange orb is there, so the strange orb has the letter b in it, and as you go through every word, you'll slowly uncover the name of the orb. b...n...v... and so on, and this lead sto bnvigekey. I wonder if we can decrypt the youtube URL with that?
+
+And indeed, you [can](https://www.youtube.com/watch?v=XD_-ZLiQUTY)! That's wordsy.wav, so let's get to uploading that in our sounds folder and going back to the radio!
+
+If you can hear the radio, it says "salmon ice, push portal, eye laser".
+
+Huh, that's weird, let's try setting the baseplate to salmon, the material to ice, and get the eye laser to shoot the multiplayer portal!
+
+\*boom sfx\*
+
+Huh, something changed? 
+
+If you enter the portal now, you can see that the other side of the room is now open!
+
+![Open!](/images/secretuniverse/opensesame.png)
+
+Interesting, I wonder what lies behind the do-
+
+![Feodoric?](/images/secretuniverse/feoducky.png)
+
+Feodoric? 
+
+After some monologue, he disappears, telling us to be "worthy" first...
+
+...fast forward a few days, identity fraud was discovered, so we entered the secret room again and...feodoric's dialogue changed?
+
+If you assetdump feodoric's dialogue (like any sane person would do), you can find that the audio is dual-track, but only plays in one ear. From the audio, we can get the message "Click all void orbs with strange orb equipped". Seeing the material that the area in where feodoric is, we can roughly match it to the Quid Pro Quo's void path, and sure enough, there are orbs in that structure! 
+
+If we click all of them, we'll get a notification saying "Void Orbs: Success". What next?
+
+Well, since we found out that the door had a LOSS reference, similar to the one in the identity fraud structure, we just decided to keep gambling until...secret meetup? That's not supposed to be here?
+
+Join the game, then meet feodoric. 
+
+And thus, you have finally met the owner.
+
+GGs.
+
+--------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
+
+i have discovered most of the things here myself, such as the wordsy, but i have to thank the people at ggarg (pls invite me now) for creating a nice enough guide that i can replicate and let me double check without getting ingame.
 </div>
 <br>
