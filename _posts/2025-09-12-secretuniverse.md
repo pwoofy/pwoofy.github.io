@@ -643,15 +643,32 @@ print("Finished prompting for all assets.")
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Historian [#48]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 10^23</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Starter House</li>
-    </ul>
-    <p>Fuck. We're all dead.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Historian [#48]</h2>
+<ul>
+<li>Difficulty: 920</li>
+<li>Personal Difficulty: 860</li>
+<li>Official Solution: "Discover the secret code in the first version of 'Secret Meetup'."</li>
+<li>🏆 Puzzle Award: "This puzzle clicks" award 🏆</li>
+<li>Unlocks: Starter House</li>
+</ul>
+Let's go back to the secret meetup that is uncopylocked from earlier. If you go to the v1 version, you'll assume that it's just a baseplate. However, a side-by-side comparison shows that there is a certain attribute that the v1 version has that isn't available to a normal baseplate!
+
+![Huh? A string?](/images/secretuniverse/binarystring.png)
+
+That's weird, there's a BinaryString here! Let's decode this from Base64!
+
+"QL9-5-2-7-1-5-3-10"
+
+And you know what QL can refer to? [QualityLevel](https://create.roblox.com/docs/reference/engine/enums/QualityLevel). Because of this, the answer requires you to set you graphics to 9, 5, 2, 7, 1, 5, 3, and 10 in that order.
+
+--------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
+
+Did you know that the original solution was just to call print(CollectionService:GetAllTags())?
+
+![Okay...](/images/secretuniverse/actualsol.png)
+
+
 </div>
 <br>
 
