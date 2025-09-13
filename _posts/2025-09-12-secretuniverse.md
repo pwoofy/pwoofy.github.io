@@ -89,7 +89,7 @@ ALL SECRETS WILL FOLLOW THE FOLLOWING FORMAT:
     <ul>
         <li>Difficulty: 32</li>
         <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Join the 'Vocational' Grou."</li>
+        <li>Official Solution: "Join the 'Vocational' Group."</li>
         <li>Unlocks: Horrible Invite Booth</li>
     </ul>
     <p>Part of the join checklist.</p>
@@ -424,7 +424,7 @@ print("Finished prompting for all assets.")
         <li>Official Solution: "Complete the Mr. Angry '#%!&' puzzle."</li>
         <li>Unlocks: Trinitrotoluene</li>
     </ul>
-    <p>If you have messed around with the Angry Emoji, you can realize you can click on it and it will turn. Through logical deduction, we can figure out that #%!& translates to 3517, because if you press Shift+3, you get #, and so on and so forth. You use the angry face as an input.</p>
+    <p>If you have messed around with the Angry Emoji, you can realize you can click on it and it will turn. Through logical deduction, we can figure out that #%!& translates to 3517, because if you press Shift+3, you get #, and so on and so forth. You use the angry face as an input, but you interpret the angry face as a clock. To go from 12 to 3, you press 3 times. To go from 3 to 5, you press 2 times. To go from 5 to 1, you press 8 (5+8 = 13 - 12 = 1) times, and to go from 1 to 7, you press 6 times. Thus, the input code is 3286</p>
 </div>
 <br>
 
@@ -552,7 +552,7 @@ print("Finished prompting for all assets.")
         <li>Difficulty: 469</li>
         <li>Personal Difficulty: 412</li>
         <li>Official Solution: "Drop the key from floor 2 of the elevator down onto the baseplate and open the Evil Door."</li>
-        <li>Unlocks: Paint Yourself!</li>
+        <li>Unlocks: Evil Arena</li>
     </ul>
     <p>If you have the Evil Door unlocked from the "Secret" secret, you can kind of piece the clues together. You have a key in Elevator Traveling, and you have the locked door. You utilize the fact that you can drop tools from Floor 2, grab the key, and open the door.</p>
 </div>
@@ -772,7 +772,7 @@ Also should be obvious. You can join games with a private code, and in this case
 <li>Official Solution: "Solve the pink ball velocity puzzle."</li>
 <li>Unlocks: Answer Machine</li>
 </ul>
-<p>If you click on the Fuchsia ball from the BRB secret, you are prompted to save a model. In this model, you can find that the ball is a union. If you negate the union, you will find another ball placed far away with a few weird values that you won't find normally. This is in AssemblyLinearVelocity, where you find the following values: 42.21, 38.624, 380.426. Additionally, if you have tried messing around with the Fuchsia model itself ingame, you can find out that the baseplate that is under the Ball is clickable. We can interpret this as a grid of 25x25, and the values, separated by a dot or a space, are the coordinates in where we must click. The glowing sign is where our anchor should be.</p>
+<p>If you click on the Fuchsia ball from the BRB secret, you are prompted to save a model. In this model, you can find that the ball is a union. If you separate the union, you will find another ball placed far away with a few weird values that you won't find normally. This is in AssemblyLinearVelocity, where you find the following values: 42.21, 38.624, 380.426. Additionally, if you have tried messing around with the Fuchsia model itself ingame, you can find out that the baseplate that is under the Ball is clickable. We can interpret this as a grid of 25x25, and the values, separated by a dot or a space, are the coordinates in where we must click. The glowing sign is where our anchor should be.</p>
 <p>From there, we obtain the following values: Row 2, Column 17<br>Row 1, Column 21<br>Row 2, Column 13<br>Row 25, Column 24<br>Row 16, Column 5<br>Row 18, Column 1.</p>
 <p>Now, we can map this to the Fuchsia grid as follows:</p>
 ![Fuchsia Grid](/images/secretuniverse/Fuchsia.png)
@@ -852,7 +852,7 @@ Once you do so, you can find a code written in the spawn of the map. Take note o
         <li>Official Solution: "Follow the instructions given in LaunchData attached to friend invites."</li>
         <li>Unlocks: ID Neighbors</li>
     </ul>
-    <p>This one is a bit funny. If you know how to intercept LaunchData as Roblox starts, this will be easy for you. When you invite someone from the board, 2 API requests get called. 1 of the API is a link-resolve request, where in the response, you will get "pastel blue_concrete_bullseye_linked sword_reveal thyself, secret!. Seeing this, you can figure out what to do. Go to the Ultraviolet baseplate changer, set the color to pastel blue, set the material to the concrete, stand in the middle of the bullseye while holding a linked sword, and say in the chat "reveal thyself, secret!</p>
+    <p>This one is a bit funny. If you know how to intercept LaunchData as Roblox starts, this will be easy for you. When you invite someone from the Horrible Invite Booth, 2 API requests get called. 1 of the API is a link-resolve request, where in the response, you will get "pastel blue_concrete_bullseye_linked sword_reveal thyself, secret!. Seeing this, you can figure out what to do. Go to the Ultraviolet baseplate changer, set the color to pastel blue, set the material to the concrete, stand in the middle of the bullseye while holding a linked sword, and say in the chat "reveal thyself, secret!</p>
 </div>
 <br>
 
