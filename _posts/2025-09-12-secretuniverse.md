@@ -861,15 +861,23 @@ Once you do so, you can find a code written in the spawn of the map. Take note o
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Subliminal Messaging [#63]</h2>
-    <ul>
-        <li>Difficulty: 831</li>
-        <li>Personal Difficulty: 727</li>
-        <li>Official Solution: "Follow the instructions given in LaunchData attached to friend invites."</li>
-        <li>Unlocks: ID Neighbors</li>
-    </ul>
-    <p>This one is a bit funny. If you know how to intercept LaunchData as Roblox starts, this will be easy for you. When you invite someone from the Horrible Invite Booth, 2 API requests get called. 1 of the API is a link-resolve request, where in the response, you will get "pastel blue_concrete_bullseye_linked sword_reveal thyself, secret!. Seeing this, you can figure out what to do. Go to the Ultraviolet baseplate changer, set the color to pastel blue, set the material to the concrete, stand in the middle of the bullseye while holding a linked sword, and say in the chat "reveal thyself, secret!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Subliminal Messaging [#63]</h2>
+<ul>
+<li>Difficulty: 831</li>
+<li>Personal Difficulty: 727</li>
+<li>Official Solution: "Follow the instructions given in LaunchData attached to friend invites."</li>
+<li>Unlocks: ID Neighbors</li>
+</ul>
+<p>When you share a link to other people to get the 'Guest' secret, it makes sense for it to be attached to a launchdata. How do we find it? Well, let's try sending a link to another account, and let's press join after having the network tab open.</p>
+
+<p>When you press join, the website makes a POST request to https://apis.roblox.com/sharelinks/v1/resolve-link. If you check the response, you will get this:</p>
+
+```json
+{"experienceInviteData":null,"friendInviteData":null,"notificationExperienceInviteData":{"status":"[Redacted]","inviterId":"[Redacted]","placeId":"[Redacted]","instanceId":null,"universeId":"[Redacted]","launchData":"pastel blue_concrete_bullseye_linked sword_reveal thyself, secret!"},"profileLinkResolutionResponseData":null,"screenshotInviteData":null,"privateServerInviteData":null,"experienceDetailsInviteData":null,"avatarItemDetailsData":null,"contentPostData":null,"experienceAffiliateData":null,"experienceEventData":null}
+```
+
+<p>Then, you can see the launchdata. You can interpret this as an instruction to set the baseplate color to pastel blue, the material to concrete, to stand on the bullseye holding a linked sword, and saying reveal thyself, secret!</p>
 </div>
 <br>
 
