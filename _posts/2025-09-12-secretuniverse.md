@@ -901,7 +901,7 @@ Once you do so, you can find a code written in the spawn of the map. Take note o
         <li>Official Solution: TO BE FOUND</li>
         <li>Unlocks: Swinburne's Chair</li>
     </ul>
-    <p>A lot of people claim to have leads on this. I believe they're all wrong! And I know why!</p>
+    <p>i know about this, don't i?</p>
 </div>
 <br>
 
@@ -931,7 +931,7 @@ Your goal? Annoy the shit out of that fucking ball. Repeat what it says until it
         <li>Official Solution: TO BE FOUND</li>
         <li>Unlocks: Box of Death</li>
     </ul>
-    <p>A lot of people also claim to have leads on this. I believe they're all wrong! And I know why!</p>
+    <p>i...do(n't) know...</p>
 </div>
 <br>
 
@@ -1107,15 +1107,172 @@ i have discovered most of the things here myself, such as the wordsy, but i have
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>StudReviewer [#75]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 57^617</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Alcatraz</li>
-    </ul>
-    <p>Funny reference to WoodReviewer from Nothcom.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>StudReviewer [#75]</h2>
+<ul>
+<li>Difficulty: 935</li>
+<li>Personal Difficulty: 940</li>
+<li>Bullshit Meter: 8/10</li>
+<li>Official Solution: "Complete the SurfaceType puzzle from 'Secret Meetup'"</li>
+<li>Unlocks: Alcatraz</li>
+</ul>
+<p>Fuck this puzzle. I had to rejoin to input my codes because my shit bugged out.</p>
+
+--------------------------------------------------------------PREPRODUCTION NOTES--------------------------------------------------------------
+
+<p>If you've seen Feodoric's Video, you'll realize a few things, one of them that is the most important is the fact that Historian, StudReviewer, and Identity Fraud was added on the same batch. Since Historian and Identity Fraud were related to the Uncopylocked Secret Meetup, that means StudReviewer should be in SM too. Keep in mind that Historian was in V1, Identity was added in V2+, which means that the remaining structure is the Spawner, which is also in V2+. Just thought it was worth mentioning.</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Right. Back to the puzzle. Let's analyze V2 of Secret Meetup. First thing you'd notice is that in StarterPack, there is an item called Spawner. You take the part out and put it in the workspace. Once you do so, you'll find out that it has...some really weird sizes!
+
+```xml
+<Vector3 name="size">
+    <X>77.6800003</X>
+    <Y>75.5599976</Y>
+    <Z>0.290000916</Z>
+</Vector3>
+```
+
+Ignoring floating point errors, we can take these numbers as 77.68, 75.56, and 0.29. What else is there that is not a default thing? Well, MaterialService has five materials: Inlet, Universal, Glue, Weld, and Studs. If you google this, they are the type of studs.
+
+![Stud Types](/images/secretuniverse/studtypes.png)
+
+Right. This is a good confirmer that we're doing StudReviewer. What else are we missing? The surface of the textures.
+
+![Surfaces Yeah!](/images/secretuniverse/surfacesss.png)
+
+Is that all? Maybe. But what do the sizes mean? Well, I found this on accident, so let me tell you how you're meant to solve it and put how I solved it in postproductions.
+
+Basically, if you see each material, they all have an ID attached to their ColorMap/NormalMap. Let's take a look at the ID for Weld, for example.
+
+```xml
+<Item class="MaterialVariant" referent="RBXb43cf8abb43741f8b62c3116d0b500f5">
+    <Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<token name="BaseMaterial">256</token>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<Content name="ColorMap"><url>rbxassetid://10509843977</url></Content>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+				<token name="MaterialPattern">0</token>
+				<Content name="MetalnessMap"><null></null></Content>
+				<string name="Name">Weld</string>
+				<Content name="NormalMap"><url>rbxassetid://10509844001</url></Content>
+				<Content name="RoughnessMap"><null></null></Content>
+				<int64 name="SourceAssetId">-1</int64>
+				<float name="StudsPerTile">2</float>
+				<BinaryString name="Tags"></BinaryString>
+				<Content name="TexturePack"><url>rbxassetid://135658353738004</url></Content>
+				<UniqueId name="UniqueId">6beb806f9068c777082a462f000000f2</UniqueId>
+    </Properties>
+</Item>
+```
+
+Do you see the fact that it has a ColorMap? Right, now take a look at the last 2 digits of it. 77. Hmm, that's weird, I wonder what's also 77? Oh, the size. Surely this is a coincidence? Let's take a look at Universal!
+
+```xml
+<Item class="MaterialVariant" referent="RBXc185b25dfd5e48d09658ce440750513c">
+    <Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<token name="BaseMaterial">256</token>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<Content name="ColorMap"><url>rbxassetid://10509840768</url></Content>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+				<token name="MaterialPattern">0</token>
+				<Content name="MetalnessMap"><null></null></Content>
+				<string name="Name">Universal</string>
+				<Content name="NormalMap"><url>rbxassetid://10509840812</url></Content>
+				<Content name="RoughnessMap"><null></null></Content>
+				<int64 name="SourceAssetId">-1</int64>
+				<float name="StudsPerTile">2</float>
+				<BinaryString name="Tags"></BinaryString>
+				<Content name="TexturePack"><url>rbxassetid://137811437796926</url></Content>
+				<UniqueId name="UniqueId">6beb806f9068c777082a462f000000f1</UniqueId>
+    </Properties>
+</Item>
+```
+
+The ColorMap's 2 last digits is 68...And the second digit is 68, from 77.68.
+
+Well, turns out, they sizes are the ColorMap of each of them, and ordering them gives you the following:
+<br>
+77 -> Weld<br>
+68 -> Universal<br>
+75 -> Inlet<br>
+56 -> Glue<br>
+0  -> Smooth<br>
+29 -> Studs<br>
+<br>
+
+The reason why Smooth is 0 is because it does not have an ID. Now, what do we do with it? Well, we can use the Texture Surfaces to determine which part of them you needed to click.
+
+<br>
+Top face of Weld<br>
+Bottom face of universal<br>
+Right face of inlet<br>
+Left face of glue<br>
+Back face of smooth<br>
+Front face of studs<br>
+<br>
+
+But how do we determine the orientation? Well, some things to note. If you see the Spawner, it has an upside down smile at the top of the handle part. You know what also has an upside down smile? The Spawn (as if Spawner wasn't that big of a hint already.)
+
+![The Spawn](/images/secretuniverse/spawnstructure.png)
+
+Additionally, we must follow the orientation based on the spawner. This means that Right and Left are inverted.
+
+Right, so we have the order. What now? Well, right above, we have the order. Let's start with the top part of weld. We have to click the top part of weld, and any weld is a top part here, so let's do that.
+
+![Weld](/images/secretuniverse/weld1.png)
+
+Next, the bottom face of universal. The easiest way to do so is to click this surface.
+
+![Universal](/images/secretuniverse/universal2.png)
+
+Next, right face of inlet. Since the right side of the spawner turns out to be the left side:
+
+![Inverted](/images/secretuniverse/spawner.png)
+
+We need to click the left side.
+
+![Inlet](/images/secretuniverse/inlet3.png)
+
+Next, the left face of Glue. Similar to earlier, the left side of glue is the right.
+
+![Glue](/images/secretuniverse/glue4.png)
+
+Next, the back face of smooth. Remember since its inverted, we use the front part. The following that is highlighted is the back part of smooth.
+
+![Spawner, Too!](/images/secretuniverse/asospawner.png)
+
+That means, we need to click the front side of a smooth stud.
+
+![Smooth](/images/secretuniverse/smooth.png)
+
+And lastly, the front face of studs. In the spawner, this is the back. So let's click it.
+
+![Studs](/images/secretuniverse/andlastlystuds.png)
+
+And...YAY!!! GGG!!! You got it!
+
+--------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
+
+Right. We found it on accident while trying to find the string of numbers. Ooops.
+
+![SHIT!](/images/secretuniverse/fuckass.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 </div>
 <br>
 
@@ -1275,7 +1432,7 @@ Oh, yep! That's Identity Fraud! Nice!
         <li>Official Solution: TO BE FOUND</li>
         <li>Unlocks: Anything Island</li>
     </ul>
-    <p>Out of all the unsolved ones, this is probably the one with the most progress that I have.</p>
+    <p>if you saw something here, you didn't. ignore it. pls..</p>
 </div>
 <br>
 
