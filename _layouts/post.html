@@ -38,5 +38,7 @@ layout: default
   {% include disqus.html %}
 </article>
 
+{% if page.has_secret_index %}
 <script src="{{ '/assets/anchor.js' | relative_url }}"></script>
 <script src="{{ '/assets/puzzle-styler.js' | relative_url }}"></script>
+{% endif %}

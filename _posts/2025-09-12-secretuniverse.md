@@ -3,6 +3,7 @@ layout: post
 title: Secret Universe, All Secrets Fully Explained
 categories: Puzzling
 excerpt: The following contains all of Secret Universe's Secrets, explained. Hopefully you can learn something from this.
+has_secret_index: true
 ---
 
 It's worth noting that everything here will be explained in order of badges.
