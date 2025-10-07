@@ -30,8 +30,8 @@ i also volunteer for organizations, most notable feat was mentoring students in 
 as a typical southeast asian person, of course i play rhythm games. mostly chunimai & mobile rgs, but hey if you're curious here's my feats
 
 - Phigros: 16.00
-- Chunithm: 15.44
-- maimai: 5852
+- Chunithm: 15.93
+- maimai: 13281
 - PJSK: diff 32 fc
 
 ---
@@ -50,6 +50,7 @@ i'm also a puzzler. i do puzzles since 2019-2020, and i have a few achievements 
 - MITMH 2023 (w/DGCMITMH) (also didn't get far)
 - MITMH 2024 (w/LAF) (finished!)
 - Find The Chomiks: Über Secret Chomik First Victor
+- Secret Universe: Historian First Victor
 
 also, there might be puzzles in my website someday.
 
@@ -59,6 +60,6 @@ also, there might be puzzles in my website someday.
 
 currently mainly grinding hypixel skyblock
 
-skycrypt: https://sky.shiiyu.moe/stats/kittyboyfailure
+skycrypt: https://sky.shiiyu.moe/stats/Pawthetic
 
-![Nadeshiko Stats](/images/nadeshiko.png)
+![Nadeshiko Stats](https://nadeshiko.io/card/eyJuYW1lIjoiUGF3dGhldGljIiwiZ2FtZSI6IlNLWUJMT0NLX0dFTkVSQUwiLCJzaXplIjoiRk9SVU1TIn0=)

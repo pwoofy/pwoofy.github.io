@@ -14,6 +14,8 @@ So I made this project, which basically simplifies API Scanning to just inputtin
 
 Link: <https://github.com/pwoofy/API-Scanner/>
 
+IMPORTANT: AS OF RECENTLY I TOOK THIS PROJECT DOWN TO WORK ON THE V2 VERSION OF THIS.
+
 Instructions are provided in the github page.
 
 ### Glaceon Bot

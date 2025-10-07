@@ -11,306 +11,306 @@ Any inquiries? Feel free to DM me on discord: @orchidcaretaker
 
 ALL SECRETS WILL FOLLOW THE FOLLOWING FORMAT:
 
-<div class="puzzle-entry" >
-    <h2>ExamplePuzzle</h2>
-    <ul>
-        <li>Difficulty: </li>
-        <li>Personal Difficulty: </li>
-        It's worth noting that if I write the personal difficulty as XYZ (ABC), the XYZ means that I'm considering in it as a whole, and ABC means that I'm considering it for just the puzzle.
-        <li>Official Solution: </li>
-        <li>Unlocks: </li>
-    </ul>
-    The following are optional, and won't show up in the explanation of all secrets:
-    <ul>
-        <li>Personal Opinion: </li>
-        <li>Puzzle Award: </li>
-        <li>Bullshit Meter: </li>
-    </ul>
-    <p>The full solution will be written after the above..</p>
+<div class="puzzle-entry" markdown="1">
+<h2>ExamplePuzzle</h2>
+<ul>
+<li>Difficulty: </li>
+<li>Personal Difficulty: </li>
+It's worth noting that if I write the personal difficulty as XYZ (ABC), the XYZ means that I'm considering in it as a whole, and ABC means that I'm considering it for just the puzzle.
+<li>Official Solution: </li>
+<li>Unlocks: </li>
+</ul>
+The following are optional, and won't show up in the explanation of all secrets:
+<ul>
+<li>Personal Opinion: </li>
+<li>Puzzle Award: </li>
+<li>Bullshit Meter: </li>
+</ul>
+<p>The full solution will be written after the above..</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Secret Universe [#1]</h2>
-    <ul>
-        <li>Difficulty: 1</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Play the game for the first time"</li>
-        <li>Unlocks: Spawn</li>
-    </ul>
-    <p>This should be obvious. You join the game, and you get it.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Secret Universe [#1]</h2>
+<ul>
+<li>Difficulty: 1</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Play the game for the first time"</li>
+<li>Unlocks: Spawn</li>
+</ul>
+<p>This should be obvious. You join the game, and you get it.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>First Steps [#2]</h2>
-    <ul>
-        <li>Difficulty: 5</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Take 10 steps."</li>
-        <li>Unlocks: Spawn Paths</li>
-    </ul>
-    <p>I mean, what the hell, sure??? Just...Walk??????</p>
+<div class="puzzle-entry" markdown="1">
+<h2>First Steps [#2]</h2>
+<ul>
+<li>Difficulty: 5</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Take 10 steps."</li>
+<li>Unlocks: Spawn Paths</li>
+</ul>
+<p>I mean, what the hell, sure??? Just...Walk??????</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Loud and Proud [#3]</h2>
-    <ul>
-        <li>Difficulty: 15</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Send a chat message in any channel."</li>
-        <li>Unlocks: Chat Bubble</li>
-    </ul>
-    <p>Why am I explaining the easier secrets... Anyways, you just type anything in chat.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Loud and Proud [#3]</h2>
+<ul>
+<li>Difficulty: 15</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Send a chat message in any channel."</li>
+<li>Unlocks: Chat Bubble</li>
+</ul>
+<p>Why am I explaining the easier secrets... Anyways, you just type anything in chat.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Jumper [#4]</h2>
-    <ul>
-        <li>Difficulty: 5</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Jump 10 times."</li>
-        <li>Unlocks: Spawn Stairs</li>
-    </ul>
-    <p>Should be obvious from the name, you should just keep on jumping until you get it.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Jumper [#4]</h2>
+<ul>
+<li>Difficulty: 5</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Jump 10 times."</li>
+<li>Unlocks: Spawn Stairs</li>
+</ul>
+<p>Should be obvious from the name, you should just keep on jumping until you get it.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Star [#5]</h2>
-    <ul>
-        <li>Difficulty: 18</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Favorite the game."</li>
-        <li>Unlocks: Star</li>
-    </ul>
-    <p>Part of the join checklist, you are told to favorite the game.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Star [#5]</h2>
+<ul>
+<li>Difficulty: 18</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Favorite the game."</li>
+<li>Unlocks: Star</li>
+</ul>
+<p>Part of the join checklist, you are told to favorite the game.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Welcome To The Club [#6]</h2>
-    <ul>
-        <li>Difficulty: 32</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Join the 'Vocational' Group."</li>
-        <li>Unlocks: Horrible Invite Booth</li>
-    </ul>
-    <p>Part of the join checklist.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Welcome To The Club [#6]</h2>
+<ul>
+<li>Difficulty: 32</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Join the 'Vocational' Group."</li>
+<li>Unlocks: Horrible Invite Booth</li>
+</ul>
+<p>Part of the join checklist.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Social Butterfly [#7]</h2>
-    <ul>
-        <li>Difficulty: 16</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Send a message in the global chat."</li>
-        <li>Unlocks: Multiplayer Portal</li>
-    </ul>
-    <p>Part of the join checklist as well.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Social Butterfly [#7]</h2>
+<ul>
+<li>Difficulty: 16</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Send a message in the global chat."</li>
+<li>Unlocks: Multiplayer Portal</li>
+</ul>
+<p>Part of the join checklist as well.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Meet Your Maker [#8]</h2>
-    <ul>
-        <li>Difficulty: 24</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Reset your character."</li>
-        <li>Unlocks: SpawnLocation</li>
-    </ul>
-    <p>This should be one of the things you try at the start.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Meet Your Maker [#8]</h2>
+<ul>
+<li>Difficulty: 24</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Reset your character."</li>
+<li>Unlocks: SpawnLocation</li>
+</ul>
+<p>This should be one of the things you try at the start.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Yippee! [#9]</h2>
-    <ul>
-        <li>Difficulty: 29</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Do the '/e cheer' emote."</li>
-        <li>Unlocks: Happy Trinket</li>
-    </ul>
-    <p>This should be part of the things you try out at the start.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Yippee! [#9]</h2>
+<ul>
+<li>Difficulty: 29</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Do the '/e cheer' emote."</li>
+<li>Unlocks: Happy Trinket</li>
+</ul>
+<p>This should be part of the things you try out at the start.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Look! [#10]</h2>
-    <ul>
-        <li>Difficulty: 30</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Do the '/e point' emote."</li>
-        <li>Personal Opinion: WHY THE FUCK IS THIS 1 HIGHER THAN YIPPEE????</li>
-        <li>Unlocks: Aware Trinket</li>
-    </ul>
-    <p>Part of the things you try out at the start as well.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Look! [#10]</h2>
+<ul>
+<li>Difficulty: 30</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Do the '/e point' emote."</li>
+<li>Personal Opinion: WHY THE FUCK IS THIS 1 HIGHER THAN YIPPEE????</li>
+<li>Unlocks: Aware Trinket</li>
+</ul>
+<p>Part of the things you try out at the start as well.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Dance Now [#11]</h2>
-    <ul>
-        <li>Difficulty: 25</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Do any of the '/e dance' emote."</li>
-        <li>Unlocks: Flamboyant Trinket</li>
-    </ul>
-    <p>Part of the things you try out at the start as well.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Dance Now [#11]</h2>
+<ul>
+<li>Difficulty: 25</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Do any of the '/e dance' emote."</li>
+<li>Unlocks: Flamboyant Trinket</li>
+</ul>
+<p>Part of the things you try out at the start as well.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Heheheha! [#12]</h2>
-    <ul>
-        <li>Difficulty: 25</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Do the '/e laugh' emote."</li>
-        <li>Unlocks: Grating Trinknet</li>
-    </ul>
-    <p>Part of the things you try out at the start as well.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Heheheha! [#12]</h2>
+<ul>
+<li>Difficulty: 25</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Do the '/e laugh' emote."</li>
+<li>Unlocks: Grating Trinknet</li>
+</ul>
+<p>Part of the things you try out at the start as well.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Marathon [#13]</h2>
-    <ul>
-        <li>Difficulty: 130</li>
-        <li>Personal Difficulty: 20</li>
-        <li>Official Solution: "Take 1000 steps."</li>
-        <li>Unlocks: Magic Elevator</li>
-    </ul>
-    <p>As the name suggests, you will need to walk quite a lot for this one.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Marathon [#13]</h2>
+<ul>
+<li>Difficulty: 130</li>
+<li>Personal Difficulty: 20</li>
+<li>Official Solution: "Take 1000 steps."</li>
+<li>Unlocks: Magic Elevator</li>
+</ul>
+<p>As the name suggests, you will need to walk quite a lot for this one.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Expressive [#14]</h2>
-    <ul>
-        <li>Difficulty: 38</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Perform all 5 '/e' emotes. ('/e dance' variations being grouped into one)"</li>
-        <li>Unlocks: Unidentified Statue</li>
-    </ul>
-    <p>If you had the previous badges, you should already have this as well.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Expressive [#14]</h2>
+<ul>
+<li>Difficulty: 38</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Perform all 5 '/e' emotes. ('/e dance' variations being grouped into one)"</li>
+<li>Unlocks: Unidentified Statue</li>
+</ul>
+<p>If you had the previous badges, you should already have this as well.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Check It [#15]</h2>
-    <ul>
-        <li>Difficulty: 101</li>
-        <li>Personal Difficulty: 30</li>
-        <li>Official Solution: "Complete the checklist at spawn."</li>
-        <li>Unlocks: Central Shop</li>
-    </ul>
-    <p>You should complete the checklist you see at the spawn!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Check It [#15]</h2>
+<ul>
+<li>Difficulty: 101</li>
+<li>Personal Difficulty: 30</li>
+<li>Official Solution: "Complete the checklist at spawn."</li>
+<li>Unlocks: Central Shop</li>
+</ul>
+<p>You should complete the checklist you see at the spawn!</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Outsider [#16]</h2>
-    <ul>
-        <li>Difficulty: 222</li>
-        <li>Personal Difficulty: 50</li>
-        <li>Official Solution: "Teleport into the game from a different one."</li>
-        <li>Unlocks: Badger</li>
-    </ul>
-    <p>This is very easy if you joined from 'Better Discovery', as indicated by one of the signs. This also grants you a
-        Super Secret.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Outsider [#16]</h2>
+<ul>
+<li>Difficulty: 222</li>
+<li>Personal Difficulty: 50</li>
+<li>Official Solution: "Teleport into the game from a different one."</li>
+<li>Unlocks: Badger</li>
+</ul>
+<p>This is very easy if you joined from 'Better Discovery', as indicated by one of the signs. This also grants you a
+Super Secret.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Hello! [#17]</h2>
-    <ul>
-        <li>Difficulty: 26</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Do the '/e wave' emote."</li>
-        <li>Unlocks: Conscious Trinket</li>
-    </ul>
-    <p>Part of the things you try out at the start.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Hello! [#17]</h2>
+<ul>
+<li>Difficulty: 26</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Do the '/e wave' emote."</li>
+<li>Unlocks: Conscious Trinket</li>
+</ul>
+<p>Part of the things you try out at the start.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Elevator Traveling [#18]</h2>
-    <ul>
-        <li>Difficulty: 301</li>
-        <li>Personal Difficulty: 250</li>
-        <li>Official Solution: "Complete the Magic Elevator Trials."</li>
-        <li>Unlocks: there are many secrets</li>
-    </ul>
-    <p>You unlock the structure for the Magic Elevator from Marathon. You complete a set of trials.
+<div class="puzzle-entry" markdown="1">
+<h2>Elevator Traveling [#18]</h2>
+<ul>
+<li>Difficulty: 301</li>
+<li>Personal Difficulty: 250</li>
+<li>Official Solution: "Complete the Magic Elevator Trials."</li>
+<li>Unlocks: there are many secrets</li>
+</ul>
+<p>You unlock the structure for the Magic Elevator from Marathon. You complete a set of trials.
 
-        The first floor requires you to navigate a ball through a maze by only moving the elevator.
-        The second floor requires you to obtain a key from the obby, continuing until you unlock the lock.
-        The third floor requires you to order some blocks in such a way that they touch the white rectangle.</p>
+The first floor requires you to navigate a ball through a maze by only moving the elevator.
+The second floor requires you to obtain a key from the obby, continuing until you unlock the lock.
+The third floor requires you to order some blocks in such a way that they touch the white rectangle.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Voidseeker [#19]</h2>
-    <ul>
-        <li>Difficulty: 31</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Try to swim in the void."</li>
-        <li>Unlocks: Money Island</li>
-    </ul>
-    <p>Part of the things you try out at the start as well.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Voidseeker [#19]</h2>
+<ul>
+<li>Difficulty: 31</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Try to swim in the void."</li>
+<li>Unlocks: Money Island</li>
+</ul>
+<p>Part of the things you try out at the start as well.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Danse Macabre [#20]</h2>
-    <ul>
-        <li>Difficulty: 206</li>
-        <li>Personal Difficulty: 200</li>
-        <li>Official Solution: "Die while dancing."</li>
-        <li>Unlocks: Tree</li>
-    </ul>
-    <p>If you search up "Danse Macabre" on google, you get the synonym for this word, which is "dance of death". From
-        here, you can put the pieces together and reset character while dancing.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Danse Macabre [#20]</h2>
+<ul>
+<li>Difficulty: 206</li>
+<li>Personal Difficulty: 200</li>
+<li>Official Solution: "Die while dancing."</li>
+<li>Unlocks: Tree</li>
+</ul>
+<p>If you search up "Danse Macabre" on google, you get the synonym for this word, which is "dance of death". From
+here, you can put the pieces together and reset character while dancing.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Very Important Person [#21]</h2>
-    <ul>
-        <li>Difficulty: 42</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Join the game through a private server."</li>
-        <li>Unlocks: Minesweeper</li>
-    </ul>
-    <p>Very Important Person. VIP. Makes sense.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Very Important Person [#21]</h2>
+<ul>
+<li>Difficulty: 42</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Join the game through a private server."</li>
+<li>Unlocks: Minesweeper</li>
+</ul>
+<p>Very Important Person. VIP. Makes sense.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>To whom it may concern, [#22]</h2>
-    <ul>
-        <li>Difficulty: 720</li>
-        <li>Personal Difficulty: 650 (1)</li>
-        <li>Official Solution: "Read a note from the Writer's Ruins structure."</li>
-        <li>Personal Opinion: THE 10 IN MY PERSONAL DIFFICULTY HERE JUST MEANS THAT THIS SECRET BY ITSELF IS A
-            DIFFICULTY 1. THE REASON THIS SECRET IS A 720 BECAUSE IT HAS A PREREQUISITE.</li>
-        <li>Unlocks: P.S: Fun facts about you</li>
-    </ul>
-    <p>Read notes that you obtain in the Writer's Ruins, which is obtained from Compact Contour.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>To whom it may concern, [#22]</h2>
+<ul>
+<li>Difficulty: 720</li>
+<li>Personal Difficulty: 650 (1)</li>
+<li>Official Solution: "Read a note from the Writer's Ruins structure."</li>
+<li>Personal Opinion: THE 10 IN MY PERSONAL DIFFICULTY HERE JUST MEANS THAT THIS SECRET BY ITSELF IS A
+DIFFICULTY 1. THE REASON THIS SECRET IS A 720 BECAUSE IT HAS A PREREQUISITE.</li>
+<li>Unlocks: P.S: Fun facts about you</li>
+</ul>
+<p>Read notes that you obtain in the Writer's Ruins, which is obtained from Compact Contour.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>#%!& [#23]</h2>
-    <ul>
-        <li>Difficulty: 159</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Send a message in the chat which gets tagged."</li>
-        <li>Unlocks: Mr. Angry</li>
-    </ul>
-    <p>Swearing usually works for this secret, so you can type Shit in the chat.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>#%!& [#23]</h2>
+<ul>
+<li>Difficulty: 159</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Send a message in the chat which gets tagged."</li>
+<li>Unlocks: Mr. Angry</li>
+</ul>
+<p>Swearing usually works for this secret, so you can type Shit in the chat.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Help Wanted [#24]</h2>
-    <ul>
-        <li>Difficulty: 123</li>
-        <li>Personal Difficulty: 40</li>
-        <li>Official Solution: "Type '/help' in chat."</li>
-        <li>Unlocks: Elite Door</li>
-    </ul>
-    <p>If you went through all emotions, you might have already tried this. /help is a command in roblox.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Help Wanted [#24]</h2>
+<ul>
+<li>Difficulty: 123</li>
+<li>Personal Difficulty: 40</li>
+<li>Official Solution: "Type '/help' in chat."</li>
+<li>Unlocks: Elite Door</li>
+</ul>
+<p>If you went through all emotions, you might have already tried this. /help is a command in roblox.</p>
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Silence! [#25]</h2>
-    <ul>
-        <li>Difficulty: 29</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Mute the music."</li>
-        <li>Unlocks: Infinitower</li>
-    </ul>
-    <p>You simply mute the music! Simple!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Silence! [#25]</h2>
+<ul>
+<li>Difficulty: 29</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Mute the music."</li>
+<li>Unlocks: Infinitower</li>
+</ul>
+<p>You simply mute the music! Simple!</p>
 </div>
 <br>
 
@@ -328,20 +328,20 @@ ALL SECRETS WILL FOLLOW THE FOLLOWING FORMAT:
 ```lua
 local TPS = game:GetService("TeleportService")
 script.Parent.Touched:Connect(function(Hit)
-    TPS:TeleportToSpawnByName(137630300324059, 'Shark', game.Players:GetPlayerFromCharacter(Hit.Parent))
+TPS:TeleportToSpawnByName(137630300324059, 'Shark', game.Players:GetPlayerFromCharacter(Hit.Parent))
 end)
 ```
 </div>
 
-<div class="puzzle-entry" >
-    <h2>Heartless [#27]</h2>
-    <ul>
-        <li>Difficulty: 355</li>
-        <li>Personal Difficulty: 105</li>
-        <li>Official Solution: "Throw the valentine into the void."</li>
-        <li>Unlocks: 💔 </li>
-    </ul>
-    <p>"Heartless" implies that you have to do something with the heart. If you have a subspace tripmine, you can easily blow up the valentines on accident, which means that this is much easier of a secret than its written!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Heartless [#27]</h2>
+<ul>
+<li>Difficulty: 355</li>
+<li>Personal Difficulty: 105</li>
+<li>Official Solution: "Throw the valentine into the void."</li>
+<li>Unlocks: 💔 </li>
+</ul>
+<p>"Heartless" implies that you have to do something with the heart. If you have a subspace tripmine, you can easily blow up the valentines on accident, which means that this is much easier of a secret than its written!</p>
 </div>
 <br>
 
@@ -392,59 +392,59 @@ print("Finished prompting for all assets.")
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>MY EYES!!!!!!!!! [#29]</h2>
-    <ul>
-        <li>Difficulty: 509</li>
-        <li>Personal Difficulty: 403 (10)</li>
-        <li>Official Solution: "Set the weather machine to maximum brightness."</li>
-        <li>Unlocks: Cool Sunglasses</li>
-    </ul>
-    <p>You can solve this by just fucking around with the weather machine you obtained from Task Master.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>MY EYES!!!!!!!!! [#29]</h2>
+<ul>
+<li>Difficulty: 509</li>
+<li>Personal Difficulty: 403 (10)</li>
+<li>Official Solution: "Set the weather machine to maximum brightness."</li>
+<li>Unlocks: Cool Sunglasses</li>
+</ul>
+<p>You can solve this by just fucking around with the weather machine you obtained from Task Master.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Comeuppance [#30]</h2>
-    <ul>
-        <li>Difficulty: 825</li>
-        <li>Personal Difficulty: 750 (620)</li>
-        <li>Official Solution: "Get the eye to laser the laughing emoji."</li>
-        <li>Unlocks: A Game Of Secrets</li>
-    </ul>
-    <p>You all had it easy. Comeuppance used to have no badge icon, so I just thought that since comeuppance is a "deserved penalty", what in the map deserves a penalty from the eye? The laughing face. This just means that you should shoot the laughing emoji. However, since there is a badge now, you can just use your logic to shoot it.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Comeuppance [#30]</h2>
+<ul>
+<li>Difficulty: 825</li>
+<li>Personal Difficulty: 750 (620)</li>
+<li>Official Solution: "Get the eye to laser the laughing emoji."</li>
+<li>Unlocks: A Game Of Secrets</li>
+</ul>
+<p>You all had it easy. Comeuppance used to have no badge icon, so I just thought that since comeuppance is a "deserved penalty", what in the map deserves a penalty from the eye? The laughing face. This just means that you should shoot the laughing emoji. However, since there is a badge now, you can just use your logic to shoot it.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>6 times 2 [#31]</h2>
-    <ul>
-        <li>Difficulty: 555</li>
-        <li>Personal Difficulty: 555</li>
-        <li>Official Solution: "Complete the Mr. Angry '#%!&' puzzle."</li>
-        <li>Unlocks: Trinitrotoluene</li>
-    </ul>
-    <p>If you have messed around with the Angry Emoji, you can realize you can click on it and it will turn. Through logical deduction, we can figure out that #%!& translates to 3517, because if you press Shift+3, you get #, and so on and so forth. You use the angry face as an input, but you interpret the angry face as a clock. To go from 12 to 3, you press 3 times. To go from 3 to 5, you press 2 times. To go from 5 to 1, you press 8 (5+8 = 13 - 12 = 1) times, and to go from 1 to 7, you press 6 times. Thus, the input code is 3286</p>
+<div class="puzzle-entry" markdown="1">
+<h2>6 times 2 [#31]</h2>
+<ul>
+<li>Difficulty: 555</li>
+<li>Personal Difficulty: 555</li>
+<li>Official Solution: "Complete the Mr. Angry '#%!&' puzzle."</li>
+<li>Unlocks: Trinitrotoluene</li>
+</ul>
+<p>If you have messed around with the Angry Emoji, you can realize you can click on it and it will turn. Through logical deduction, we can figure out that #%!& translates to 3517, because if you press Shift+3, you get #, and so on and so forth. You use the angry face as an input, but you interpret the angry face as a clock. To go from 12 to 3, you press 3 times. To go from 3 to 5, you press 2 times. To go from 5 to 1, you press 8 (5+8 = 13 - 12 = 1) times, and to go from 1 to 7, you press 6 times. Thus, the input code is 3286</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Remote Viewing [#32]</h2>
-    <ul>
-        <li>Difficulty: 849</li>
-        <li>Personal Difficulty: 820 (300)</li>
-        <li>Official Solution: "Survive the Demon Core's explosion."</li>
-        <li>Unlocks: Secrets Are Everywhere</li>
-    </ul>
-    <p>You can kind of realize that your goal is to survive when you first detonated the Demon Core that you get from solving Compound Nouns. You can realize that you can survive this after a certain height in the infinitower.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Remote Viewing [#32]</h2>
+<ul>
+<li>Difficulty: 849</li>
+<li>Personal Difficulty: 820 (300)</li>
+<li>Official Solution: "Survive the Demon Core's explosion."</li>
+<li>Unlocks: Secrets Are Everywhere</li>
+</ul>
+<p>You can kind of realize that your goal is to survive when you first detonated the Demon Core that you get from solving Compound Nouns. You can realize that you can survive this after a certain height in the infinitower.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
+<div class="puzzle-entry" markdown="1">
 <h2>Puthing Around [#33]</h2>
 <ul>
-<li>Difficulty: UNKNOWN</li>
-<li>Personal Difficulty: 9^29</li>
+<li>Difficulty: 842</li>
+<li>Personal Difficulty: UNKNOWN</li>
 <li>Official Solution: TO BE FOUND</li>
 <li>Unlocks: roblox game!</li>
 </ul>
@@ -452,121 +452,121 @@ print("Finished prompting for all assets.")
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Post-Mortem [#34]</h2>
-    <ul>
-        <li>Difficulty: 351</li>
-        <li>Personal Difficulty: 200</li>
-        <li>Official Solution: "Hit a checkpoint in the easy obby while dead."</li>
-        <li>Unlocks: Indoor Obby</li>
-    </ul>
-    <p>You can figure out from the badge icon that you have to do something with resetting character (hence, post-mortem). The only place you can sort of die while hitting a finish line is by dying while hitting a checkpoint.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Post-Mortem [#34]</h2>
+<ul>
+<li>Difficulty: 351</li>
+<li>Personal Difficulty: 200</li>
+<li>Official Solution: "Hit a checkpoint in the easy obby while dead."</li>
+<li>Unlocks: Indoor Obby</li>
+</ul>
+<p>You can figure out from the badge icon that you have to do something with resetting character (hence, post-mortem). The only place you can sort of die while hitting a finish line is by dying while hitting a checkpoint.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Random Number Generation [#35]</h2>
-    <ul>
-        <li>Difficulty: 277</li>
-        <li>Personal Difficulty: 30</li>
-        <li>Official Solution: "Touch the Rainberge which spawns on the baseplate with a 1/1000 chance every second"</li>
-        <li>Unlocks: Super Secret Checklist</li>
-    </ul>
-    <p>The server will randomly send a message saying the Rainberge has spawned. You just have to find it in the map.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Random Number Generation [#35]</h2>
+<ul>
+<li>Difficulty: 277</li>
+<li>Personal Difficulty: 30</li>
+<li>Official Solution: "Touch the Rainberge which spawns on the baseplate with a 1/1000 chance every second"</li>
+<li>Unlocks: Super Secret Checklist</li>
+</ul>
+<p>The server will randomly send a message saying the Rainberge has spawned. You just have to find it in the map.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Sharpshooter [#36]</h2>
-    <ul>
-        <li>Difficulty: 401</li>
-        <li>Personal Difficulty: 300</li>
-        <li>Official Solution: "Walk the plank on floor 10 of the Infinitower and hit a bullseye on the 'Target' Structure"</li>
-        <li>Unlocks: Running Track</li>
-    </ul>
-    <p>This is something you kinda have to try out for yourself. You'll figure out logically that you can drop to the bullseye from any height.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Sharpshooter [#36]</h2>
+<ul>
+<li>Difficulty: 401</li>
+<li>Personal Difficulty: 300</li>
+<li>Official Solution: "Walk the plank on floor 10 of the Infinitower and hit a bullseye on the 'Target' Structure"</li>
+<li>Unlocks: Running Track</li>
+</ul>
+<p>This is something you kinda have to try out for yourself. You'll figure out logically that you can drop to the bullseye from any height.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Hackerman [#37]</h2>
-    <ul>
-        <li>Difficulty: 60</li>
-        <li>Personal Difficulty: 80</li>
-        <li>Official Solution: "Open the developer console"</li>
-        <li>Personal Opinion: No way this shit is a 60 wtf</li>
-        <li>Unlocks: RandomMoneyMaker 9000™</li>
-    </ul>
-    <p>You press F9. Should be something you think of at the start.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Hackerman [#37]</h2>
+<ul>
+<li>Difficulty: 60</li>
+<li>Personal Difficulty: 80</li>
+<li>Official Solution: "Open the developer console"</li>
+<li>Personal Opinion: No way this shit is a 60 wtf</li>
+<li>Unlocks: RandomMoneyMaker 9000™</li>
+</ul>
+<p>You press F9. Should be something you think of at the start.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Ultraviolet [#38]</h2>
-    <ul>
-        <li>Difficulty: 789</li>
-        <li>Personal Difficulty: 840</li>
-        <li>Official Solution: "Equip body colors visible on the statue through the magnifying glass while the game window is unfocused."</li>
-        <li>Bullshit Meter: 7/10</li>
-        <li>Personal Opinion: BULLSHIT</li>
-        <li>Unlocks: Baseplate Control Panel</li>
-    </ul>
-    <p>This one is a bit stupid. You first need the Magnifying Glass from the Photobomb structure. Once you do that, you can "let light pass through your magnifying glass" by tabbing out while keeping your magnifying glass facing the statue. Doing so, you get the following colors:</p>
-    Head: White (Very White)<br>
-    Torso, Left Arm, Right Arm: Piss Yellow (very yellow)<br>
-    Left Leg, Right Leg: Bright Green (Very Green)<br>
-    <p>Equipping these colors as your avatar, you unlock the Ultraviolet secret.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Ultraviolet [#38]</h2>
+<ul>
+<li>Difficulty: 789</li>
+<li>Personal Difficulty: 840</li>
+<li>Official Solution: "Equip body colors visible on the statue through the magnifying glass while the game window is unfocused."</li>
+<li>Bullshit Meter: 7/10</li>
+<li>Personal Opinion: BULLSHIT</li>
+<li>Unlocks: Baseplate Control Panel</li>
+</ul>
+<p>This one is a bit stupid. You first need the Magnifying Glass from the Photobomb structure. Once you do that, you can "let light pass through your magnifying glass" by tabbing out while keeping your magnifying glass facing the statue. Doing so, you get the following colors:</p>
+Head: White (Very White)<br>
+Torso, Left Arm, Right Arm: Piss Yellow (very yellow)<br>
+Left Leg, Right Leg: Bright Green (Very Green)<br>
+<p>Equipping these colors as your avatar, you unlock the Ultraviolet secret.</p>
 
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Ultraviolent [#39]</h2>
-    <ul>
-        <li>Difficulty: 789</li>
-        <li>Personal Difficulty: 702</li>
-        <li>Official Solution: "Load an eye accessory onto the statue and die to its laser."</li>
-        <li>Unlocks: Paint Yourself!</li>
-    </ul>
-    <p>Once you obtained the Statue Identifier from Titan Attack, you can find out that you can load eyes on to the statue, which causes a weird behavior where it shoots laser to you. Simply die to the laser.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Ultraviolent [#39]</h2>
+<ul>
+<li>Difficulty: 789</li>
+<li>Personal Difficulty: 702</li>
+<li>Official Solution: "Load an eye accessory onto the statue and die to its laser."</li>
+<li>Unlocks: Paint Yourself!</li>
+</ul>
+<p>Once you obtained the Statue Identifier from Titan Attack, you can find out that you can load eyes on to the statue, which causes a weird behavior where it shoots laser to you. Simply die to the laser.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Compound Nouns [#40]</h2>
-    <ul>
-        <li>Difficulty: 808</li>
-        <li>Personal Difficulty: 839</li>
-        <li>Official Solution: "Input the chemical formula of Trinitrotoluene on the laughing emoji."</li>
-        <li>Bullshit Meter: 7/10</li>
-        <li>Personal Opinion: are you fr</li>
-        <li>Unlocks: The Demon Core</li>
-    </ul>
-    <p>If you can see the list of things that the laughing emoji can point to, one of them is the chemical compound for Trinitrotoluene. TNT has a molecular formula of C7H5N3O6. You might find that, at first, clicking 7 -> 5 -> 3 -> 6 doesn't work. This is because you have to click in order to reach that point, such as it will be similar to a clock showing 7PM, 5PM, 3PM, 6PM. You click 7 times to reach 7PM, then you click 10 times (7 + 10 = 17 - 12 = 5), then you click 10 times again (5 + 10 = 15 - 12 = 3), then you click it 3 times to reach 6PM.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Compound Nouns [#40]</h2>
+<ul>
+<li>Difficulty: 808</li>
+<li>Personal Difficulty: 839</li>
+<li>Official Solution: "Input the chemical formula of Trinitrotoluene on the laughing emoji."</li>
+<li>Bullshit Meter: 7/10</li>
+<li>Personal Opinion: are you fr</li>
+<li>Unlocks: The Demon Core</li>
+</ul>
+<p>If you can see the list of things that the laughing emoji can point to, one of them is the chemical compound for Trinitrotoluene. TNT has a molecular formula of C7H5N3O6. You might find that, at first, clicking 7 -> 5 -> 3 -> 6 doesn't work. This is because you have to click in order to reach that point, such as it will be similar to a clock showing 7PM, 5PM, 3PM, 6PM. You click 7 times to reach 7PM, then you click 10 times (7 + 10 = 17 - 12 = 5), then you click 10 times again (5 + 10 = 15 - 12 = 3), then you click it 3 times to reach 6PM.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Locke and Key [#41]</h2>
-    <ul>
-        <li>Difficulty: 469</li>
-        <li>Personal Difficulty: 412</li>
-        <li>Official Solution: "Drop the key from floor 2 of the elevator down onto the baseplate and open the Evil Door."</li>
-        <li>Unlocks: Evil Arena</li>
-    </ul>
-    <p>If you have the Evil Door unlocked from the "Secret" secret, you can kind of piece the clues together. You have a key in Elevator Traveling, and you have the locked door. You utilize the fact that you can drop tools from Floor 2, grab the key, and open the door.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Locke and Key [#41]</h2>
+<ul>
+<li>Difficulty: 469</li>
+<li>Personal Difficulty: 412</li>
+<li>Official Solution: "Drop the key from floor 2 of the elevator down onto the baseplate and open the Evil Door."</li>
+<li>Unlocks: Evil Arena</li>
+</ul>
+<p>If you have the Evil Door unlocked from the "Secret" secret, you can kind of piece the clues together. You have a key in Elevator Traveling, and you have the locked door. You utilize the fact that you can drop tools from Floor 2, grab the key, and open the door.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Call of the Void [#42]</h2>
-    <ul>
-        <li>Difficulty: 333</li>
-        <li>Personal Difficulty: 311</li>
-        <li>Official Solution: "Drop all the blocks on floor 3 of the elevator trials into the void."</li>
-        <li>Unlocks: Skybound Secrets</li>
-    </ul>
-    <p>This one is just something that you kinda have to try out for yourself.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Call of the Void [#42]</h2>
+<ul>
+<li>Difficulty: 333</li>
+<li>Personal Difficulty: 311</li>
+<li>Official Solution: "Drop all the blocks on floor 3 of the elevator trials into the void."</li>
+<li>Unlocks: Skybound Secrets</li>
+</ul>
+<p>This one is just something that you kinda have to try out for yourself.</p>
 </div>
 <br>
 
@@ -591,15 +591,15 @@ print("Finished prompting for all assets.")
 <br>
 
 
-<div class="puzzle-entry" >
-    <h2>Freudian Slip [#44]</h2>
-    <ul>
-        <li>Difficulty: 333</li>
-        <li>Personal Difficulty: 210</li>
-        <li>Official Solution: "Press a hidden button inside your torso."</li>
-        <li>Unlocks: The Thinker</li>
-    </ul>
-    <p>As you continue to solve secrets and look for clues, you'll realize that one body part of yours is clickable, and it's inside your torso. Once you click it, you get some monologue about yourself. A bit entertaining to watch.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Freudian Slip [#44]</h2>
+<ul>
+<li>Difficulty: 333</li>
+<li>Personal Difficulty: 210</li>
+<li>Official Solution: "Press a hidden button inside your torso."</li>
+<li>Unlocks: The Thinker</li>
+</ul>
+<p>As you continue to solve secrets and look for clues, you'll realize that one body part of yours is clickable, and it's inside your torso. Once you click it, you get some monologue about yourself. A bit entertaining to watch.</p>
 </div>
 <br>
 
@@ -619,27 +619,27 @@ print("Finished prompting for all assets.")
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Saper [#46]</h2>
-    <ul>
-        <li>Difficulty: 240</li>
-        <li>Personal Difficulty: 40 (3)</li>
-        <li>Official Solution: "Win a game of minesweeper."</li>
-        <li>Unlocks: Crossword</li>
-    </ul>
-    <p>Surely you know how to play minesweeper, right?</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Saper [#46]</h2>
+<ul>
+<li>Difficulty: 240</li>
+<li>Personal Difficulty: 40 (3)</li>
+<li>Official Solution: "Win a game of minesweeper."</li>
+<li>Unlocks: Crossword</li>
+</ul>
+<p>Surely you know how to play minesweeper, right?</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>3600 [#47]</h2>
-    <ul>
-        <li>Difficulty: 400</li>
-        <li>Personal Difficulty: 10 (cmon, its just afk)</li>
-        <li>Official Solution: "Spend an hour in the server."</li>
-        <li>Unlocks: Tower of Passage</li>
-    </ul>
-    <p>3600 is commonly refered to "number of seconds in an hour". Have fun.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>3600 [#47]</h2>
+<ul>
+<li>Difficulty: 400</li>
+<li>Personal Difficulty: 10 (cmon, its just afk)</li>
+<li>Official Solution: "Spend an hour in the server."</li>
+<li>Unlocks: Tower of Passage</li>
+</ul>
+<p>3600 is commonly refered to "number of seconds in an hour". Have fun.</p>
 </div>
 <br>
 
@@ -672,100 +672,100 @@ Did you know that the original solution was just to call print(CollectionService
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Many Ways [#49]</h2>
-    <ul>
-        <li>Difficulty: 578</li>
-        <li>Personal Difficulty: 300 (100)</li>
-        <li>Official Solution: "Teleport from 'How many ways can you join this Roblox game?' after obtaining the 'fabled' secret."</li>
-        <li>Unlocks: CYJTRG</li>
-    </ul>
-    <p>This one is a bit gimmicky, but if you know about HMWCYJTRG, you'd expect a badge just by joining the game from SU. From there, it's straightforward</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Many Ways [#49]</h2>
+<ul>
+<li>Difficulty: 578</li>
+<li>Personal Difficulty: 300 (100)</li>
+<li>Official Solution: "Teleport from 'How many ways can you join this Roblox game?' after obtaining the 'fabled' secret."</li>
+<li>Unlocks: CYJTRG</li>
+</ul>
+<p>This one is a bit gimmicky, but if you know about HMWCYJTRG, you'd expect a badge just by joining the game from SU. From there, it's straightforward</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Task Master [#50]</h2>
-    <ul>
-        <li>Difficulty: 499</li>
-        <li>Personal Difficulty: 450</li>
-        <li>Official Solution: "Obtain all 9 badges displayed on the 'Badger' structure."</li>
-        <li>Unlocks: Weather Machine</li>
-    </ul>
-    <p>You should be fine following guides. Have fun. This takes a while.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Task Master [#50]</h2>
+<ul>
+<li>Difficulty: 499</li>
+<li>Personal Difficulty: 450</li>
+<li>Official Solution: "Obtain all 9 badges displayed on the 'Badger' structure."</li>
+<li>Unlocks: Weather Machine</li>
+</ul>
+<p>You should be fine following guides. Have fun. This takes a while.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>The Foundation [#51]</h2>
-    <ul>
-        <li>Difficulty: 70</li>
-        <li>Personal Difficulty: 30</li>
-        <li>Official Solution: "Click the baseplate from up close."</li>
-        <li>Unlocks: easiest obby on roblox!</li>
-    </ul>
-    <p>A bit obvious, but you can click the baseplate in first person.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>The Foundation [#51]</h2>
+<ul>
+<li>Difficulty: 70</li>
+<li>Personal Difficulty: 30</li>
+<li>Official Solution: "Click the baseplate from up close."</li>
+<li>Unlocks: easiest obby on roblox!</li>
+</ul>
+<p>A bit obvious, but you can click the baseplate in first person.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Soothing Keys [#52]</h2>
-    <ul>
-        <li>Difficulty: 642</li>
-        <li>Personal Difficulty: 642</li>
-        <li>Official Solution: "Input the correct code heard from the Escape Menu Chair."</li>
-        <li>Unlocks: Anything Chair (& Clock)</li>
-    </ul>
-    <p>This is a reference to an ACBAS secret, where the words "soothing keys" randomly play in the radio. Similar to that, you must sit down on the void chair (that you can get by pressing escape and sitting on the chair), and you will hear "Agitating Locks". You input this by sitting down on the chair, hovering over the audio button, and editing the text there.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Soothing Keys [#52]</h2>
+<ul>
+<li>Difficulty: 642</li>
+<li>Personal Difficulty: 642</li>
+<li>Official Solution: "Input the correct code heard from the Escape Menu Chair."</li>
+<li>Unlocks: Anything Chair (& Clock)</li>
+</ul>
+<p>This is a reference to an ACBAS secret, where the words "soothing keys" randomly play in the radio. Similar to that, you must sit down on the void chair (that you can get by pressing escape and sitting on the chair), and you will hear "Agitating Locks". You input this by sitting down on the chair, hovering over the audio button, and editing the text there.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Titan Attack [#53]</h2>
-    <ul>
-        <li>Difficulty: 696</li>
-        <li>Personal Difficulty: 670</li>
-        <li>Official Solution: "Punch holes around the statues until it falls."</li>
-        <li>Personal Opinion: So tedious bro</li>
-        <li>Unlocks: Statue Identifier</li>
-    </ul>
-    <p>You can use the baseplate hole puncher from As Above, So Below to "attack" the titan. You make a hole under the titan, and you should get the secret..</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Titan Attack [#53]</h2>
+<ul>
+<li>Difficulty: 696</li>
+<li>Personal Difficulty: 670</li>
+<li>Official Solution: "Punch holes around the statues until it falls."</li>
+<li>Personal Opinion: So tedious bro</li>
+<li>Unlocks: Statue Identifier</li>
+</ul>
+<p>You can use the baseplate hole puncher from As Above, So Below to "attack" the titan. You make a hole under the titan, and you should get the secret..</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Long Live The King [#54]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 2^222</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Ardy's Ship</li>
-    </ul>
-    <p>Holy Fuck.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Long Live The King [#54]</h2>
+<ul>
+<li>Difficulty: 844</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Ardy's Ship</li>
+</ul>
+<p>Holy Fuck.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Ultrastar [#55]</h2>
-    <ul>
-        <li>Difficulty: 890</li>
-        <li>Personal Difficulty: 850</li>
-        <li>Official Solution: "Complete the 'Star Pie' pepperoni puzzle."</li>
-        <li>Unlocks: Inverse Pyramid</li>
-    </ul>
-    <p>This puzzle is a bit silly. You'll realize that if you favorited all badges, you get to have ALL star pie pepperonis to be lit up. This is because each of them corresponded to a certain pepperoni. By doing elimination, you can figure out which badges light up which pepperoni, and from there, we can index the n-th number of the badge. For example, the badge 'so close' activates pepperoni with number '3', which means you take the third digit from the badge, 17[4]605653. You apply the same logic to get another badge at 423842212, which is the Egypt Exhibit badge.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Ultrastar [#55]</h2>
+<ul>
+<li>Difficulty: 890</li>
+<li>Personal Difficulty: 850</li>
+<li>Official Solution: "Complete the 'Star Pie' pepperoni puzzle."</li>
+<li>Unlocks: Inverse Pyramid</li>
+</ul>
+<p>This puzzle is a bit silly. You'll realize that if you favorited all badges, you get to have ALL star pie pepperonis to be lit up. This is because each of them corresponded to a certain pepperoni. By doing elimination, you can figure out which badges light up which pepperoni, and from there, we can index the n-th number of the badge. For example, the badge 'so close' activates pepperoni with number '3', which means you take the third digit from the badge, 17[4]605653. You apply the same logic to get another badge at 423842212, which is the Egypt Exhibit badge.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Back For More [#56]</h2>
-    <ul>
-        <li>Difficulty: 49</li>
-        <li>Personal Difficulty: 1</li>
-        <li>Official Solution: "Rejoin the game."</li>
-        <li>Unlocks: Horse Plinko</li>
-    </ul>
-    <p>Should be obvious, this is a word that most games use already.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Back For More [#56]</h2>
+<ul>
+<li>Difficulty: 49</li>
+<li>Personal Difficulty: 1</li>
+<li>Official Solution: "Rejoin the game."</li>
+<li>Unlocks: Horse Plinko</li>
+</ul>
+<p>Should be obvious, this is a word that most games use already.</p>
 </div>
 <br>
 
@@ -797,40 +797,40 @@ Also should be obvious. You can join games with a private code, and in this case
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Recluse [#59]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: ???</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Personal Opinion: YES THIS SECRET IS FOUND. I KNOW. BUT WE'RE LOOKING FOR HOW TO DO THIS LEGITIMATELY</li>
-        <li>Unlocks: Nil Portal</li>
-    </ul>
-    <p>Evil Keith. Where are you?</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Recluse [#59]</h2>
+<ul>
+<li>Difficulty: 850</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Personal Opinion: YES THIS SECRET IS FOUND. I KNOW. BUT WE'RE LOOKING FOR HOW TO DO THIS LEGITIMATELY</li>
+<li>Unlocks: Nil Portal</li>
+</ul>
+<p>Evil Keith. Where are you?</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Quid Pro Quo [#60]</h2>
-    <ul>
-        <li>Difficulty: 815</li>
-        <li>Personal Difficulty: 700 (600)</li>
-        <li>Official Solution: "Reflect an eye's laser back at it using a reflective object."</li>
-        <li>Unlocks: Void Path</li>
-    </ul>
-    <p>If you google it, Quid Pro Quo is a latin phrase meaning "this for that", or similar to a trade-off. Considering the fact that you have a laser eye that is chasing you, you can use this to your advantage and shoot the laser back to itself.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Quid Pro Quo [#60]</h2>
+<ul>
+<li>Difficulty: 815</li>
+<li>Personal Difficulty: 700 (600)</li>
+<li>Official Solution: "Reflect an eye's laser back at it using a reflective object."</li>
+<li>Unlocks: Void Path</li>
+</ul>
+<p>If you google it, Quid Pro Quo is a latin phrase meaning "this for that", or similar to a trade-off. Considering the fact that you have a laser eye that is chasing you, you can use this to your advantage and shoot the laser back to itself.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>brb [#61]</h2>
-    <ul>
-        <li>Difficulty: 234</li>
-        <li>Personal Difficulty: 100 (its just afk)</li>
-        <li>Official Solution: "Get kicked from the game for being AFK."</li>
-        <li>Unlocks: Ball</li>
-    </ul>
-    <p>Just AFK. That's it.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>brb [#61]</h2>
+<ul>
+<li>Difficulty: 234</li>
+<li>Personal Difficulty: 100 (its just afk)</li>
+<li>Official Solution: "Get kicked from the game for being AFK."</li>
+<li>Unlocks: Ball</li>
+</ul>
+<p>Just AFK. That's it.</p>
 </div>
 <br>
 
@@ -881,27 +881,27 @@ Once you do so, you can find a code written in the spawn of the map. Take note o
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Debugge/r [#64]</h2>
-    <ul>
-        <li>Difficulty: 720</li>
-        <li>Personal Difficulty: 531</li>
-        <li>Official Solution: "Find and execute the Instructions hidden in the F9 console at the Horse Plinko."</li>
-        <li>Unlocks: MemoryMoneyMaker 9000™</li>
-    </ul>
-    <p>This one is a bit funny, but let's say you've used the horse plinko once in the session. You can then head to your Roblox's Logs Files (on macOS, its in ~/Library/Logs/Roblox), and you can see an info that is very easy to miss, as it is buried under tons of TestService logs. It says to touch the 31st, 32nd, and 40th pegs of the Horse Plinko, then press start.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Debugge/r [#64]</h2>
+<ul>
+<li>Difficulty: 720</li>
+<li>Personal Difficulty: 531</li>
+<li>Official Solution: "Find and execute the Instructions hidden in the F9 console at the Horse Plinko."</li>
+<li>Unlocks: MemoryMoneyMaker 9000™</li>
+</ul>
+<p>This one is a bit funny, but let's say you've used the horse plinko once in the session. You can then head to your console by pressing F9 or typing /console in chat. Once you do so, you'll find that it seems to be...empty? Well, not really. The console is just flooded with blank lines. You can keep scrolling up, until you see a message. It says to touch the 31st, 32nd, and 40th pegs of the Horse Plinko, then press start. You follow that instruction, and you get the secret!</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Cognitohazard [#65]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 6^271</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Swinburne's Chair</li>
-    </ul>
-    <p>i know about this, don't i?</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Cognitohazard [#65]</h2>
+<ul>
+<li>Difficulty: 975</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Swinburne's Chair</li>
+</ul>
+<p>i know about this, don't i?</p>
 </div>
 <br>
 
@@ -923,39 +923,39 @@ Your goal? Annoy the shit out of that fucking ball. Repeat what it says until it
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Agent Orange [#67]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 33^33</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Box of Death</li>
-    </ul>
-    <p>i...do(n't) know...</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Agent Orange [#67]</h2>
+<ul>
+<li>Difficulty: 980</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Box of Death</li>
+</ul>
+<p>i...do(n't) know...</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Guest [#68]</h2>
-    <ul>
-        <li>Difficulty: 50</li>
-        <li>Personal Difficulty: 40</li>
-        <li>Official Solution: "Join the game through a friend's invite."</li>
-        <li>Unlocks: Notification Bell</li>
-    </ul>
-    <p>Once you copy the share code, you can join through that as well. Very funny info: If you actually have the notifs on for the game, the bell will glow!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Guest [#68]</h2>
+<ul>
+<li>Difficulty: 50</li>
+<li>Personal Difficulty: 40</li>
+<li>Official Solution: "Join the game through a friend's invite."</li>
+<li>Unlocks: Notification Bell</li>
+</ul>
+<p>Once you copy the share code, you can join through that as well. Very funny info: If you actually have the notifs on for the game, the bell will glow!</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Transliteration [#69]</h2>
-    <ul>
-        <li>Difficulty: 333</li>
-        <li>Personal Difficulty: 300 (299)</li>
-        <li>Official Solution: "Solve the crossword."</li>
-        <li>Unlocks: Paths</li>
-    </ul>
-    <p>Surely you can fill out the crosswords yourself, but the answer, in order, is Vocation[a]l, [b]r, Ca[s]hmere, Wid[t]h, Unive[r]se, S[a]per, ??? (what is this), [c]heer, [t]his. Surely the missing answer is useful. But anyways, you get "abstract" as the answer.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Transliteration [#69]</h2>
+<ul>
+<li>Difficulty: 333</li>
+<li>Personal Difficulty: 300 (299)</li>
+<li>Official Solution: "Solve the crossword."</li>
+<li>Unlocks: Paths</li>
+</ul>
+<p>Surely you can fill out the crosswords yourself, but the answer, in order, is Vocation[a]l, [b]r, Ca[s]hmere, Wid[t]h, Unive[r]se, S[a]per, ??? (what is this), [c]heer, [t]his. Surely the missing answer is useful. But anyways, you get "abstract" as the answer.</p>
 </div>
 <br>
 
@@ -1059,51 +1059,51 @@ i have discovered most of the things here myself, such as the wordsy, but i have
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>DIMENSION-1 [#71]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 30^20</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Panopticon</li>
-    </ul>
-    <p>Wuh oh.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>DIMENSION-1 [#71]</h2>
+<ul>
+<li>Difficulty: 859</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Panopticon</li>
+</ul>
+<p>Wuh oh.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Overly Dedicated [#72]</h2>
-    <ul>
-        <li>Difficulty: 404</li>
-        <li>Personal Difficulty: 305</li>
-        <li>Official Solution: "Make 'Vocational' your primary group. (Community)"</li>
-        <li>Unlocks: 1 Minute</li>
-    </ul>
-    <p>Because the badge is similar to Welcome To The Club, you'll soon realize that it's something that you have to do with the group, and one of the things you can do to a group is to make it your primary group.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Overly Dedicated [#72]</h2>
+<ul>
+<li>Difficulty: 404</li>
+<li>Personal Difficulty: 305</li>
+<li>Official Solution: "Make 'Vocational' your primary group. (Community)"</li>
+<li>Unlocks: 1 Minute</li>
+</ul>
+<p>Because the badge is similar to Welcome To The Club, you'll soon realize that it's something that you have to do with the group, and one of the things you can do to a group is to make it your primary group.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Pareidolia [#73]</h2>
-    <ul>
-        <li>Difficulty: 812</li>
-        <li>Personal Difficulty: 750</li>
-        <li>Official Solution: "Sit on the seats in Secret Meetup in the order engraved on the spawn face outlines."</li>
-        <li>Unlocks: Golden Grillz</li>
-    </ul>
-    <p>At the spawn of Secret Universe, you can find some structures that resemble the eye on the top side of the spawn (near the entrance to the central shop). The outline of these eyes have certain numbers engraved to it, and you can take these numbers to be an order, but where do you input it? Well, if you've explored the game a bit, you'll realize that the seats in secret meetup are similar in color to the color of the studs on the outline of the eye. You can use that as the input.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Pareidolia [#73]</h2>
+<ul>
+<li>Difficulty: 812</li>
+<li>Personal Difficulty: 750</li>
+<li>Official Solution: "Sit on the seats in Secret Meetup in the order engraved on the spawn face outlines."</li>
+<li>Unlocks: Golden Grillz</li>
+</ul>
+<p>At the spawn of Secret Universe, you can find some structures that resemble the eye on the top side of the spawn (near the entrance to the central shop). The outline of these eyes have certain numbers engraved to it, and you can take these numbers to be an order, but where do you input it? Well, if you've explored the game a bit, you'll realize that the seats in secret meetup are similar in color to the color of the studs on the outline of the eye. You can use that as the input.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Aim Demon [#74]</h2>
-    <ul>
-        <li>Difficulty: 310</li>
-        <li>Personal Difficulty: 250 (200)</li>
-        <li>Official Solution: "Complete the aim trainer exercise at the 'Ball' structure."</li>
-        <li>Unlocks: Target</li>
-    </ul>
-    <p>If you go to the 'Ball' model unlocked from brb, you can find a miscolored stud. You'll realize that when you click it, it changes color and moves to a different position, but you have to be fast and click all of these studs in order.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Aim Demon [#74]</h2>
+<ul>
+<li>Difficulty: 310</li>
+<li>Personal Difficulty: 250 (200)</li>
+<li>Official Solution: "Complete the aim trainer exercise at the 'Ball' structure."</li>
+<li>Unlocks: Target</li>
+</ul>
+<p>If you go to the 'Ball' model unlocked from brb, you can find a miscolored stud. You'll realize that when you click it, it changes color and moves to a different position, but you have to be fast and click all of these studs in order.</p>
 </div>
 <br>
 
@@ -1333,71 +1333,71 @@ UserOutfitID? Let's try to plug that in, and...
   "universeId": 0,
   "name": "Mr Cole Issine Gruppes",
   "assets": [
-    {
-      "id": 62234425,
-      "name": "Brown Hair",
-      "assetType": {
-        "id": 41,
-        "name": "HairAccessory"
-      },
-      "currentVersionId": 2260434549,
-      "meta": {
-        "order": 13,
-        "version": 1
-      }
-    },
-    {
-      "id": 144076760,
-      "name": "Dark Green Jeans",
-      "assetType": {
-        "id": 12,
-        "name": "Pants"
-      },
-      "currentVersionId": 339951177
-    },
-    {
-      "id": 2309347317,
-      "name": "Motherboard Visor",
-      "assetType": {
-        "id": 42,
-        "name": "FaceAccessory"
-      },
-      "currentVersionId": 2873605103
-    },
-    {
-      "id": 2309348359,
-      "name": "Book Wings",
-      "assetType": {
-        "id": 46,
-        "name": "BackAccessory"
-      },
-      "currentVersionId": 2873606237
-    },
-    {
-      "id": 3670737444,
-      "name": "Roblox Shirt - Simple Pattern",
-      "assetType": {
-        "id": 11,
-        "name": "Shirt"
-      },
-      "currentVersionId": 4754198745
-    }
+{
+  "id": 62234425,
+  "name": "Brown Hair",
+  "assetType": {
+"id": 41,
+"name": "HairAccessory"
+  },
+  "currentVersionId": 2260434549,
+  "meta": {
+"order": 13,
+"version": 1
+  }
+},
+{
+  "id": 144076760,
+  "name": "Dark Green Jeans",
+  "assetType": {
+"id": 12,
+"name": "Pants"
+  },
+  "currentVersionId": 339951177
+},
+{
+  "id": 2309347317,
+  "name": "Motherboard Visor",
+  "assetType": {
+"id": 42,
+"name": "FaceAccessory"
+  },
+  "currentVersionId": 2873605103
+},
+{
+  "id": 2309348359,
+  "name": "Book Wings",
+  "assetType": {
+"id": 46,
+"name": "BackAccessory"
+  },
+  "currentVersionId": 2873606237
+},
+{
+  "id": 3670737444,
+  "name": "Roblox Shirt - Simple Pattern",
+  "assetType": {
+"id": 11,
+"name": "Shirt"
+  },
+  "currentVersionId": 4754198745
+}
   ],
   "bodyColors": {
-    "headColorId": 199,
-    "torsoColorId": 1009,
-    "rightArmColorId": 199,
-    "leftArmColorId": 199,
-    "rightLegColorId": 1020,
-    "leftLegColorId": 1019
+"headColorId": 199,
+"torsoColorId": 1009,
+"rightArmColorId": 199,
+"leftArmColorId": 199,
+"rightLegColorId": 1020,
+"leftLegColorId": 1019
   },
   "scale": {
-    "height": 1,
-    "width": 1,
-    "head": 1,
-    "depth": 1,
-    "proportion": 0,
-    "bodyType": 0
+"height": 1,
+"width": 1,
+"head": 1,
+"depth": 1,
+"proportion": 0,
+"bodyType": 0
   },
   "playerAvatarType": "R15",
   "outfitType": "Avatar",
@@ -1412,104 +1412,104 @@ Oh, yep! That's Identity Fraud! Nice!
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Eyemageddon [#77]</h2>
-    <ul>
-        <li>Difficulty: 800</li>
-        <li>Personal Difficulty: 790 (605)</li>
-        <li>Official Solution: "Load eyes onto the statue until they turn into the Rainbow Eye, then die to its laser."</li>
-        <li>Unlocks: Inverse Rainbow</li>
-    </ul>
-    <p>If you have the Ultraviolent badge, your next instinct would be to see if you can load all eyes at once! So let's try to load the following IDs: 1185264, 5013615, 16855096, 131917625, 250395444, 311450081, 334103914, 1225163762, 1193866, 95337850, 743688732, 3210204459, and 82665932...And, well, the eye turned into a Rainbow Eye! All you need to do from here is die.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Eyemageddon [#77]</h2>
+<ul>
+<li>Difficulty: 800</li>
+<li>Personal Difficulty: 790 (605)</li>
+<li>Official Solution: "Load eyes onto the statue until they turn into the Rainbow Eye, then die to its laser."</li>
+<li>Unlocks: Inverse Rainbow</li>
+</ul>
+<p>If you have the Ultraviolent badge, your next instinct would be to see if you can load all eyes at once! So let's try to load the following IDs: 1185264, 5013615, 16855096, 131917625, 250395444, 311450081, 334103914, 1225163762, 1193866, 95337850, 743688732, 3210204459, and 82665932...And, well, the eye turned into a Rainbow Eye! All you need to do from here is die.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Straight and Narrow [#78]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 2^12</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Anything Island</li>
-    </ul>
-    <p>if you saw something here, you didn't. ignore it. pls..</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Straight and Narrow [#78]</h2>
+<ul>
+<li>Difficulty: 899</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Anything Island</li>
+</ul>
+<p>if you saw something here, you didn't. ignore it. pls..</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Hoarder [#79]</h2>
-    <ul>
-        <li>Difficulty: 198</li>
-        <li>Personal Difficulty: 180</li>
-        <li>Official Solution: "Obtain 10 copies of one accessory."</li>
-        <li>Unlocks: Inverse Rainbow</li>
-    </ul>
-    <p>This should be an easy one once you realize that you can 'Hoard' an item by getting multipled copies of it.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Hoarder [#79]</h2>
+<ul>
+<li>Difficulty: 198</li>
+<li>Personal Difficulty: 180</li>
+<li>Official Solution: "Obtain 10 copies of one accessory."</li>
+<li>Unlocks: Inverse Rainbow</li>
+</ul>
+<p>This should be an easy one once you realize that you can 'Hoard' an item by getting multipled copies of it.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Slippery Slope [#80]</h2>
-    <ul>
-        <li>Difficulty: 799</li>
-        <li>Personal Difficulty: 850 (20)</li>
-        <li>Official Solution: "Slip off the baseplate while it is icy."</li>
-        <li>Unlocks: Total OOFs</li>
-    </ul>
-    <p>If you have the Ultraviolet structure, you can kind of piece it together and realize "Hey, slippery slope, what if I change the material to ice?". So you do so, and realize that is literally the solution (well, you need to fall off the map too, i guess.)</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Slippery Slope [#80]</h2>
+<ul>
+<li>Difficulty: 799</li>
+<li>Personal Difficulty: 850 (20)</li>
+<li>Official Solution: "Slip off the baseplate while it is icy."</li>
+<li>Unlocks: Total OOFs</li>
+</ul>
+<p>If you have the Ultraviolet structure, you can kind of piece it together and realize "Hey, slippery slope, what if I change the material to ice?". So you do so, and realize that is literally the solution (well, you need to fall off the map too, i guess.)</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Lorem Ipsum [#81]</h2>
-    <ul>
-        <li>Difficulty: 801</li>
-        <li>Personal Difficulty: 780</li>
-        <li>Official Solution: "Discover the hidden message within the 'Secret Found!' text, decode it, and input the code at the Easy Obby."</li>
-        <li>Unlocks: Endless Obby</li>
-    </ul>
-    <p>Once you start to run out of ideas for what a secret could be, you kinda have to try everything. In this case, if we use the Translation Feedback while the 'Secret Found!' text is on screen, you can see that it actually says the following:</p>
-    <p>Secret Found!Found! ￂﾭ   ￂﾭ ￂﾭ ￂﾭ  ￂﾭￂﾭￂﾭￂﾭ ￂﾭ  ￂﾭￂﾭￂﾭￂﾭ ￂﾭ ￂﾭ  ￂﾭ   ￂﾭￂﾭ ￂﾭ ￂﾭ  ￂﾭￂﾭ  ￂﾭￂﾭ  ￂﾭￂﾭ   ￂﾭ  ￂﾭￂﾭ ￂﾭ    ￂﾭￂﾭ   ￂﾭ</p>
-    <p>That's a bit weird, but with Cipher reasoning skills, you can kinda deduct that it is binary. The space is a 0, and the character is a 1, and so, we get the following string:</p>
-    <p>010001010100111101001111010100100011010100110011001100010011010000110001</p>
-    <p>Decrypting this from Binary to Plaintext, we can get the string "EOOR53141"</p>
-    <p>EOOR is referring to the Easiest Obby On Roblox (AKA the Easy Obby), and 53141 means that you must hit the spawns in 5->3->1->4->1 order. Once you do so, you get the secret!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Lorem Ipsum [#81]</h2>
+<ul>
+<li>Difficulty: 801</li>
+<li>Personal Difficulty: 780</li>
+<li>Official Solution: "Discover the hidden message within the 'Secret Found!' text, decode it, and input the code at the Easy Obby."</li>
+<li>Unlocks: Endless Obby</li>
+</ul>
+<p>Once you start to run out of ideas for what a secret could be, you kinda have to try everything. In this case, if we use the Translation Feedback while the 'Secret Found!' text is on screen, you can see that it actually says the following:</p>
+<p>Secret Found!Found! ￂﾭ   ￂﾭ ￂﾭ ￂﾭ  ￂﾭￂﾭￂﾭￂﾭ ￂﾭ  ￂﾭￂﾭￂﾭￂﾭ ￂﾭ ￂﾭ  ￂﾭ   ￂﾭￂﾭ ￂﾭ ￂﾭ  ￂﾭￂﾭ  ￂﾭￂﾭ  ￂﾭￂﾭ   ￂﾭ  ￂﾭￂﾭ ￂﾭￂﾭￂﾭ   ￂﾭ</p>
+<p>That's a bit weird, but with Cipher reasoning skills, you can kinda deduct that it is binary. The space is a 0, and the character is a 1, and so, we get the following string:</p>
+<p>010001010100111101001111010100100011010100110011001100010011010000110001</p>
+<p>Decrypting this from Binary to Plaintext, we can get the string "EOOR53141"</p>
+<p>EOOR is referring to the Easiest Obby On Roblox (AKA the Easy Obby), and 53141 means that you must hit the spawns in 5->3->1->4->1 order. Once you do so, you get the secret!</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Secret [#82]</h2>
-    <ul>
-        <li>Difficulty: 42</li>
-        <li>Personal Difficulty: 40</li>
-        <li>Official Solution: "Click the 'Free Secret!' button in the Robux Shop UI"</li>
-        <li>Unlocks: Evil Door</li>
-    </ul>
-    <p>This one should be simple. On the left, you can see a Robux Shop. Click it, and you'll see the fact that you have a free secret to claim! Nice!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Secret [#82]</h2>
+<ul>
+<li>Difficulty: 42</li>
+<li>Personal Difficulty: 40</li>
+<li>Official Solution: "Click the 'Free Secret!' button in the Robux Shop UI"</li>
+<li>Unlocks: Evil Door</li>
+</ul>
+<p>This one should be simple. On the left, you can see a Robux Shop. Click it, and you'll see the fact that you have a free secret to claim! Nice!</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Photobomb [#83]</h2>
-    <ul>
-        <li>Difficulty: 439</li>
-        <li>Personal Difficulty: 400</li>
-        <li>Official Solution: "Make the duck-bomb blow up."</li>
-        <li>Unlocks: 🔎</li>
-    </ul>
-    <p>This one is a bit funny. If you haven't noticed yet, to the right of your screen, you have a captures bar. You can use this to practically capture screenshots using the built-in Roblox screenshot feature. However, a very weird quirk is that if you take a photo of the duck, it doesn't seem to like it. Your objective from here is to annoy the duck by taking as much photos of it as possible, before it explodes.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Photobomb [#83]</h2>
+<ul>
+<li>Difficulty: 439</li>
+<li>Personal Difficulty: 400</li>
+<li>Official Solution: "Make the duck-bomb blow up."</li>
+<li>Unlocks: 🔎</li>
+</ul>
+<p>This one is a bit funny. If you haven't noticed yet, to the right of your screen, you have a captures bar. You can use this to practically capture screenshots using the built-in Roblox screenshot feature. However, a very weird quirk is that if you take a photo of the duck, it doesn't seem to like it. Your objective from here is to annoy the duck by taking as much photos of it as possible, before it explodes.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Theory of Relativity [#84]</h2>
-    <ul>
-        <li>Difficulty: 777</li>
-        <li>Personal Difficulty: 737</li>
-        <li>Official Solution: "Dilate your system time to match with the glass clock."</li>
-        <li>Unlocks: Find The Chair</li>
-    </ul>
-    <p>This one should rather straightforward. The clock displays time in UTC, so you must set your time to UTC. However, a weird quirk about this is that you must also set the time to an additional 5 minutes ahead, to match the clock.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Theory of Relativity [#84]</h2>
+<ul>
+<li>Difficulty: 777</li>
+<li>Personal Difficulty: 737</li>
+<li>Official Solution: "Dilate your system time to match with the glass clock."</li>
+<li>Unlocks: Find The Chair</li>
+</ul>
+<p>This one should rather straightforward. The clock displays time in UTC, so you must set your time to UTC. However, a weird quirk about this is that you must also set the time to an additional 5 minutes ahead, to match the clock.</p>
 </div>
 <br>
 
@@ -1562,147 +1562,147 @@ Woah! That's similar to the things in our chest in I1MYWE! We can input the item
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Eye of the Beholder [#86]</h2>
-    <ul>
-        <li>Difficulty: 802</li>
-        <li>Personal Difficulty: 740 (520)</li>
-        <li>Official Solution: "Equip the hat hidden in the Avatar Inspect Menu onto the Statue. [Plum Nesting Egg]"</li>
-        <li>Unlocks: Pretty Patties</li>
-    </ul>
-    <p>If you have played SU for a while, you can kind of see that at random times, you will be prompted with the Avatar Inspect Menu when trying to reset. Then, you'll see that you equipped a weird looking hat that you're sure that you don't even have enabled! The Plum Nesting Egg is equipped in your avatar, so let's take the ID (380571199) and equip it on the statue! Oh, well, it was that simple...</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Eye of the Beholder [#86]</h2>
+<ul>
+<li>Difficulty: 802</li>
+<li>Personal Difficulty: 740 (520)</li>
+<li>Official Solution: "Equip the hat hidden in the Avatar Inspect Menu onto the Statue. [Plum Nesting Egg]"</li>
+<li>Unlocks: Pretty Patties</li>
+</ul>
+<p>If you have played SU for a while, you can kind of see that at random times, you will be prompted with the Avatar Inspect Menu when trying to reset. Then, you'll see that you equipped a weird looking hat that you're sure that you don't even have enabled! The Plum Nesting Egg is equipped in your avatar, so let's take the ID (380571199) and equip it on the statue! Oh, well, it was that simple...</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Close Quarters [#87]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 19^38</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: SKULLEMOJI</li>
-    </ul>
-    <p>SWORD!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Close Quarters [#87]</h2>
+<ul>
+<li>Difficulty: 866</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: SKULLEMOJI</li>
+</ul>
+<p>SWORD!</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>ALL CAPS [#88]</h2>
-    <ul>
-        <li>Difficulty: 117</li>
-        <li>Personal Difficulty: 30</li>
-        <li>Official Solution: "Type a message in all caps."</li>
-        <li>Unlocks: easiest chair ever!</li>
-    </ul>
-    <p>The title of this secret gives it away. You have to type a message in all capital letters.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>ALL CAPS [#88]</h2>
+<ul>
+<li>Difficulty: 117</li>
+<li>Personal Difficulty: 30</li>
+<li>Official Solution: "Type a message in all caps."</li>
+<li>Unlocks: easiest chair ever!</li>
+</ul>
+<p>The title of this secret gives it away. You have to type a message in all capital letters.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Consumer [#89]</h2>
-    <ul>
-        <li>Difficulty: 111</li>
-        <li>Personal Difficulty: 40</li>
-        <li>Official Solution: "Purchase an accessory."</li>
-        <li>Unlocks: Precursor Chair</li>
-    </ul>
-    <p>You don't even have to try. You'll just randomly get this anyways while buying an item.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Consumer [#89]</h2>
+<ul>
+<li>Difficulty: 111</li>
+<li>Personal Difficulty: 40</li>
+<li>Official Solution: "Purchase an accessory."</li>
+<li>Unlocks: Precursor Chair</li>
+</ul>
+<p>You don't even have to try. You'll just randomly get this anyways while buying an item.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Acquiescence [#90]</h2>
-    <ul>
-        <li>Difficulty: 43</li>
-        <li>Personal Difficulty: 20</li>
-        <li>Official Solution: "Click the Claim button in the FAQ."</li>
-        <li>Unlocks: Pushable Ramp</li>
-    </ul>
-    <p>Part of the things you try out at the start is looking through the info menu.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Acquiescence [#90]</h2>
+<ul>
+<li>Difficulty: 43</li>
+<li>Personal Difficulty: 20</li>
+<li>Official Solution: "Click the Claim button in the FAQ."</li>
+<li>Unlocks: Pushable Ramp</li>
+</ul>
+<p>Part of the things you try out at the start is looking through the info menu.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Clone Wars [#91]</h2>
-    <ul>
-        <li>Difficulty: 840</li>
-        <li>Personal Difficulty: 730 (50)</li>
-        <li>Official Solution: "Kill the clone of yourself at the ID Neighbors structure."</li>
-        <li>Unlocks: Chicanery</li>
-    </ul>
-    <p>Once you get the ID Neighbor, your first instinct might be to KILL EVERYONE! And that's true. Congrats, you have Clone Wars.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Clone Wars [#91]</h2>
+<ul>
+<li>Difficulty: 840</li>
+<li>Personal Difficulty: 730 (50)</li>
+<li>Official Solution: "Kill the clone of yourself at the ID Neighbors structure."</li>
+<li>Unlocks: Chicanery</li>
+</ul>
+<p>Once you get the ID Neighbor, your first instinct might be to KILL EVERYONE! And that's true. Congrats, you have Clone Wars.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Nacht der Untoten [#92]</h2>
-    <ul>
-        <li>Difficulty: 515</li>
-        <li>Personal Difficulty: 450 (150)</li>
-        <li>Official Solution: "Kill 50 zombies in the Evil Arena without dying."</li>
-        <li>Unlocks: Ferris Wheel</li>
-    </ul>
-    <p>This should be an easy one. Once you unlock the arena, you can mess around in it and kill zombies, and in no time, you'll get the secret on accident!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Nacht der Untoten [#92]</h2>
+<ul>
+<li>Difficulty: 515</li>
+<li>Personal Difficulty: 450 (150)</li>
+<li>Official Solution: "Kill 50 zombies in the Evil Arena without dying."</li>
+<li>Unlocks: Ferris Wheel</li>
+</ul>
+<p>This should be an easy one. Once you unlock the arena, you can mess around in it and kill zombies, and in no time, you'll get the secret on accident!</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Chitty Chitty Bang [#93]</h2>
-    <ul>
-        <li>Difficulty: 501</li>
-        <li>Personal Difficulty: 450</li>
-        <li>Official Solution: "Bring the Pushable Ramp above Y = 1000."</li>
-        <li>Unlocks: Void Mobile</li>
-    </ul>
-    <p>Chitty Chitty Bang refers to the Chitty Chitty Bang Bang movie, which is about a flying car. And what in SU resembles a flying car? The pushable ramp, of course! Make it fly above Y = 1000 using the help of Roblox's Funny Physics and the gravity coil!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Chitty Chitty Bang [#93]</h2>
+<ul>
+<li>Difficulty: 501</li>
+<li>Personal Difficulty: 450</li>
+<li>Official Solution: "Bring the Pushable Ramp above Y = 1000."</li>
+<li>Unlocks: Void Mobile</li>
+</ul>
+<p>Chitty Chitty Bang refers to the Chitty Chitty Bang Bang movie, which is about a flying car. And what in SU resembles a flying car? The pushable ramp, of course! Make it fly above Y = 1000 using the help of Roblox's Funny Physics and the gravity coil!</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>A Cautionary Tale [#94]</h2>
-    <ul>
-        <li>Difficulty: 602</li>
-        <li>Personal Difficulty: 623</li>
-        <li>Official Solution: "Get yourself stuck in the GettingUp HumanoidState."</li>
-        <li>Unlocks: 🔎</li>
-    </ul>
-    <p>This is also one of the things you can discover on accident. When you unlock a strucutre, if you get stuck under it, you'll wait a bit to realize that after 10 seconds of getting stuck, you get the badge! It's...a bit hard to get, but you can do this by lodging yourself in a tight spot and tripmining yourself.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>A Cautionary Tale [#94]</h2>
+<ul>
+<li>Difficulty: 602</li>
+<li>Personal Difficulty: 623</li>
+<li>Official Solution: "Get yourself stuck in the GettingUp HumanoidState."</li>
+<li>Unlocks: todis jump</li>
+</ul>
+<p>This is also one of the things you can discover on accident. When you unlock a strucutre, if you get stuck under it, you'll wait a bit to realize that after 10 seconds of getting stuck, you get the badge! It's...a bit hard to get, but you can do this by lodging yourself in a tight spot and tripmining yourself.</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Swagify [#95]</h2>
-    <ul>
-        <li>Difficulty: 823</li>
-        <li>Personal Difficulty: 750 (350)</li>
-        <li>Official Solution: "Use the Subspace Tripmine to add pink to the 'Paint Yourself!' structure and paint yourself fully pink."</li>
-        <li>Unlocks: Familiar Room</li>
-    </ul>
-    <p>To a lot of people who have played Kohl's Admin House in the past, you'll know that Swagify is to make yourself "Pink", and there's only one way to turn yourself pink! Blow up the Paint Yourself with the Subspace Tripmine!</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Swagify [#95]</h2>
+<ul>
+<li>Difficulty: 823</li>
+<li>Personal Difficulty: 750 (350)</li>
+<li>Official Solution: "Use the Subspace Tripmine to add pink to the 'Paint Yourself!' structure and paint yourself fully pink."</li>
+<li>Unlocks: Familiar Room</li>
+</ul>
+<p>To a lot of people who have played Kohl's Admin House in the past, you'll know that Swagify is to make yourself "Pink", and there's only one way to turn yourself pink! Blow up the Paint Yourself with the Subspace Tripmine!</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Under The Veil [#96]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 18^84</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Chair's Place</li>
-    </ul>
-    <p>ACBAS REFERE-</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Under The Veil [#96]</h2>
+<ul>
+<li>Difficulty: 909</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Chair's Place</li>
+</ul>
+<p>ACBAS REFERE-</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Access Granted [#97]</h2>
-    <ul>
-        <li>Difficulty: 700</li>
-        <li>Personal Difficulty: 700</li>
-        <li>Official Solution: "Uncover the vault below the Magic Elevator using the Baseplate Hole Punch and find the burled numbers to input the correct code."</li>
-        <li>Unlocks: Coin Counter</li>
-    </ul>
-    <p>Let's say you have gotten your hands on a Baseplate Hole Puncher. I wonder if there's a secret basement level to the elevator? Well, if you press the elevator to go up, head to the TAMS portal, you'll realize you're in a glitched state where the elevator is on Floor 1, but you're not. Knowing this, you can push the Hole Puncher on where the Elevator used to be, and you'll find a Vault! Once you uncovered the vault, you can see a glow scattered in the baseplate throughout the map. If you use the Hole Puncher again to get these numbers, you get the numbers 1, 3, 3, 7 as an item! That's funny, but you input them in those orders into the Vault. Cause. You know. 1337. Haha. Funny.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Access Granted [#97]</h2>
+<ul>
+<li>Difficulty: 700</li>
+<li>Personal Difficulty: 700</li>
+<li>Official Solution: "Uncover the vault below the Magic Elevator using the Baseplate Hole Punch and find the burled numbers to input the correct code."</li>
+<li>Unlocks: Coin Counter</li>
+</ul>
+<p>Let's say you have gotten your hands on a Baseplate Hole Puncher. I wonder if there's a secret basement level to the elevator? Well, if you press the elevator to go up, head to the TAMS portal, you'll realize you're in a glitched state where the elevator is on Floor 1, but you're not. Knowing this, you can push the Hole Puncher on where the Elevator used to be, and you'll find a Vault! Once you uncovered the vault, you can see a glow scattered in the baseplate throughout the map. If you use the Hole Puncher again to get these numbers, you get the numbers 1, 3, 3, 7 as an item! That's funny, but you input them in those orders into the Vault. Cause. You know. 1337. Haha. Funny.</p>
 </div>
 <br>
 
@@ -1745,26 +1745,26 @@ I got pissed off when this was leaked. I was the first person outside of ggarg t
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Double Jeopardy [#99]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: 133^337</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Construction Yard</li>
-    </ul>
-    <p>Huh? What's this about?</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Double Jeopardy [#99]</h2>
+<ul>
+<li>Difficulty: 992</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Construction Yard</li>
+</ul>
+<p>Huh? What's this about?</p>
 </div>
 <br>
 
-<div class="puzzle-entry" >
-    <h2>Where's Waldo [#100]</h2>
-    <ul>
-        <li>Difficulty: UNKNOWN</li>
-        <li>Personal Difficulty: ??????</li>
-        <li>Official Solution: TO BE FOUND</li>
-        <li>Unlocks: Keith's Chair</li>
-    </ul>
-    <p>This is it. This is the hardest secret. Good luck.</p>
+<div class="puzzle-entry" markdown="1">
+<h2>Where's Waldo [#100]</h2>
+<ul>
+<li>Difficulty: 999</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Keith's Chair</li>
+</ul>
+<p>This is it. This is the hardest secret. Good luck.</p>
 </div>
 <br>
