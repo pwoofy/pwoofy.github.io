@@ -18,6 +18,13 @@ IMPORTANT: AS OF RECENTLY I TOOK THIS PROJECT DOWN TO WORK ON THE V2 VERSION OF 
 
 Instructions are provided in the github page.
 
+### Roblox API Scanner 2.0
+
+After a while, I can finally show a few screenshots of the newest API scanner, but it's still private to teams that I own.
+
+![Image1](/images/blogimages/placetouniverse.png)
+![Image2](/images/blogimages/apiscanner.png)
+
 ### Glaceon Bot
 
 I made a bot (named qlaceon) also for puzzling. It has quite the functions, some allowing you to puzzle even on your mobile. This helps especially in web puzzle (using the /link_check command, which takes an input of a website and outputs the HTML code / page source of the website) and Roblox puzzles (using the /universeid and /robloxplaces, allowing you to gain information about a game).

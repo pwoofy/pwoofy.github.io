@@ -10,6 +10,8 @@ It's worth noting that everything here will be explained in order of badges.
 
 Any inquiries? Feel free to DM me on discord: @orchidcaretaker
 
+If I cannot be contacted through discord (e.g. you need to friend me first), you can also message me on twitter @pwoofy_
+
 ALL SECRETS WILL FOLLOW THE FOLLOWING FORMAT:
 
 <div class="puzzle-entry" markdown="1">
@@ -794,7 +796,7 @@ Also should be obvious. You can join games with a private code, and in this case
 <p>From there, we obtain the following values: Row 2, Column 17<br>Row 1, Column 21<br>Row 2, Column 13<br>Row 25, Column 24<br>Row 16, Column 5<br>Row 18, Column 1.</p>
 <p>Now, we can map this to the Fuchsia grid as follows:</p>
 ![Fuchsia Grid](/images/secretuniverse/Fuchsia.png)
-<p>Order is in ROYGBIV</p>
+<p>Image credits to the people at ggarg</p>
 </div>
 <br>
 
