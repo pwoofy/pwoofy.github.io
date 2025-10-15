@@ -1771,3 +1771,149 @@ I got pissed off when this was leaked. I was the first person outside of ggarg t
 <p>This is it. This is the hardest secret. Good luck.</p>
 </div>
 <br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Deep-sea Exploration [#101]</h2>
+<ul>
+<li>Difficulty: 203</li>
+<li>Personal Difficulty: 60</li>
+<li>Official Solution: Drown in the sea in Dimension 6.</li>
+<li>Unlocks: Boat</li>
+</ul>
+<p>Welcome back. This is the start of the next batch of updates! Horray! Anyways, this should be rather straightforward, you have to jump in the only dimension with an ocean, dimension 6!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Horizon Scraper [#102]</h2>
+<ul>
+<li>Difficulty: 256</li>
+<li>Personal Difficulty: 200</li>
+<li>Official Solution: Sail really far out using the Boat in dimension 6.</li>
+<li>Unlocks: Boat Trial</li>
+</ul>
+<p>This entire secret is basically "sail into the horizon", which means that you have to keep sailing until you reach the end of the map. Takes like 2 minutes.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Thinking With Portals [#103]</h2>
+<ul>
+<li>Difficulty: 805</li>
+<li>Personal Difficulty: 750 (200)</li>
+<li>Official Solution: Wedge a tripmine into the Gazebo structure, then go to Dimension 6 so it explodes and recolors the Peculiar Box's core.</li>
+<li>Unlocks: Winpad</li>
+</ul>
+<p>This one is a bit fun, but conceptually a lot of people have tried this last update. The peculiar box mentioned comes from Half Measures, and it resembles the subspace tripmine. What you want to do is to figure out the location of the peculiar box in the original dimension (Dimension-3), which in this case is the gazebo obtained from The Beginning, place a tripmine there, then go back to dimension 6 to "detonate" the tripmine at that spot. Once you do so, you should get the secret!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Relay Race [#104]</h2>
+<ul>
+<li>Difficulty: 500</li>
+<li>Personal Difficulty: 500</li>
+<li>Official Solution: Complete the Boat Trial after hitting the secret checkpoints that appear on the Running Track structure when the trial is active.</li>
+<li>Unlocks: Staircase</li>
+</ul>
+<p>This is a try-things-out secret, but if you see the badge icon, one of the thoughts that you'd have is "it has to be related to the running track in dimension 3", in a way. This is true, and you actually have to get to the end of the boat trial (checkpoint 16), going back to dimension 3, touching the extra two checkpoints, going back to dimension 6, then finishing the race.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Half Measures [#105]</h2>
+<ul>
+<li>Difficulty: 712</li>
+<li>Personal Difficulty: 740</li>
+<li>Official Solution: Transcribe the different MaxSpeeds of the Boat when doing the time trial and touch the checkpoints in order.</li>
+<li>Unlocks: Peculiar Box</li>
+</ul>
+<p>This one is a bit stupid. When you drive around in the boat without starting the trials, you can see that the maximum speed to fill in the bar is 42.</p>
+
+![MaxSpeed1](/images/secretuniverse/maxspeed.png)
+
+<p>Once you start the race, however, the maximum speed to fill in the bar becomes 12. That's a bit weird, isn't it?</p>
+
+![MaxSpeed2](/images/secretuniverse/maxspeed2.png)
+
+<p>Going through the second checkpoint, the maximum speed to fill in the bar becomes 4.</p>
+
+![MaxSpeed3](/images/secretuniverse/maxspeed3.png)
+
+<p>Turns out, each gate changes the maximum speed to fill in the bar, in this following order:</p><br>
+<p>12 4 8 10 9 2 7 13 11 16 14 2 5 3 6 15 1</p><br>
+<p>If you drive through these checkpoints in order, you can get the secret!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>The Vat of Acid Secret [#106]</h2>
+<ul>
+<li>Difficulty: 570</li>
+<li>Personal Difficulty: 550</li>
+<li>Official Solution: Dissolve the entirety of your Thinker statue using the Infinitower Pit.</li>
+<li>Unlocks: Green Portal</li>
+</ul>
+<p>Again, this is also a try-things-out secret. The only thing inside secret universe that resembles an "acid" (something that disintegrates something else) "vat" is the Infinitower tycoon ore collection pit. What do you disintegrate? The statue of yourself, of course! This is mostly because it's the only loose thing that you can push in it. Not to mention the fact that you get money from pushing your body parts in, so that's a bigger confirmer.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Godspeed [#107]</h2>
+<ul>
+<li>Difficulty: 602</li>
+<li>Personal Difficulty: 620</li>
+<li>Official Solution: Suspend yourself in freefall and accelerate until you get flung.</li>
+<li>Unlocks: Thanos Stud</li>
+</ul>
+<p>This is somewhat of an extension to Chitty Chitty Bang, but you have to "get flung". Feodoric states that the intended solution to this is to fall from a great height while viewing a structure for some amount of time in freefall, but another method that works is to place tripmines in front of the ramp, getting on the ramp with speed coil, then with the ramp, you run to the tripmines. This should fling you.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>20 Knots [#108]</h2>
+<ul>
+<li>Difficulty: 289</li>
+<li>Personal Difficulty: 270</li>
+<li>Official Solution: Complete the Boat Trial in under the time limit.</li>
+<li>Unlocks: Sapling</li>
+</ul>
+<p>Should be a straightforward one if you know how to control a Roblox Boat...</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Half Marathon [#109]</h2>
+<ul>
+<li>Difficulty: 637</li>
+<li>Personal Difficulty: 630</li>
+<li>Official Solution: Walk 1000 steps while both your legs are missing.</li>
+<li>Unlocks: Scald Law</li>
+</ul>
+<p>If you have the Thanos Stud structure, you should be able to connect the dots that "half marathon" is just running the marathon with half of your body parts left.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Event Horizon [#110]</h2>
+<ul>
+<li>Difficulty: 920</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Supermasive Black Hole</li>
+</ul>
+<p>...but nobody knows how to get there?</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Cannonball [#111]</h2>
+<ul>
+<li>Difficulty: 542</li>
+<li>Personal Difficulty: 500</li>
+<li>Official Solution: Jump from the very top of the "Staircase" structure into the water.</li>
+<li>Unlocks: Tsunami</li>
+</ul>
+<p>Cannonball, the thing you shout before you jump in a pool? Yep. Connecting the dots, you can sort of figure out that you need to make a huge splash. Where else would you do this other than to jump from a very high place to another place with water? Well, conveniently, you can do that by jumping frmo the top of the staircase into the water!</p>
+</div>
+<br>
