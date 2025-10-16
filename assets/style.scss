@@ -1143,9 +1143,6 @@ Modules - reusable parts of our design
   }
 }
 
-
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 // @import "highlights";
 @import "darcula";
 @import "svg-icons";
@@ -1186,16 +1183,14 @@ Modules - reusable parts of our design
   text-decoration: underline;
 }
 
-/* Style for the header link '#' */
 .header-link {
-  color: #a7a7a7; /* Light grey color, you can change this */
+  color: #a7a7a7; 
   text-decoration: none;
-  margin-left: 0.5em; /* Space between header text and '#' */
-  opacity: 0; /* Hide it by default */
+  margin-left: 0.5em;
+  opacity: 0;
   transition: opacity 0.2s ease-in-out;
 }
 
-/* Show the '#' when hovering over the parent header (h2, h3, etc.) */
 h2:hover .header-link,
 h3:hover .header-link {
   opacity: 1;
@@ -1206,25 +1201,21 @@ h3:hover .header-link {
   inherits: true;
   initial-value: 0deg;
 }
-
-/* Default style for all puzzle headers */
+/* Difficulty styles */
 .puzzle-entry h2 {
   color: #f8e6e6;
   text-shadow: none;
 }
 
-/* > 700 Difficulty: Cool Color */
 .difficulty-rare h2 {
   color: #00e5ff;
 }
 
-/* > 800 Difficulty: Cool color + Cool text outline */
 .difficulty-epic h2 {
   color: #d86aff;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
-/* > 900 Difficulty: Cool color + Cool text outline + Cool box */
 .difficulty-legendary {
   border: 1px solid #ffca28;
   border-radius: 10px;
@@ -1237,7 +1228,6 @@ h3:hover .header-link {
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
-/* > 950 Difficulty: Full Rainbow Annihilation! */
 .difficulty-mythic {
   --rainbow-speed: 5s;
   border-radius: 10px;
@@ -1273,6 +1263,7 @@ h3:hover .header-link {
 /*
   ghost emoji
 */
+
 .difficulty-unknown {
   background: #1a1a1a;
   border: 1px solid #333;
@@ -1460,7 +1451,7 @@ h3:hover .header-link {
 }
 
 .secret-image-placeholder {
-  width: 60px; /* Size of the placeholder image */
+  width: 60px;
   height: 60px;
   object-fit: cover;
   border-radius: 5px;
@@ -1489,7 +1480,6 @@ h3:hover .header-link {
   .secret-difficulty { background-color: rgba(68, 0, 0, 0.7); color: #fff; }
 }
 
-/* Difficulty 990+: Rainbow */
 .difficulty-gradient-990 {
   --rainbow-speed-index: 8s; 
   border: 2px solid;
@@ -1500,79 +1490,74 @@ h3:hover .header-link {
   .secret-difficulty { animation: rainbow-cycle var(--rainbow-speed-index) linear infinite; background-color: hsl(var(--rainbow-hue, 0), 100%, 50%); }
 }
 
-/* Difficulty 901-989: Purple Gradient */
 .difficulty-gradient-901-989 {
   background: linear-gradient(145deg, #5b006a 0%, #2f0037 100%);
   border: 1px solid #7c008e;
   .secret-difficulty { background-color: rgba(91, 0, 106, 0.7); }
 }
 
-/* Difficulty 801-900: Black (bottom) to Grey (top) Gradient */
 .difficulty-gradient-801-900 {
   background: linear-gradient(145deg, #444444 0%, #111111 100%);
   border: 1px solid #666;
   .secret-difficulty { background-color: rgba(68, 68, 68, 0.7); }
 }
 
-/* Difficulty 701-800: Black (bottom) to Brown (top) Gradient */
 .difficulty-gradient-701-800 {
   background: linear-gradient(145deg, #7a522a 0%, #1a1006 100%);
   border: 1px solid #a3724c;
   .secret-difficulty { background-color: rgba(122, 82, 42, 0.7); }
 }
 
-/* Difficulty 601-700: Purple Gradient (matching 901-989 for now, or distinguish) */
 .difficulty-gradient-601-700 {
   background: linear-gradient(145deg, #5b006a 0%, #2f0037 100%); 
   border: 1px solid #7c008e;
   .secret-difficulty { background-color: rgba(91, 0, 106, 0.7); }
 }
 
-/* Difficulty 501-600: Blue Gradient */
 .difficulty-gradient-501-600 {
   background: linear-gradient(145deg, #0056b3 0%, #002c5c 100%);
   border: 1px solid #007bff;
   .secret-difficulty { background-color: rgba(0, 86, 179, 0.7); }
 }
 
-/* Difficulty 401-500: Pink Gradient */
 .difficulty-gradient-401-500 {
   background: linear-gradient(145deg, #e60073 0%, #7d003f 100%);
   border: 1px solid #ff0092;
   .secret-difficulty { background-color: rgba(230, 0, 115, 0.7); }
 }
 
-/* Difficulty 301-400: Dark Red Gradient */
 .difficulty-gradient-301-400 {
   background: linear-gradient(145deg, #8b0000 0%, #4a0000 100%);
   border: 1px solid #cc0000;
   .secret-difficulty { background-color: rgba(139, 0, 0, 0.7); }
 }
 
-/* Difficulty 201-300: Orange Gradient */
 .difficulty-gradient-201-300 {
   background: linear-gradient(145deg, #ff8c00 0%, #8b4c00 100%);
   border: 1px solid #ffa500;
   .secret-difficulty { background-color: rgba(255, 140, 0, 0.7); }
 }
 
-/* Difficulty 101-200: Yellow Gradient */
 .difficulty-gradient-101-200 {
   background: linear-gradient(145deg, #ffd700 0%, #8b7300 100%);
   border: 1px solid #ffcc00;
   .secret-difficulty { background-color: rgba(255, 215, 0, 0.7); }
 }
 
-/* Difficulty 1-100: Green Gradient */
 .difficulty-gradient-1-100 {
   background: linear-gradient(145deg, #008000 0%, #004d00 100%);
   border: 1px solid #00cc00;
   .secret-difficulty { background-color: rgba(0, 128, 0, 0.7); }
 }
 
-
-/* Adjustments for the main puzzle entry titles, now that data-text is being used */
 .puzzle-entry h2[data-text]::before,
 .puzzle-entry h2[data-text]::after {
-  content: attr(data-text); /* Use the content from data-text */
+  content: attr(data-text);
+}
+
+/* loading */
+
+#secret-index-placeholder {
+  min-height: 5px; 
+  width: 100%;
 }

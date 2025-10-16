@@ -6,6 +6,8 @@ excerpt: The following contains all of Secret Universe's Secrets, explained. Hop
 has_secret_index: true
 ---
 
+<div id="secret-index-placeholder"><p style="text-align: center; padding: 50px 0;">Loading secret index...</p></div>
+
 It's worth noting that everything here will be explained in order of badges.
 
 Any inquiries? Feel free to DM me on discord: @orchidcaretaker

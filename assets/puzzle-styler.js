@@ -131,6 +131,12 @@ document.addEventListener('DOMContentLoaded', function() {
     secretGrid.appendChild(gridItem);
   });
 
+  const placeholder = document.querySelector('#secret-index-placeholder');
+  if (placeholder) {
+    placeholder.innerHTML = ''; 
+    placeholder.appendChild(indexContainer);
+  }
+
   const mainArticle = document.querySelector('article.post.detailed');
   if (mainArticle) {
     mainArticle.prepend(indexContainer);
