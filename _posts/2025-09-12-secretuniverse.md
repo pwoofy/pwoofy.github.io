@@ -448,12 +448,12 @@ print("Finished prompting for all assets.")
 <div class="puzzle-entry" markdown="1">
 <h2>Puthing Around [#33]</h2>
 <ul>
-<li>Difficulty: 842</li>
+<li>Difficulty: 989</li>
 <li>Personal Difficulty: UNKNOWN</li>
 <li>Official Solution: TO BE FOUND</li>
 <li>Unlocks: Cat Therapy</li>
 </ul>
-<p>May god have mercy on us all.</p>
+<p>kill keith</p>
 </div>
 <br>
 
@@ -1934,16 +1934,15 @@ I got pissed off when this was leaked. I was the first person outside of ggarg t
 <li>Official Solution: Launch the Snowball onto the walls of dimension 7, then wait until it becomes white and drop it into the void to access the Winter area.</li>
 <li>Unlocks: Subspace Bubble</li>
 </ul>
-<p>
-Personally for me, this was a bit too hard of a secret (and it's also annoying). First of all, you need to have the Snowball structure from Artful Dodger. Additionally, this secret is also made WAY easier with Fortress Walls from Ground Zero, and I will showcase the tutorial with the Fortress Walls. 
+<p>Personally for me, this was a bit too hard of a secret (and it's also annoying). First of all, you need to have the Snowball structure from Artful Dodger. Additionally, this secret is also made WAY easier with Fortress Walls from Ground Zero, and I will showcase the tutorial with the Fortress Walls.</p>
 
-The easiest way to do this is to aim the snowball to the exit opposite to it.
+<p>The easiest way to do this is to aim the snowball to the exit opposite to it.</p>
 
 ![Opposite](/images/secretuniverse/shitting.png)
 
-Then, subspace it such that it gets flung and stuck behind the walls. Push it to the balcony, wait for the snowball color to turn white, then push it off. Once you do so, jump into the void. You'll see that there is a snowball at the center of the other side. Touch it, let the credits roll, and you'll get the secret!
+<p>Then, subspace it such that it gets flung and stuck behind the walls. Push it to the balcony, wait for the snowball color to turn white, then push it off. Once you do so, jump into the void. You'll see that there is a snowball at the center of the other side. Touch it, let the credits roll, and you'll get the secret!</p>
 
-"How do you figure this out" you may ask, and the solution to that is...try things out yourself. Mostly from the fact that subspacing it to the void directly changes the environment you're in.
+<p>"How do you figure this out" you may ask, and the solution to that is...try things out yourself. Mostly from the fact that subspacing it to the void directly changes the environment you're in.</p>
 </p>
 </div>
 <br>
