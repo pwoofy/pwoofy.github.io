@@ -451,7 +451,7 @@ print("Finished prompting for all assets.")
 <li>Difficulty: 842</li>
 <li>Personal Difficulty: UNKNOWN</li>
 <li>Official Solution: TO BE FOUND</li>
-<li>Unlocks: roblox game!</li>
+<li>Unlocks: Cat Therapy</li>
 </ul>
 <p>May god have mercy on us all.</p>
 </div>
@@ -719,7 +719,7 @@ Did you know that the original solution was just to call print(CollectionService
 <li>Difficulty: 642</li>
 <li>Personal Difficulty: 642</li>
 <li>Official Solution: "Input the correct code heard from the Escape Menu Chair."</li>
-<li>Unlocks: Anything Chair (& Clock)</li>
+<li>Unlocks: Clock</li>
 </ul>
 <p>This is a reference to an ACBAS secret, where the words "soothing keys" randomly play in the radio. Similar to that, you must sit down on the void chair (that you can get by pressing escape and sitting on the chair), and you will hear "Agitating Locks". You input this by sitting down on the chair, hovering over the audio button, and editing the text there.</p>
 </div>
@@ -1096,7 +1096,11 @@ i have discovered most of the things here myself, such as the wordsy, but i have
 <li>Official Solution: "Sit on the seats in Secret Meetup in the order engraved on the spawn face outlines."</li>
 <li>Unlocks: Golden Grillz</li>
 </ul>
-<p>At the spawn of Secret Universe, you can find some structures that resemble the eye on the top side of the spawn (near the entrance to the central shop). The outline of these eyes have certain numbers engraved to it, and you can take these numbers to be an order, but where do you input it? Well, if you've explored the game a bit, you'll realize that the seats in secret meetup are similar in color to the color of the studs on the outline of the eye. You can use that as the input.</p>
+<p>At the spawn of Secret Universe, you can find some structures that resemble the eye on the top side of the spawn (near the entrance to the central shop). The outline of these eyes have certain numbers engraved to it. How do you know it's numbers? Well, if you enter Secret Meetup, you'll find a glyph above the portal. If you try to work your way to figure out what these numbers are, you'll realize that the numbers are Secret Universe's ID. You can somewhat create your own substitution cipher as below:
+
+![Pareidolia Glyph](/images/secretuniverse/pareidoliaglyph.png)
+
+ Now, you decode the numbers on the aforementioned eye structure to reveal that it's...just numbers 1-8. Seems to be an input, but where do you input it? Well, if you've explored the game a bit, you'll realize that the seats in secret meetup are similar in color to the color of the studs on the outline of the eye. You can use that as the input.</p>
 </div>
 <br>
 
@@ -1293,9 +1297,11 @@ This one is a bit weird. First of all, you will have to go through and see the s
 
 ![Subplaces](/images/secretuniverse/SUSM.png)
 
-Interesting, so Secret Meetup is a subplace of Secret Universe. I wonder if we can find the subplaces for Secret Meetup, if any?
+Interesting, so Secret Meetup is a subplace of Secret Universe. But you can't access anything from it, it seems...Let's see if there's a different subplace?
 
-And indeed, we can find a [subplace](https://www.roblox.com/games/98419386331120/Secret-Meetup#!/subplaces)! Hmm, nothing seems to be different...
+![Secret...](/images/secretuniverse/isuniverse.png)
+
+Seems like if you toggle isUniverseCreation in /v1/universes/{universeId}/places, you get a different result! And indeed, we can find a [subplace](https://www.roblox.com/games/98419386331120/Secret-Meetup#!/subplaces)! Hmm, nothing seems to be different...
 
 ![You can edit the place](/images/secretuniverse/youcanedit.png)
 
@@ -1512,7 +1518,7 @@ Oh, yep! That's Identity Fraud! Nice!
 <li>Difficulty: 777</li>
 <li>Personal Difficulty: 737</li>
 <li>Official Solution: "Dilate your system time to match with the glass clock."</li>
-<li>Unlocks: Find The Chair</li>
+<li>Unlocks: Marble Emporium</li>
 </ul>
 <p>This one should rather straightforward. The clock displays time in UTC, so you must set your time to UTC. However, a weird quirk about this is that you must also set the time to an additional 5 minutes ahead, to match the clock.</p>
 </div>
@@ -1917,5 +1923,147 @@ I got pissed off when this was leaked. I was the first person outside of ggarg t
 <li>Unlocks: Tsunami</li>
 </ul>
 <p>Cannonball, the thing you shout before you jump in a pool? Yep. Connecting the dots, you can sort of figure out that you need to make a huge splash. Where else would you do this other than to jump from a very high place to another place with water? Well, conveniently, you can do that by jumping frmo the top of the staircase into the water!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Game Over [#112]</h2>
+<ul>
+<li>Difficulty: 333</li>
+<li>Personal Difficulty: 400</li>
+<li>Official Solution: Launch the Snowball onto the walls of dimension 7, then wait until it becomes white and drop it into the void to access the Winter area.</li>
+<li>Unlocks: Subspace Bubble</li>
+</ul>
+<p>
+Personally for me, this was a bit too hard of a secret (and it's also annoying). First of all, you need to have the Snowball structure from Artful Dodger. Additionally, this secret is also made WAY easier with Fortress Walls from Ground Zero, and I will showcase the tutorial with the Fortress Walls. 
+
+The easiest way to do this is to aim the snowball to the exit opposite to it.
+
+![Opposite](/images/secretuniverse/shitting.png)
+
+Then, subspace it such that it gets flung and stuck behind the walls. Push it to the balcony, wait for the snowball color to turn white, then push it off. Once you do so, jump into the void. You'll see that there is a snowball at the center of the other side. Touch it, let the credits roll, and you'll get the secret!
+
+"How do you figure this out" you may ask, and the solution to that is...try things out yourself. Mostly from the fact that subspacing it to the void directly changes the environment you're in.
+</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Oracle Attack [#113]</h2>
+<ul>
+<li>Difficulty: 842</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: roblox game!</li>
+</ul>
+<p>FUUUUUUCKKKKKK NOT THIS AGAIN I HATE THIS GAME</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Supernova [#114]</h2>
+<ul>
+<li>Difficulty: 616</li>
+<li>Personal Difficulty: 500</li>
+<li>Official Solution: Make the yellow ball so big that it goes supermassive.</li>
+<li>Unlocks: Money Bag</li>
+</ul>
+<p>Let's start with something that we left off from the previous update. The sapling. If you try to play with it in this update, you'll see that there's one branch on the sapling (if you grow it enough) that is colored white. If you go to dimension-7, you'll see that the location of this white sapling is conveniently in the clouds. Clicking on it gives you a cloud item. You can use this to spawn balls that merge into a giant ball.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Paraphernalia [#115]</h2>
+<ul>
+<li>Difficulty: 720</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: TO BE FOUND</li>
+<li>Unlocks: Tesla Coil</li>
+</ul>
+<p>i have no idea what to write so stream memory merge by yonkagor</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Artful Dodger [#116]</h2>
+<ul>
+<li>Difficulty: 255</li>
+<li>Personal Difficulty: 200</li>
+<li>Official Solution: Enter the cave in dimension 7 and complete the "Be Crushed by a Speeding Wall" challenge.</li>
+<li>Unlocks: Snowball</li>
+</ul>
+<p>For this, you just want to subspace the dimension 7 cave. Get in. Then finish it. Very easy.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Crushed [#117]</h2>
+<ul>
+<li>Difficulty: 248</li>
+<li>Personal Difficulty: 195</li>
+<li>Official Solution: Get crushed by the speeding wall in dimension 7.</li>
+<li>Unlocks: Anything Chair</li>
+</ul>
+<p>Die to the speeding wall. Very easy.........</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Secret Ending [#118]</h2>
+<ul>
+<li>Difficulty: 590</li>
+<li>Personal Difficulty: 590</li>
+<li>Official Solution: Change the "Snowball" ending text to "Secret".</li>
+<li>Unlocks: Hellspawn</li>
+</ul>
+<p>Let's go back to the "Game Over" secret. Have you noticed something? Well, you can change the "Snowball" text! In line with the secret title being a hint, you change the word "Snowball" to "Secret". Once you do so, you'll get sent to another realm. Just hit the lever in the hole and you'll get the secret.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Ground Zero [#119]</h2>
+<ul>
+<li>Difficulty: 301</li>
+<li>Personal Difficulty: 300</li>
+<li>Official Solution: Access the purple area in dimension 7 and get blown up by the giant tripmine.</li>
+<li>Unlocks: Fortress Walls</li>
+</ul>
+<p>As it is with every other try shit out secret, you're meant to...try stuff out. One of the things is to blow the snowball and void it. This would have done nothing, but you'll see that the background changes. Your first instinct should be to jump into the void yourself. Once you do so, you'll realize the environment around you changes! Now you see a giant tripmine at the center. Touch it and you'll get the secret.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Chill [#120]</h2>
+<ul>
+<li>Difficulty: 555</li>
+<li>Personal Difficulty: 500</li>
+<li>Official Solution: Break the Subspace Bubble using the "Sapling" structure and freeze to death.</li>
+<li>Unlocks: Ice Spikes</li>
+</ul>
+<p>Coming back to the earlier sapling theory, if you grow it much larger and go back to dimension 7, you'll see that dimension 7 is actually in a snowglobe (a bubble?)! To escape it, grow the sapling high and escape the bubble, then freeze to death.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Heart of Gold [#121]</h2>
+<ul>
+<li>Difficulty: 401</li>
+<li>Personal Difficulty: 400</li>
+<li>Official Solution: Sell the "Conscious Trinket" (valentine) at the Infinitower.</li>
+<li>Unlocks: Golden Brick of Enlightenment</li>
+</ul>
+<p>Filler secret, but its very straightforward to just push the valentines heart to the infinitower ore sell area.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Snowman [#122]</h2>
+<ul>
+<li>Difficulty: 400</li>
+<li>Personal Difficulty: 400</li>
+<li>Official Solution: Build a snowman using 3 snowballs from around dimension 7.</li>
+<li>Unlocks: Find The Chair</li>
+</ul>
+<p>Typically, you build a snowman with 3 snowballs. Where do you get it? Well, the first one is the snowball structure. The second one is the snowball from the Game Over secret, and the third one is the one you get at the end of the speeding wall (you can click on it to turn it into a pushable snowball). Combine them all and you get the secret.</p>
 </div>
 <br>
