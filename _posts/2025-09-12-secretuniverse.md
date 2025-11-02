@@ -1096,11 +1096,11 @@ i have discovered most of the things here myself, such as the wordsy, but i have
 <li>Official Solution: "Sit on the seats in Secret Meetup in the order engraved on the spawn face outlines."</li>
 <li>Unlocks: Golden Grillz</li>
 </ul>
-<p>At the spawn of Secret Universe, you can find some structures that resemble the eye on the top side of the spawn (near the entrance to the central shop). The outline of these eyes have certain numbers engraved to it. How do you know it's numbers? Well, if you enter Secret Meetup, you'll find a glyph above the portal. If you try to work your way to figure out what these numbers are, you'll realize that the numbers are Secret Universe's ID. You can somewhat create your own substitution cipher as below:
+<p>At the spawn of Secret Universe, you can find some structures that resemble the eye on the top side of the spawn (near the entrance to the central shop). The outline of these eyes have certain numbers engraved to it. How do you know it's numbers? Well, if you enter Secret Meetup, you'll find a glyph above the portal. If you try to work your way to figure out what these numbers are, you'll realize that the numbers are Secret Universe's ID. You can somewhat create your own substitution cipher as below:</p>
 
 ![Pareidolia Glyph](/images/secretuniverse/pareidoliaglyph.png)
 
- Now, you decode the numbers on the aforementioned eye structure to reveal that it's...just numbers 1-8. Seems to be an input, but where do you input it? Well, if you've explored the game a bit, you'll realize that the seats in secret meetup are similar in color to the color of the studs on the outline of the eye. You can use that as the input.</p>
+ <p>Now, you decode the numbers on the aforementioned eye structure to reveal that it's...just numbers 1-8. Seems to be an input, but where do you input it? Well, if you've explored the game a bit, you'll realize that the seats in secret meetup are similar in color to the color of the studs on the outline of the eye. You can use that as the input.</p>
 </div>
 <br>
 
