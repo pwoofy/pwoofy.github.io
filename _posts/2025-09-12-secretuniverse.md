@@ -1975,11 +1975,65 @@ I got pissed off when this was leaked. I was the first person outside of ggarg t
 <h2>Paraphernalia [#115]</h2>
 <ul>
 <li>Difficulty: 720</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 750</li>
+<li>Official Solution: Solve the puzzle obtained from touching the Snowball with different tools and complete the specified task.</li>
 <li>Unlocks: Tesla Coil</li>
 </ul>
-<p>i have no idea what to write so stream memory merge by yonkagor</p>
+<p>Paraphernalia is a term to describe a group of equipment or tools. In SU, you can interpret this as having a few gears. Because this was update on the dimension-7 update, it is related to something there. One thing that has an interaction with gears is the snowball. For example, if you show the snowball a teddy bear, it will say "Can we be friends?". However, some gears have an interesting response attached to them.</p>
+
+![Speed Coil](/images/secretuniverse/coilogy.png)
+
+<p>For example, showing the snowball a speed coil prompts it to say 1-7. There are a handful of other things that has this interaction as well. Which are as follows:</p>
+<p><br>
+Regen: 2-2, 2-5, 3-6, 1-8<br>
+Speed: 1-7<br>
+Cloud: 1-1, 3-4<br>
+Clover: 4-3<br>
+</p>
+
+<p>What does this mean? Well, this might sound like a stretch, but when you run out of things to try, you'll end up going through the tooltip of the items. Now, you may ask:</p>
+
+![Speedcoil TT](/images/secretuniverse/coiltt.png)
+
+<p>What tooltip? Looks normal...</p>
+<br>
+<p>I'm glad you asked! I wasn't talking about the tooltip IN secret universe, I'm talking about the tooltip of these items! Roblox rarely gives out tooltips to gears, and coincidentally, these four has a tooltip related to them! You can check this by going in another game and giving the gear to yourself (or in my case, I went to Catalog Avatar Creator and gave myself these items), and you can see the following:</p>
+<br>
+<p>April Showers (in SU, this is cloud):</p>
+
+![April Shower](/images/secretuniverse/aprilshowers.png)
+
+<p>Speed Coil:</p>
+
+![Speed](/images/secretuniverse/seed.png)
+
+<p>Regeneration Coil:</p>
+
+![Regen](/images/secretuniverse/resk.png)
+
+<p>Lucky Clover:</p>
+
+![Clover](/images/secretuniverse/kena.png)
+
+<p>Now that we have these, we can apply book cipher to these description!</p>
+
+<br>
+
+<p><br>
+Cloud:  1-1 -> Bring<br>
+Regen:  2-2 -> 4<br>
+Clover: 4-3 -> lucky<br>
+Cloud:  3-4 -> flowers<br>
+Regen:  2-5 -> 4<br>
+Regen:  3-6 -> the<br>
+Speed:  1-7 -> speed<br>
+Regen:  1-8 -> reskin<br>
+</p>
+
+<br>
+
+<p>Bring 4 lucky flowers 4 the speed reskin. And tesla coil is the reskin, so this has got to be for paraphernalia! What you need to do from now is to get 4 lucky clovers (you can do this by dropping the clover, unequipping it from the inventory menu then equipping again, then picking up the dropped clover) and show it to the snowball! (dont forget to equip all 4 and interact with the snowball)</p>
+
 </div>
 <br>
 
