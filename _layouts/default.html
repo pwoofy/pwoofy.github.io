@@ -56,5 +56,8 @@
     </div>
 
     {% include analytics.html %}
+    {% if page.has_secret_index %}
+      <button id="back-to-top-btn" title="Go to top">↑</button>
+    {% endif %}
   </body>
 </html>
