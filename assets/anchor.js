@@ -21,9 +21,9 @@ const topButton = document.getElementById('back-to-top-btn');
 if (topButton) {
   window.onscroll = function() {
     if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
-      topButton.style.display = "block";
+      topButton.style.setProperty("display", "block", "important");
     } else {
-      topButton.style.display = "none";
+      topButton.style.setProperty("display", "none", "important");
     }
   };
   topButton.onclick = function() {
