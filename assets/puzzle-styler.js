@@ -89,7 +89,6 @@ document.addEventListener('DOMContentLoaded', function() {
     gridItem.href = '#' + secret.id;
     gridItem.classList.add('secret-grid-item');
 
-    // ... (gradient class logic remains the same) ...
     if (secret.isPDUnknown) {
       gridItem.classList.add('difficulty-gradient-unknown');
     } else if (secret.difficulty >= 990) {

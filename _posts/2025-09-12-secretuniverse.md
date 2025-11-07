@@ -14,6 +14,8 @@ Any inquiries? Feel free to DM me on discord: @orchidcaretaker
 
 If I cannot be contacted through discord (e.g. you need to friend me first), you can also message me on twitter @pwoofy_
 
+I put all of these in my free time, so if you want to support me, feel free to! https://ko-fi.com/pwoombert
+
 ALL SECRETS WILL FOLLOW THE FOLLOWING FORMAT:
 
 <div class="puzzle-entry" markdown="1">
