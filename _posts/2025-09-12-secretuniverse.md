@@ -675,6 +675,7 @@ Did you know that the original solution was just to call print(CollectionService
 
 ![Okay...](/images/secretuniverse/actualsol.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 <br>
@@ -744,11 +745,11 @@ Did you know that the original solution was just to call print(CollectionService
 <h2>Long Live The King [#54]</h2>
 <ul>
 <li>Difficulty: 844</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 200 (871)</li>
+<li>Official Solution: Push the Gomboc into the void.</li>
 <li>Unlocks: Ardy's Ship</li>
 </ul>
-<p>Holy Fuck.</p>
+<p>The king (gomboc) must be thrown into the void. That's it.</p>
 </div>
 <br>
 
@@ -808,12 +809,11 @@ Also should be obvious. You can join games with a private code, and in this case
 <h2>Recluse [#59]</h2>
 <ul>
 <li>Difficulty: 850</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
-<li>Personal Opinion: YES THIS SECRET IS FOUND. I KNOW. BUT WE'RE LOOKING FOR HOW TO DO THIS LEGITIMATELY</li>
+<li>Personal Difficulty: 300 (880)</li>
+<li>Official Solution: Give Evil Keith PTSD via the Abyss Chair.</li>
 <li>Unlocks: Nil Portal</li>
 </ul>
-<p>Evil Keith. Where are you?</p>
+<p>This is a try shit out secret, so you have to try stuff! In our case, we just have to bring keith into the abyss chair. A bit simple try things out secret.</p>
 </div>
 <br>
 
@@ -1063,6 +1063,8 @@ GGs.
 --------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
 
 i have discovered most of the things here myself, such as the wordsy, but i have to thank the people at ggarg (pls invite me now) for creating a nice enough guide that i can replicate and let me double check without getting ingame.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 </div>
 <br>
 
@@ -1070,11 +1072,24 @@ i have discovered most of the things here myself, such as the wordsy, but i have
 <h2>DIMENSION-1 [#71]</h2>
 <ul>
 <li>Difficulty: 859</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 600 (890)</li>
+<li>Official Solution: Equip Evil Keith's body colors and sit on the Abyss Chair to access Dimension 1.</li>
 <li>Unlocks: Panopticon</li>
 </ul>
-<p>Wuh oh.</p>
+<p>You noticed about recluse being to put keith in the chair, but what if you were keith? Just copy Keith's body colors (shown below) and sit on the abyss chair!</p>
+
+![image](/images/secretuniverse/jlegs.png)
+
+<p>Set your left and right leg to the above.</p>
+
+![everything](/images/secretuniverse/everything.png)
+
+<p>Set your head, left arm, and left leg to the above.</p>
+
+![lol](/images/secretuniverse/lol.png)
+
+<p>Set your torso the color above.</p>
+
 </div>
 <br>
 
@@ -1591,11 +1606,11 @@ Woah! That's similar to the things in our chest in I1MYWE! We can input the item
 <h2>Close Quarters [#87]</h2>
 <ul>
 <li>Difficulty: 866</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 400 (880)</li>
+<li>Official Solution: Bring Evil Keith into the Evil Arena and kill him.</li>
 <li>Unlocks: SKULLEMOJI</li>
 </ul>
-<p>SWORD!</p>
+<p>This should be obvious, but you can just bring evil keith in the arena and kill him.</p>
 </div>
 <br>
 
@@ -1755,6 +1770,9 @@ This light! But how do we find this name? Well, we already have it in our game, 
 --------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
 
 I got pissed off when this was leaked. I was the first person outside of ggarg to solve this legitimately, just to have it leaked after. A bit unfortunate but whatever!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 </div>
 <br>
 
@@ -1953,11 +1971,34 @@ I got pissed off when this was leaked. I was the first person outside of ggarg t
 <h2>Oracle Attack [#113]</h2>
 <ul>
 <li>Difficulty: 842</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 870 (920 old)</li>
+<li>Official Solution: Discover the hidden morse code in the F9 Console's Memory tab and input it at the 'Paths' structure.</li>
 <li>Unlocks: roblox game!</li>
 </ul>
-<p>FUUUUUUCKKKKKK NOT THIS AGAIN I HATE THIS GAME</p>
+<p>Hi! Let's puth around! No? Alright. Anyways, a starting point for Oracle Attack is based off of its badge icon. Notice something? Well, they're part of the console series! (See the icon for Hackerman and Debugge/r). This gives us a starting point, to check in the console. But where do we look?</p>
+<p>Well, one of the places we can look at is the memory tab, since we haven't used it. If you dig enough, you'll find this script:</p>
+
+![Imagesidk what to name this](/images/secretuniverse/puthing.png)
+
+<p>PropUserThreadHumanoidScroller. What is the acronym for that? PUTHS. Wow, confirmer! From here, what you want to do is decode the morse inside of the memory graph. This might take VERY long, so bear with it. However, once you do so, you get the following string: CARPOXYDZ. What you want to do is to put this into the puths structure, and you will get the secret!</p>
+
+--------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
+
+<p>The following section will contain the BUFFED version of Oracle Attack, e.g. the original way the teams solved it. THIS MEANS THAT A LOT OF THE THINGS HERE ARE NOT REPLICABLE!</p>
+
+<p>Congratulations! Now you input the old code (ZPOWKQXRT) to the puths structure, and you get the following popup:</p>
+
+![lol](/images/secretuniverse/jh.png)
+
+<p>Memory. Do you know what that means? Of course! It's the structure that we can see from the puthing around structure!</p>
+
+![omg](/images/secretuniverse/sofaraway.png)
+
+<p>Yep, it is the MemoryMoneyMaker 9000. But what do we do? Well, try to step on the pads, such as stepping on Z for example. If you do so, you'll see that the memory spikes up by 3 MB. That's weird. What about the one above, H? Well, if you step on H, you'll see that the memory also spikes up, but by 17 MB this time. Well, you can think of it as a substitution cipher! Remember the code that we get from earlier? Because Z outputted 3 MB, you can A1Z26 it to get C. So Z -> C, and so on, until you get the answer of CARPOXYDZ.</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
 </div>
 <br>
 
