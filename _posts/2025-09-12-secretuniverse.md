@@ -1471,7 +1471,7 @@ Oh, yep! That's Identity Fraud! Nice!
 <li>Difficulty: 198</li>
 <li>Personal Difficulty: 180</li>
 <li>Official Solution: "Obtain 10 copies of one accessory."</li>
-<li>Unlocks: Inverse Rainbow</li>
+<li>Unlocks: Million General</li>
 </ul>
 <p>This should be an easy one once you realize that you can 'Hoard' an item by getting multipled copies of it.</p>
 </div>
