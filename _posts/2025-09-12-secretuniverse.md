@@ -1456,11 +1456,12 @@ Oh, yep! That's Identity Fraud! Nice!
 <h2>Straight and Narrow [#78]</h2>
 <ul>
 <li>Difficulty: 899</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 870</li>
+<li>Personal Opinion: GODDD I FEEL SO STUPID</li>
+<li>Official Solution: Input the directions the Invisible Path goes in on Ardy's Ship.</li>
 <li>Unlocks: Anything Island</li>
 </ul>
-<p>if you saw something here, you didn't. ignore it. pls..</p>
+<p>Inside of the game, you know what's considered straight...or narrow...? Well, remember the path to "can you get to this island?" You have to take note of the directions. Up, Left, Down, Left, Up, Left, Up. And you know where else you can input directions? In Ardy's Ship. Input those directions in Ardy's Ship and you'll get the secret.</p>
 </div>
 <br>
 
@@ -1714,11 +1715,11 @@ Woah! That's similar to the things in our chest in I1MYWE! We can input the item
 <h2>Under The Veil [#96]</h2>
 <ul>
 <li>Difficulty: 909</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 910</li>
+<li>Official Solution: Bring the Hole Punch to Anything Island and dig where the X is.</li>
 <li>Unlocks: Chair's Place</li>
 </ul>
-<p>ACBAS REFERE-</p>
+<p>God. This one is horrible. If you have visited Anything Island that you obtain from Straight and Narrow, you'll see an X under the baseplate. What can you do with it? Well, you have to bring a hole puncher there! An easy way is if you have rainbow carpet, you can just fling it there (don't worry, once the hole puncher is above the baseplate, it wont fling out). If you don't, then utilize the Ardy's Ship structure, bring it to the left of the arena, and slowly push your baseplate hole puncher over it until you can push it and drop it to the baseplate. Once you do so, holepunch where the X is at, and then click on the chest's lock.</p>
 </div>
 <br>
 
@@ -1780,11 +1781,39 @@ I got pissed off when this was leaked. I was the first person outside of ggarg t
 <h2>Double Jeopardy [#99]</h2>
 <ul>
 <li>Difficulty: 992</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 940</li>
+<li>Personal Opinion: man...i thought this would be much cooler but its ok</li>
+<li>Official Solution: Utilize Translation Feedback and Vigenere Cipher in various ways and solve the puzzle.</li>
 <li>Unlocks: Construction Yard</li>
 </ul>
-<p>Huh? What's this about?</p>
+<p>Let's start with the concept of translation feedback. You can get any text, or any decal (the list goes further, but these are the two main ways people use it) by going to settings and pressing on "give feedback". If you try this around, you'll see that whenever you have a teleport prompt showing up, it will show "???" instead of the teleport prompt. That's very weird, isn't it? Well, if you click on the question marks, you'll get "TRANSLATIONKEYBACK". Do keep this in mind as well.</p>
+<br>
+<p>Next thing is that translation feedback can also change your environment. For example, if you go to the puthing around structure, you'll see that the teleport is to "Endless Secrets". However, if you turn translation feedback on, you'll see that it changes to "obby but my viewers made it" by robey100, with the description of "l_______________m".</p> 
+
+Indeed, if you go to the game, you'll encounter a stage where there are a list of people's names. If you go through it one by one, you'll find a user named liminalminimalism. If you search for this guy, you'll see that he no longer exists. However, we can always scrape some data about him, such as his socials, which is one of the main things that people would search for. We can do this using the API for promotion channels of a user, which is [here](https://accountinformation.roblox.com/v1/users/7176979085/promotion-channels?alwaysReturnUrls=true&filterLink=true).
+
+<p>Using that, we get GG_KRQ_YIEXOEDC. If you decrypt this with TRANSLATIONKEYBACK as the key, you get NP_KEY_NILPARTY. This means that your next step involves NP, which is Nil Portal. You can head to the nil portal and attempt to translation feedback again, and you will get FBLGTVKNYINT VZZCIWTPKALBSNUPSUDCL. If you decrypt this with NILPARTY as the key, you get "STARTERPLACE VIGEVOIAKJSDFFJASDKEY". This implies that our next step is in Starter Place, which is obtained from UTV. If you head to that dimension, you can go to the concrete plate in the center. If you run translation feedback, you might not find any text, but as stated earlier, translation feedback can mess up some stuff with roblox! If you record your screen once you enter/exit translation feedback, you'll see that for a few frames, a lot of stuff aren't loading. However, one thing that is loaded is a set of letters, which says<br> "NITHNHWNOLGQHWNTWPEHPJKQKMOASGJLHWXJNVJBSSILYRJKORKBKOFAJGJDCW<br>QGIZI". If you decrypt this with VIGEVOIAKJSDFFJASDKEY as the key, you get the following text:</p>
+
+<p>SANDSTONE CONCRETE MUD ROCK GRASS WATER SAND GROUND SNOW GRASS LAVA GRASS SLATE</p>
+
+<p>If you know anything about roblox, these are materials that are used in the starter place! You need to step on them in the following order in order to get it: (Remember, you can't step on other materials, and you just need to stand on them.)</p>
+
+![guide](/images/secretuniverse/guided.png)
+
+<p>Or if you prefer a text based guide:</p>
+<p>1. Detonate and explode a subspace tripmine at point 1, where it exposes the brown spot (sandstone), and white spot (mud)</p>
+<p>2. Once you do so, step at point 1.</p>
+<p>3. Use coil to get outside and step on the concrete at point 2</p>
+<p>4. Use coil again to step on the white part at point 3</p>
+<p>5. (at this point just keep the coil on unless stated otherwise) Use the coil and step on the rock at point 4.</p>
+<p>6. From here, you can touch the grass anywhere. The grass is counted as point 5, but make sure you don't touch any other materials.</p>
+<p>7. From the grass, jump straight into the water at point 6 (with coil on), and hold jump to immediately head to point 7. This is to prevent you from touching the bottom of the water.</p>
+<p>8. From point 7, deploy a tripmine and do a tripmine jump with coil to head to point 8.</p>
+<p>9. From point 8, head to a side of the mountain where you can jump with the coil and touch the snow without touching any other texture, which is point 9 here.</p>
+<p>10. From here, you can jump to the grass again and walk freely. You want to make your way to the other side of the map with lava, and jump to it. That will be point 11.</p>
+<p>11. From the lava, jump back to the grass, and head to point 13 on the map, where you can see slate texture on the side of the map. You need to touch the slate texture from grass.</p>
+
+<p>Once you do so, you will get the secret! Horray!</p>
 </div>
 <br>
 
