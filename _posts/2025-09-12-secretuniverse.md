@@ -1084,7 +1084,7 @@ i have discovered most of the things here myself, such as the wordsy, but i have
 
 ![everything](/images/secretuniverse/everything.png)
 
-<p>Set your head, left arm, and left leg to the above.</p>
+<p>Set your head, left arm, and right arm to the above.</p>
 
 ![lol](/images/secretuniverse/lol.png)
 
@@ -1926,11 +1926,33 @@ I got pissed off when this was leaked. I was the first person outside of ggarg t
 <h2>Event Horizon [#110]</h2>
 <ul>
 <li>Difficulty: 920</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 900</li>
+<li>Official Solution: Escape the panopticon by spawning inside an invisible brick and die to the void in Secret Meetup.</li>
 <li>Unlocks: Supermasive Black Hole</li>
 </ul>
-<p>...but nobody knows how to get there?</p>
+<p>Right, lets get back to business. If there's one obvious thing that wasn't used, it's the Secret Meetup text.</p>
+
+![iamge of sm](/images/secretuniverse/chudsm.png)
+
+<p>One of them has a different color. If you search up the hex color from it, you get #68719F. Googling this hex code, you get a song by Koronba. An interesting thing is that this song also plays in Secret Universe! Specifically, in Secret Meetup. If you go to Secret Meetup, you can get the ID of the song playing. What you have to do is wait for "Koronba - 68719F" to play, then extract the ID! How? Well, in the Memory tab, there is a folder that lists the ID of anything playing at any given point, and that is in the Sounds folder.</p>
+
+![sounds](/images/secretuniverse/glorp.png)
+
+We can see that an ID is shown, which is [91098270480451](https://create.roblox.com/store/asset/91098270480451/koronba-68719F). In the description of the file, you get "-85, 939, -148" (if it's not shown or is privated, i suggest using an extension or using an API to view it).
+
+<p>What do I do from here? Well, if you try to get to the coordinates in secret meetup (you can do so by dance clipping outside, and using Shift+Fn+F3 (remove the Fn if you're on windows) followed by Shift+1, up until you get to see your coordinates on the top left of your screen), you'll find that there's...nothing?</p>
+
+![image](/images/secretuniverse/prong.png)
+
+<p>Well, you'll have to note down where you're standing on the panopticon. This will be important for later.</p>
+
+![loll idk what to naem anymore](/images/secretuniverse/align.png)
+
+<p>It's worth noting that where you're supposed to be standing is on the middle part here, where I'm standing.</p>
+
+![meowe](/images/secretuniverse/align2.png)
+
+<p>Then head down, align your camera with where I'm standing. Got it? Now, go back to Secret Universe, and go to Dimension-1, if you have it (you can get it from the DIMENSION-1 secret). Once you do so, go and head to the same coordinates. On top of the panopticon. You can get there by using tripmine + gravity coil, or you can get there by growing the sapling. Once you're at that location (and you've double checked you're at the right location), press the trade button and teleport to trading hub. If you have done everything right, you should spawn on an invisible brick with darkness surrounding you. Once you do so, just keep running into the void, and die to the void.</p>
 </div>
 <br>
 
