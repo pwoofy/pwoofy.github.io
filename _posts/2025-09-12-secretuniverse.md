@@ -1050,7 +1050,7 @@ After some monologue, he disappears, telling us to be "worthy" first...
 
 If you assetdump feodoric's dialogue (like any sane person would do), you can find that the audio is dual-track, but only plays in one ear (You can extract this directly from Roblox's Caches).
 
-![morse](/images/secretuniverse/omgmorse.png)
+![morse](/images/secretuniverse/morse2.png)
 
 If we run it through a spectrogram, you can see that on the bottom track (in this case, right track), we can see some morse code. From the audio, we can get the message "CLICKALLVOIDORBSWITHSTRANGEORBEQUIPPED". Hmm. Click all void orbs with strange orb equipped? Well, the closest thing to a void orb is the spheres in the Quid Pro Quo's void path. So we click these orbs with the strange orb equipped.
 
