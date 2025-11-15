@@ -1022,7 +1022,7 @@ Hmm, interesting, so we have YQ_-UToUEXW. I wonder what this could be? Perhaps, 
 
 Hm, no, that didn't work, maybe we're missing a step...
 
-...and indeed we're missing a step! Did you know that you can search for the name of the strange orb? If you go to your SU inventory and type in b, you'll find that the strange orb is there, so the strange orb has the letter b in it, and as you go through every word, you'll slowly uncover the name of the orb. b...n...v... and so on, and this lead sto bnvigekey. I wonder if we can decrypt the youtube URL with that?
+...and indeed we're missing a step! Did you know that you can search for the name of the strange orb? If you go to your SU inventory and type in b, you'll find that the strange orb is there, so the strange orb has the letter b in it, and as you go through every word, you'll slowly uncover the name of the orb. b...n...v... and so on, and this leads to bnvigekey. I wonder if we can decrypt the youtube URL with that?
 
 And indeed, you [can](https://www.youtube.com/watch?v=XD_-ZLiQUTY)! That's wordsy.wav, so let's get to uploading that in our sounds folder and going back to the radio!
 
