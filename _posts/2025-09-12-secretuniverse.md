@@ -1048,7 +1048,11 @@ After some monologue, he disappears, telling us to be "worthy" first...
 
 ...fast forward a few days, identity fraud was discovered, so we entered the secret room again and...feodoric's dialogue changed?
 
-If you assetdump feodoric's dialogue (like any sane person would do), you can find that the audio is dual-track, but only plays in one ear. From the audio, we can get the message "Click all void orbs with strange orb equipped". Seeing the material that the area in where feodoric is, we can roughly match it to the Quid Pro Quo's void path, and sure enough, there are orbs in that structure! 
+If you assetdump feodoric's dialogue (like any sane person would do), you can find that the audio is dual-track, but only plays in one ear (You can extract this directly from Roblox's Caches).
+
+![morse](/images/secretuniverse/omgmorse.png)
+
+If we run it through a spectrogram, you can see that on the bottom track (in this case, right track), we can see some morse code. From the audio, we can get the message "CLICKALLVOIDORBSWITHSTRANGEORBEQUIPPED". Hmm. Click all void orbs with strange orb equipped? Well, the closest thing to a void orb is the spheres in the Quid Pro Quo's void path. So we click these orbs with the strange orb equipped.
 
 If we click all of them, we'll get a notification saying "Void Orbs: Success". What next?
 
