@@ -593,6 +593,8 @@ Left Leg, Right Leg: Bright Green (Very Green)<br>
 
 ![Face](/images/secretuniverse/CCFace.png)
 
+<p>The following is the order for Compact Contour:</p>
+
 ![Compact Contour Order](/images/secretuniverse/compactcontour.png)
 
 <p>Once you do so, you are presented with a 5x5 lights out puzzle. You can simply do a google search on this if you're too lazy to decrypt it yourself</p>
