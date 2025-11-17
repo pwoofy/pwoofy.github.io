@@ -587,11 +587,13 @@ Left Leg, Right Leg: Bright Green (Very Green)<br>
 </ul>
 <p>One of the things that people should usually start checking is the microprofiler. You can access this by going to your roblox menu, go to settings, scroll all the way down to Micro Profiler, and switch it to on. You should see a lot of data at the top, but rest assured, most of these are for debugging purposes. What you want to do is to hover over the Mode, switch the Mode to Timer, go to the Script section, and you should see a human-readable text in here: </p>
 
-![MicroProfiler Image](/images/secretuniverse/CompactContour.png)
+![MicroProfiler Image](/images/secretuniverse/compact.png)
 
 <p>"Click every brick forming the outline of the 'spawn' structure ... face's mouth from top to bottom". From here, you can roughly guess what this is mentioning. At the spawn, there is a set of structures built in a way that it looks like a face. You can click on the outlines, top to bottom, left to right.</p>
 
 ![Face](/images/secretuniverse/CCFace.png)
+
+![Compact Contour Order](/images/secretuniverse/compactcontour.png)
 
 <p>Once you do so, you are presented with a 5x5 lights out puzzle. You can simply do a google search on this if you're too lazy to decrypt it yourself</p>
 </div>
@@ -1122,6 +1124,11 @@ i have discovered most of the things here myself, such as the wordsy, but i have
 ![Pareidolia Glyph](/images/secretuniverse/pareidoliaglyph.png)
 
  <p>Now, you decode the numbers on the aforementioned eye structure to reveal that it's...just numbers 1-8. Seems to be an input, but where do you input it? Well, if you've explored the game a bit, you'll realize that the seats in secret meetup are similar in color to the color of the studs on the outline of the eye. You can use that as the input.</p>
+
+![Pareidolia 1](/images/secretuniverse/parei1dolia.png)
+
+![Pareidolia 2](/images/secretuniverse/parei2dolia.png)
+
 </div>
 <br>
 
