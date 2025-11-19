@@ -2031,7 +2031,6 @@ We can see that an ID is shown, which is [91098270480451](https://create.roblox.
 <p>Then, subspace it such that it gets flung and stuck behind the walls. Push it to the balcony, wait for the snowball color to turn white, then push it off. Once you do so, jump into the void. You'll see that there is a snowball at the center of the other side. Touch it, let the credits roll, and you'll get the secret!</p>
 
 <p>"How do you figure this out" you may ask, and the solution to that is...try things out yourself. Mostly from the fact that subspacing it to the void directly changes the environment you're in.</p>
-</p>
 </div>
 <br>
 
@@ -2046,9 +2045,9 @@ We can see that an ID is shown, which is [91098270480451](https://create.roblox.
 <p>Hi! Let's puth around! No? Alright. Anyways, a starting point for Oracle Attack is based off of its badge icon. Notice something? Well, they're part of the console series! (See the icon for Hackerman and Debugge/r). This gives us a starting point, to check in the console. But where do we look?</p>
 <p>Well, one of the places we can look at is the memory tab, since we haven't used it. If you dig enough, you'll find this script:</p>
 
-![Imagesidk what to name this](/images/secretuniverse/puthing.png)
+![Imagesidk what to name this](/images/secretuniverse/puth2ing.png)
 
-<p>PropUserThreadHumanoidScroller. What is the acronym for that? PUTHS. Wow, confirmer! From here, what you want to do is decode the morse inside of the memory graph. This might take VERY long, so bear with it. However, once you do so, you get the following string: CARPOXYDZ. What you want to do is to put this into the puths structure, and you will get the secret!</p>
+<p>PropUserThreadHumanoidScroller. What is the acronym for that? PUTHS. Wow, confirmer! From here, what you want to do is decode the morse inside of the memory graph. But how, you might ask? Well, the dots run for 1, dashes run for 3, short pauses run for 2, and long pauses run for 5 garbage collection cycles. This might take VERY long, so bear with it. However, once you do so, you get the following string: CARPOXYDZ. What you want to do is to put this into the puths structure, and you will get the secret!</p>
 
 --------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
 
