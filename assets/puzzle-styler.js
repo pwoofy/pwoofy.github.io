@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   const puzzleEntries = document.querySelectorAll('.puzzle-entry');
   const allSecretsData = [];
-  const totalSecretsDocumented = 122;
+  const totalSecretsDocumented = 122; 
   let unknownCount = 0;
 
   puzzleEntries.forEach((entry, index) => {
@@ -39,7 +39,9 @@ document.addEventListener('DOMContentLoaded', function() {
       const difficultyText = difficultyLi.textContent.toLowerCase();
       const difficultyValue = parseInt(difficultyText.split(':')[1].trim(), 10) || 0;
 
-      if (difficultyValue > 950) {
+      if (difficultyValue >= 1000) {
+        entry.classList.add('difficulty-1000');
+      } else if (difficultyValue > 950) {
         entry.classList.add('difficulty-mythic');
       } else if (difficultyValue > 900) {
         entry.classList.add('difficulty-legendary');
@@ -89,8 +91,8 @@ document.addEventListener('DOMContentLoaded', function() {
     gridItem.href = '#' + secret.id;
     gridItem.classList.add('secret-grid-item');
 
-    if (secret.isPDUnknown) {
-      gridItem.classList.add('difficulty-gradient-unknown');
+    if (secret.difficulty >= 1000) {
+      gridItem.classList.add('difficulty-gradient-1000');
     } else if (secret.difficulty >= 990) {
       gridItem.classList.add('difficulty-gradient-990');
     } else if (secret.difficulty >= 901 && secret.difficulty <= 989) {
@@ -114,6 +116,10 @@ document.addEventListener('DOMContentLoaded', function() {
     } else if (secret.difficulty >= 1 && secret.difficulty <= 100) {
       gridItem.classList.add('difficulty-gradient-1-100');
     }
+
+    if (secret.isPDUnknown) {
+      gridItem.classList.add('difficulty-gradient-unknown');
+    }
     
     const imageSrc = secret.secretNumber
       ? `/images/secretuniverse/icons/${secret.secretNumber}.png`
@@ -134,11 +140,6 @@ document.addEventListener('DOMContentLoaded', function() {
   if (placeholder) {
     placeholder.innerHTML = ''; 
     placeholder.appendChild(indexContainer);
-  }
-
-  const mainArticle = document.querySelector('article.post.detailed');
-  if (mainArticle) {
-    mainArticle.prepend(indexContainer);
   }
 
   const searchInput = indexContainer.querySelector('#secret-search-input');

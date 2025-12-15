@@ -450,12 +450,12 @@ print("Finished prompting for all assets.")
 <div class="puzzle-entry" markdown="1">
 <h2>Puthing Around [#33]</h2>
 <ul>
-<li>Difficulty: 989</li>
+<li>Difficulty: 1000</li>
 <li>Personal Difficulty: UNKNOWN</li>
 <li>Official Solution: TO BE FOUND</li>
 <li>Unlocks: Cat Therapy</li>
 </ul>
-<p>kill keith</p>
+<p>this....is.........horrible.</p>
 </div>
 <br>
 
