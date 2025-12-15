@@ -673,13 +673,11 @@ That's weird, there's a BinaryString here! Let's decode this from Base64!
 
 And you know what QL can refer to? [QualityLevel](https://create.roblox.com/docs/reference/engine/enums/QualityLevel). Because of this, the answer requires you to set you graphics to 9, 5, 2, 7, 1, 5, 3, and 10 in that order.
 
---------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
+> POSTPRODUCTION NOTES
 
 Did you know that the original solution was just to call print(CollectionService:GetAllTags())?
 
 ![Okay...](/images/secretuniverse/actualsol.png)
-
------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 <br>
@@ -908,11 +906,43 @@ Once you do so, you can find a code written in the spawn of the map. Take note o
 <h2>Cognitohazard [#65]</h2>
 <ul>
 <li>Difficulty: 975</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 980</li>
+<li>Official Solution: Invite Swinburne to your dimension.</li>
+<li>Personal Opinion: Actually cool im ngl</li>
 <li>Unlocks: Swinburne's Chair</li>
 </ul>
-<p>i know about this, don't i?</p>
+<p>Let's start with one of the most obvious fumbles of the decade by the entirety of the SU community. If you've read about Double Jeopardy (which is later on in this document), you'll know about the translation feedback feature (if not, you can go skip to that point to learn more about it). If you've messed around a bit, you'll realize that you can actually run translation feedback on a coin, which leads to the following error:</p>
+
+```
+2025-12-15T06:52:10.754Z,221.754929,78c27000,6 [FLog::Error] Asset (Image) "https://assetdelivery.roblox.com/v1/asset?id=75915989476590" load failed in CoreGui.Children.ScreenFrame.FeedbackReportDialog.Dialog.Content.Contents.MainCanvas.MainCanvas.SelectedTextLabel.Image: Asset type does not match requested type
+```
+
+That's a bit weird. If you insert the ID, you'll realize that it leads to the [coin model](https://create.roblox.com/store/asset/75915989476590/RenderMesh). We can load this ID into roblox studio as a MeshPart, and take a look at it!
+
+![Coin Image](/images/secretuniverse/coint.png)
+
+<p>Do you see it? No? Well, let's turn on wireframe rendering just to be sure that there's nothing. Surely there's nothing, right?</p>
+
+![Coin Image](/images/secretuniverse/coinxray.png)
+
+<p>Do you see it? There's something weird. A small square on the left side of the coin.</p>
+
+![Coin Image](/images/secretuniverse/glump.png)
+
+<p>It seems to be a QR code. You can do this by applying a ColorMap in the SurfaceAppearance of the MeshPart. Scanning it reveals the following text:</p>
+
+<p>COGNITOHAZARD Atop the tree of death, summon the subject.</p>
+
+<p>Good, so we know this is for Cognitohazard. Additionally, we also know that the tree of death refers to the tree that you get from Danse Macabre. So let's stand there.</p>
+
+But what is the subject? Well, let's check out what we have for Swinburne, the prize of this puzzle. Doing a google search, we can find that it was part of an old Roblox [ARG](https://roblox.fandom.com/wiki/Player:Swinburne). Swinburne has a [place](https://www.roblox.com/games/108485/HERE-where-the-world-is-quiet) tied to the ARG. Since the place is uncopylocked, we can see in it. Inside of the place, we can find a Smooth Block Model with a script named "One". Why do we choose that? Because it has the following script:
+
+![Solve](/images/secretuniverse/onescript.png)
+
+<p>The subject should be ALGERNON. Interesting. Perhaps we can try sending a trade request (similar in concept to "summoning") to Algernon?</p>
+
+<p>Indeed, Algernon spawns. And you get Cognitohazard. (Previously, you had to also say "Atop the tree of death, summon the subject." after spawning him.)</p>
+
 </div>
 <br>
 
@@ -925,12 +955,16 @@ Once you do so, you can find a code written in the spawn of the map. Take note o
 <li>Unlocks: 🗣️</li>
 </ul>
 <p>This is a bit funny. First of all, you want to stand on the loud and proud chat bubble, then speak a message that contains mostly of whitespace, then you should see this:</p>
-![TALKE](/images/secretuniverse/talke1.png)
-Do you see it? No? Let me make it clearer!
-![TALKE2](/images/secretuniverse/talke2.png)
-Yep, our beloved feodoric has put a 0.99 transparency image in our chat bubble. The chat bubble contains an italian flag, and the words "good morning". You can find out that the word for good morning in italian is buongiorno, so you can test by saying this everywhere. Eventually, once you head to egor realm, you're greeted with a friendly ball!
 
-Your goal? Annoy the shit out of that fucking ball. Repeat what it says until it explodes.
+![TALKE](/images/secretuniverse/talke1.png)
+
+<p>Do you see it? No? Let me make it clearer!</p>
+
+![TALKE2](/images/secretuniverse/talke2.png)
+
+<p>Yep, our beloved feodoric has put a 0.99 transparency image in our chat bubble. The chat bubble contains an italian flag, and the words "good morning". You can find out that the word for good morning in italian is buongiorno, so you can test by saying this everywhere. Eventually, once you head to egor realm, you're greeted with a friendly ball!</p>
+
+<p>Your goal? Annoy the shit out of that fucking ball. Repeat what it says until it explodes.</p>
 </div>
 <br>
 
@@ -938,11 +972,15 @@ Your goal? Annoy the shit out of that fucking ball. Repeat what it says until it
 <h2>Agent Orange [#67]</h2>
 <ul>
 <li>Difficulty: 980</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 981 (200)</li>
+<li>Official Solution: Click the particle that flies off your forcefield in the Quiet Dimension.</li>
 <li>Unlocks: Box of Death</li>
 </ul>
-<p>i...do(n't) know...</p>
+<p>This...was an underwhelming secret, but it's still a secret nonetheless.</p>
+
+![Image](/images/secretuniverse/thxray.png)
+
+<p>Do you see the particle that shows up from your body? Click it! That's all! (Image credits to ray)</p>
 </div>
 <br>
 
@@ -1068,11 +1106,10 @@ And thus, you have finally met the owner.
 
 GGs.
 
---------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
+> POSTPRODUCTION NOTES
 
 i have discovered most of the things here myself, such as the wordsy, but i have to thank the people at ggarg (pls invite me now) for creating a nice enough guide that i can replicate and let me double check without getting ingame.
 
------------------------------------------------------------------------------------------------------------------------------------------------
 </div>
 <br>
 
@@ -1302,13 +1339,12 @@ And lastly, the front face of studs. In the spawner, this is the back. So let's 
 
 And...YAY!!! GGG!!! You got it!
 
---------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
+> POSTPRODUCTION NOTES
 
 Right. We found it on accident while trying to find the string of numbers. Ooops.
 
 ![SHIT!](/images/secretuniverse/fuckass.png)
 
-------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -1781,11 +1817,9 @@ Additionally, we can also find the fact that reflective materials also do not ch
 
 This light! But how do we find this name? Well, we already have it in our game, it is named Decoration-Orb, so that means we need to use Decoration-Orb as a launchdata, and boom! GG!
 
---------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
+> POSTPRODUCTION NOTES
 
 I got pissed off when this was leaked. I was the first person outside of ggarg to solve this legitimately, just to have it leaked after. A bit unfortunate but whatever!
-
------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
 <br>
@@ -1838,11 +1872,25 @@ Indeed, if you go to the game, you'll encounter a stage where there are a list o
 <h2>Where's Waldo [#100]</h2>
 <ul>
 <li>Difficulty: 999</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 989 (400)</li>
+<li>Official Solution: Unlock the first 10 dimensions and find Waldo in each of them.</li>
+<li>Personal Opinion: I guess I expected too much :c</li>
 <li>Unlocks: Keith's Chair</li>
 </ul>
-<p>This is it. This is the hardest secret. Good luck.</p>
+<p>PREREQUISITE: MAKE SURE YOU HAVE ALL SECRETS THAT UNLOCKS ALL DIMENSIONS (or chairs)</p>
+
+<p>Find waldo. He's in every dimension now. Find him, and rejoin after every time you've found him.</p>
+
+<p>1. DIM-4: On the corner of the baseplate on the ferris wheel side</p>
+<p>2. DIM-7: Inside of the small cave in the EGOR area ravine</p>
+<p>3. DIM-5: In the middle of the field area</p>
+<p>4. DIM-2: On the ACBAS baseplate</p>
+<p>5. DIM-1: On top of the Secret Meetup structure</p>
+<p>6: DIM-10: Under the Stonehenge, use your tripmine.</p>
+<p>7: DIM-6: In the ocean, opposite to the stair's side.</p>
+<p>8: DIM-8: In the middle of the lava.</p>
+<p>9: DIM-9: Go forward in the direction of the FTC chair using the voidmobile</p>
+<p>10: DIM-3 (main realm): Hole puncher on where the valentines' heart is located at.</p>
 </div>
 <br>
 
@@ -2049,7 +2097,7 @@ We can see that an ID is shown, which is [91098270480451](https://create.roblox.
 
 <p>PropUserThreadHumanoidScroller. What is the acronym for that? PUTHS. Wow, confirmer! From here, what you want to do is decode the morse inside of the memory graph. But how, you might ask? Well, the dots run for 1, dashes run for 3, short pauses run for 2, and long pauses run for 5 garbage collection cycles. This might take VERY long, so bear with it. However, once you do so, you get the following string: CARPOXYDZ. What you want to do is to put this into the puths structure, and you will get the secret!</p>
 
---------------------------------------------------------------POSTPRODUCTION NOTES--------------------------------------------------------------
+> POSTPRODUCTION NOTE
 
 <p>The following section will contain the BUFFED version of Oracle Attack, e.g. the original way the teams solved it. THIS MEANS THAT A LOT OF THE THINGS HERE ARE NOT REPLICABLE!</p>
 
@@ -2062,8 +2110,6 @@ We can see that an ID is shown, which is [91098270480451](https://create.roblox.
 ![omg](/images/secretuniverse/sofaraway.png)
 
 <p>Yep, it is the MemoryMoneyMaker 9000. But what do we do? Well, try to step on the pads, such as stepping on Z for example. If you do so, you'll see that the memory spikes up by 3 MB. That's weird. What about the one above, H? Well, if you step on H, you'll see that the memory also spikes up, but by 17 MB this time. Well, you can think of it as a substitution cipher! Remember the code that we get from earlier? Because Z outputted 3 MB, you can A1Z26 it to get C. So Z -> C, and so on, until you get the answer of CARPOXYDZ.</p>
-
------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 </div>
