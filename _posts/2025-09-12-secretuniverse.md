@@ -2095,7 +2095,9 @@ We can see that an ID is shown, which is [91098270480451](https://create.roblox.
 
 ![Imagesidk what to name this](/images/secretuniverse/puth2ing.png)
 
-<p>PropUserThreadHumanoidScroller. What is the acronym for that? PUTHS. Wow, confirmer! From here, what you want to do is decode the morse inside of the memory graph. But how, you might ask? Well, the dots run for 1, dashes run for 3, short pauses run for 2, and long pauses run for 5 garbage collection cycles. This might take VERY long, so bear with it. However, once you do so, you get the following string: CARPOXYDZ. What you want to do is to put this into the puths structure, and you will get the secret!</p>
+<p>PropUserThreadHumanoidScroller. What is the acronym for that? PUTHS. Wow, confirmer! From here, what you want to do is decode the morse inside of the memory graph. But how, you might ask? Well, the dots run for 1, dashes run for 3, short pauses run for 2, and long pauses run for 5 garbage collection cycles. In other words, to simplify your decoding, if there is a peak lasting for less than 10 dots, you interpret it as a dot. If there is a peak lasting for more than 10 dots, you interpret it as a dash. If there is a valley lasting for less than 10 dots, you don't give space in between the characters, and if there is a valley lasting for more than 10 dots, you give a space.</p>
+
+<p>This might take VERY long, so bear with it. However, once you do so, you get the following string: CARPOXYDZ. What you want to do is to put this into the puths structure, and you will get the secret!</p>
 
 > POSTPRODUCTION NOTE
 
