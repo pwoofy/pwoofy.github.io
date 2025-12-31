@@ -4,7 +4,7 @@ title: "To Xero"
 password: "yes"
 hint: "can we play sybau obby"
 teaser: "Happy New Year."
-music: "/assets/music/simmersprings.mp3"
+music: "/assets/music/forever.mp3"
 song_title: "glass beach - (forever?????????)"
 ---
 
