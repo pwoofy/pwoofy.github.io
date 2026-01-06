@@ -2278,3 +2278,516 @@ Regen:  1-8 -> reskin<br>
 <p>Typically, you build a snowman with 3 snowballs. Where do you get it? Well, the first one is the snowball structure. The second one is the snowball from the Game Over secret, and the third one is the one you get at the end of the speeding wall (you can click on it to turn it into a pushable snowball). Combine them all and you get the secret.</p>
 </div>
 <br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Secret Multiverse [#123]</h2>
+<ul>
+<li>Difficulty: 942</li>
+<li>Personal Difficulty: 959</li>
+<li>Official Solution: Complete Keith's quest across many Secrets-type games.</li>
+<li>Unlocks: Credits Room (& Portal)</li>
+</ul>
+New Secret Universe update! I wonder where to start… Could you kindly tell me the Very Useful Update Board?
+
+![dim2](/images/secretuniverse/secretmultiverse/dim2.png)
+
+Well, thanks, I guess. Let's head to dimension 2 now.
+
+Upon going into dimension 2, you can see this subspace tripmine icon on the corners of the map, similar to the ones in dimension 7. Therefore, you must place a subspace on these.
+
+![tripmine](/images/secretuniverse/secretmultiverse/tripmine.png)
+
+Placing all 4 subspace tripmines down will make the corners shoot beams up into the sky and make the skybox purple. Keith also falls down from the sky onto the baseplate:
+
+![keith](/images/secretuniverse/secretmultiverse/keithnoway.png)
+
+Talking to him and saying “Yes” will trigger a cutscene, and after some dialogue, he will send you to...
+
+<div class="sub-chapter-title">Anything Can Be A Secret</div>
+
+Upon joining the game, you can notice right away that there is a guy sitting on the picnic blanket and glitching out:
+
+![omg](/images/secretuniverse/secretmultiverse/divideetimpera.png)
+
+Talking to them flips the world on its side, Finn McCube will spawn with.. a lot of dialogue to go through but he does give you an Absolutely Safe Capsule for the realms that contain the puzzles.
+
+![capsule](/images/secretuniverse/secretmultiverse/idle.png)
+
+Let's take a breather now to see what comes next. Before that, let's address the obvious.
+
+The capsule has 6 worlds in total: Underflow, The Furnace, Cobalt Temple, Great Circuit, Lovely Little Town, Blazhenstvo.
+
+![worlds](/images/secretuniverse/secretmultiverse/plee.png)
+
+From here on, the puzzle will be non-linear but they’ll converge at the end.
+
+Before you start with your journey, get to Lovely Little Town first. Once you’re in Lovely Little Town, grab the Speed Coil from the item giver nearby. Trust me, this will help you a lot.
+
+Once done, go to Cobalt Temple. Once you're there, head upstairs and go to the right, you’ll see this circle with 6 colors and a few lines connecting them:
+
+![rgb](/images/secretuniverse/secretmultiverse/rbg.png)
+
+<br>
+Green - Lovely Little Town<br>
+Red - Underflow<br>
+Purple - Blazhenstvo<br>
+Orange - The Furnace<br>
+Cyan - Great Circuit<br>
+Blue - Cobalt Library<br>
+
+From this, we see that Blue and Red take us to 2 separate paths. Therefore, the guide will be split into separate parts too. You can do these parts before one another, it doesn’t really matter. But before we do anything, let's go visit Underflow first and see what we'll be dealing with.
+
+Upon arriving at Underflow, go straight and to the right, you’ll see a Terminus:
+
+![terminus](/images/secretuniverse/secretmultiverse/terminus.png)
+
+On the floor of the Terminus, there is an eye symbol with 2 clickable parts on it.
+
+![eyes](/images/secretuniverse/secretmultiverse/eyes.png)
+
+Clicking on either of them yield these dialogues:
+
+![doc](/images/secretuniverse/secretmultiverse/doc.png)
+
+This will make sense later. Go back to Cobalt Temple.
+
+<div class="sub-sub-title">Horror Path (Punishment for Diversion)</div>
+
+Going left, we see a staircase going up and a small room to the side. The small room has an NPC called “Xander”. Talking to him about the closet, you’ll find out that apparently the closet is a sentient MONSTER... and also he put some of Bill’s remains upstairs. This is the clue indicating that we must go upstairs to progress instead, but let’s not do that just yet since we still have another dialogue option with Xander.
+
+Picking to talk about his diary, he’ll talk about how he only writes letters in them, he’s not allowed to touch any books except “the safer ones” that he flipped. 
+
+Going upstairs and into the main room, to our right we’ll see a desk with a skull next to it. This is Bill’s skull. Xander’s diary lay next to it. There aren’t much things to note except for these lines from page 3, 4 and 8:
+
+![book1](/images/secretuniverse/secretmultiverse/book1.png)
+
+![book2](/images/secretuniverse/secretmultiverse/book2.png)
+
+![book3](/images/secretuniverse/secretmultiverse/book3.png)
+
+If we look to our left, we can see a bookshelf with a few books flipped. These must be the “safer books” Xander is referring to; you can interact with them. On top of one of the shelves, we can see a yellow triangle with a top hat next to it:
+
+![cill](/images/secretuniverse/secretmultiverse/cill.png)
+
+These are Bill’s possessions. Hold on a second… His name is “Bill” he has a triangle and a top hat… Surely this is referencing “Bill Cipher” from Gravity Falls. If you look at page 4 of Xander’s diary, he talks about writing the word “MONSTER” in colorful books. Well, there is a Color Code in Gravity Falls. If we use [this](https://www.dcode.fr/gravity-falls-colors) website, encode the text “MONSTER”, we get these sets of colors:
+
+![monster](/images/secretuniverse/secretmultiverse/monstah.png)
+
+Additionally, these colors match up to the set of the clickable books on the shelf under the triangle!
+
+![book](/images/secretuniverse/secretmultiverse/books.png)
+
+Once we enter the code, the painting next to the bookshelves disappears and we’ll be able to go inside. Inside, there's an NPC named “Motte”, who will give you valuable information about the puzzle.
+
+If you ask about Sculpture, he’ll talk about capturing their Emotions and how they’re essential. If you ask about Emotions, he’ll give you the Emote UI. If you ask about the Map... nothing useful.
+
+Looking to the right, you’ll see these sculptures:
+
+![emote](/images/secretuniverse/secretmultiverse/omg.png)
+
+They’re emotes. The left one is /e point, the middle is /e cheer and the right one is /e laugh. On the left, you see this tall block stack and an unfinished sculpture:
+
+![emote2](/images/secretuniverse/secretmultiverse/omg2.png)
+
+From here, we can deduce that there is an input, and the input is most likely inputting from the highest podium to the lowest podium's emotes. 
+
+In the middle, we see this map:
+
+![map](/images/secretuniverse/secretmultiverse/maps.png)
+
+This is a map for the location “Lovely Little Town”. Let’s head there next.
+
+Behind spawn, you can see an area with a house that has no entrance. If you compare this area with the map, they completely match up, so this is the location we’re looking for.
+
+Now, go to these locations and do these following emotes (actually you only need to stand on one of those locations and do the emotes but just pretend you need to go to those locations):
+
+![map2](/images/secretuniverse/secretmultiverse/map2.png)
+
+You’ll know you’ve done it right when you hear the Weird Route Jingle from Deltarune the emote UI is taken away from you. The next step according to the map is to go inside the chimney of the house. Going inside, you’ll see a table with a coin on top. Pick it up.
+
+Once done, go out the chimney (there's an invisible ladder). If you go towards the treehouse, you’ll see an NPC named Bryant who sells Lemonade. You need 25 cents in order to buy a lemonade and unfortunately the coin is only 1 cent... You’ll need to get the other 24 somewhere. But where? Well, let's move on for a bit. Going towards the direction of the lighthouse, you’ll see a dock with the NPC Gnawbert. He needs a lemonade. There’s an obvious connection here. 
+
+Let’s think about what to do with the coin. If you go back to where the Absolutely Safe Capsule is and going to the top left area where there’s a water fountain with coins inside, you’ll get a clue:
+
+![dialog](/images/secretuniverse/secretmultiverse/dialog.png)
+
+This is hinting towards the well. Going behind Bryant, you’ll see an open field with a red car, to the right of the car would be the well.
+
+![well](/images/secretuniverse/secretmultiverse/well.png)
+
+Throwing your coin into the well will give you a quarter... magically. And you won't question that. 
+
+With this quarter, you can now buy lemonade from Bryant and give it to Gnawbert. After you give Gnawbert the lemonade, he’ll offer you a fishing lesson. Accept it and sit on the chair next to him. Finish the dialogue, and the true horror begins. The town will no longer be bright and cheerful. You are then instructed to go home. But what home? Well, upon exploring, we can see that the closed-off house is now open. From here, go to the house that you previously jumped into the chimney, its doors are now open for you.
+
+There is a camera inside. Picking it up starts the horror sequence. Your camera will be in first person and there will be a static filter on your screen.
+
+![camera](/images/secretuniverse/secretmultiverse/camera.png)
+
+Your objective? Survive (and also collect the keys scattered across the maze. For reference, here is a diagram of the maze:)
+
+![map](/images/secretuniverse/secretmultiverse/map.png)
+
+![layout](/images/secretuniverse/secretmultiverse/layout.png)
+
+(Credits to glitchfox999)
+
+The darker gray means lockers. Why are there lockers? Well, you are not safe. You are not alone.
+
+Let’s talk about the entities you’ll be encountering.
+
+<ul>
+    <li>
+        <span class="entity-tag">$%&$# (yes, that is its name.)</span>
+        <br>
+		<img src="/images/secretuniverse/secretmultiverse/cheeee.png" alt="Scarything" class="entity-img">
+		<br>
+$%&$# is an entity that spawns when you collect the first key. It will roam around the maze while you try and collect keys. It emits a <b>red glow</b> and a <b>static noise</b> when you’re nearby. It instantly kills you upon contact. If it spots you, you’ll be slowed down and it will speed up. It’s recommended that you hide in lockers when you see or hear this entity. Only come out when you’re 100% sure it's gone. (AKA when you don’t hear the static anymore)
+    </li>
+	<li>
+		<span class="entity-tag">Prunsel</span>
+		<br>
+		<img src="/images/secretuniverse/secretmultiverse/chee2.png" alt="scary2" class="entity-img">
+		<br>
+		Prunsel spawns after you collect your 3rd key. He will always appear near you. When you look at him, he takes away all your audio. He can’t kill you. 
+	</li>
+</ul>
+
+Now let’s talk about the keys.
+
+The first key will ALWAYS be random. You should take your time memorizing the layout instead of rushing to get the key in this time. After that, it’ll say the following text:
+
+<b>“the attic key has relocated somewhere [text]”</b>
+
+Depending on the text, you’ll want to go to these areas:
+
+cozy = green<br>
+warm = orange<br>
+dull = white<br>
+cold = blue<br>
+black = random, it can spawn in any area.<br><br>
+
+Once you’re done with all of that, you’ll be teleported to the attic. In front of you is the table with a mysterious object. Pick it up.
+
+![the end](/images/secretuniverse/secretmultiverse/tehend.png)
+
+
+GG! You’ve done the horror path!
+
+<div class="sub-sub-title">Logic Path (Disregard for Existence)</div>
+
+Now, the Cobalt Temple says there is a hint here relating to The Furnace. We’re not sure where this is yet so we’ll just head to “The Furnace” as the next destination.
+
+To the top left of spawn, there’s a hidden structure we can go into:
+
+![pyramid](/images/secretuniverse/secretmultiverse/pyranmimd.png)
+
+Going inside, we can see this grid along with a button:
+
+![grid](/images/secretuniverse/secretmultiverse/ooo.png)
+
+There’s also an NPC named Gear here that can help you with the puzzle- nevermind they’re just gone. They did have a message for us, which is to come back later. Great. 
+
+Well, there’s nothing much to do here, so let’s just go to the neighbouring area: Great Circuit.
+
+To the right of spawn, we can see a base. Going into the base and going upstairs, there’s an NPC named Philip staring at a painting.
+
+![base](/images/secretuniverse/secretmultiverse/base.png)
+
+He says that "pixel art will stay relevant and amusing for ages...no, generations to come!". That's interesting, because if you had messed with the button from the furance, you'll notice that it says "42 generations later", after some time clicking the button. Interesting. 
+
+![pixel](/images/secretuniverse/secretmultiverse/pixel.png)
+
+Let's go back to the great furnace.
+
+![note](/images/secretuniverse/secretmultiverse/note.png)
+
+Ah, there’s a note where Gear used to be. This note will help solve whatever puzzle’s going on here. Inside of it, there are multiple questions.
+
+Q1: Do you know how this machine works?<br>
+Well, this is.. NOT Conway’s Game of Life. This is cellular automata with its own unique rules..
+
+Q2: Have you met Louie and his comrades?<br>
+We definitely haven’t. Gear will hint to us where Louie is. He says that Louie is a Wall Dweller. This means that Louie and his comrades aren’t in “The Furnace”. They can either be in Cobalt Temple or Great Circuit. Let’s continue the questionnaire before we leave.
+
+Q3: Have you found an external tool- er, online simulator, that this machine is designed around?<br>
+If you answer no here, you’ll be asked with subquestions.
+
+Q3.1: If you haven’t, does a certain anagram of “his mind” being the author of said simulator ring a bell?<br>
+Q3.2: The simulator has to do with stepping through cell configurations on a grid, from one state to another. This process is reversible as well. This is not a question.<br>
+
+The anagram we’re looking for is “dmishin”. They’re the author of [this](https://dmishin.github.io/js-revca/) site. The site will be useful in the solving of this puzzle.
+
+Q4: Did you know that the top-left corner of the machine’s grid corresponds to the top-left corner of said simulator’s grid?<br>
+This is just a fact question.
+
+Q5: Did you make sure to input the configuration, and then go in reverse, one step at a time, until no longer necessary?<br>
+Answer “no” for a hint:<br>
+“If it helps, the first step in reverse should turn the configuration into a square with a single stray cell in the middle.”
+
+Q6: Did you answer each of these questions with exemplary honesty, loyalty, courage, and cat, and how?<br>
+Just answer yes on this one to end the dialogue.
+
+Now then, the first order of business is finding Louie and his gang. Let’s go to Cobalt Temple. Gear of Guidance says that Louie is a wall dweller… Well, if you look upstairs on the left side emblem (next to Russell), you can see this hole in the wall:
+
+![aaa](/images/secretuniverse/secretmultiverse/aaa.png)
+
+![i got lazy to write alt text](/images/secretuniverse/secretmultiverse/aab.png)
+
+
+
+You can fit your character inside here (use first person). Inside is the rats hideout. Talk to Margolus, he has the dialogue you need:
+
+![aah](/images/secretuniverse/secretmultiverse/aac.png)
+
+The dialogue says "Critters rule!", which is funny, because if we go back to the website earlier, we can find that critters rule is actually a valid rule! Go to the Reversible cellular automata site, set the rule to “Critters”. Adjust the Step, press “Step Forward” (▶️) until your Generation is at 42.
+
+![aah](/images/secretuniverse/secretmultiverse/tut.png)
+
+Insert in the painting in a 6x6 cell like so:
+
+![pixel2](/images/secretuniverse/secretmultiverse/pixel2.png)
+
+Press “Step Backwards” until your Generation is 0:
+
+![aah](/images/secretuniverse/secretmultiverse/tut2.png)
+
+That cell pattern is the answer. Input it onto the board in The Furnace.
+
+![pattern](/images/secretuniverse/secretmultiverse/pattern.png)
+
+Then, press the button until it says “42 generations later”. You’ll know you’ve done it when the cells turn red.
+
+Now, let’s go back to Great Circuit and see what’s changed.
+
+Oh. Well, he whole place’s on lockdown now. Around the place, there are debug terminals that you can debug. Debugging makes you do warioware-like minigames.
+
+<div class="sub-sub-sub-title">Concentrate</div>
+
+Click to reveal cards. Match the corresponding cards. There are only 4 cards in total: Ace of Spades, Ace of Clubs, Ace of Diamonds and Ace of Hearts.
+
+<div class="sub-sub-sub-title">Line Up!</div>
+
+Align ANY developer (KrizisHQ, zHary, robey100) faces correctly by timing your clicks.
+
+<div class="sub-sub-sub-title">Memorize!</div>
+
+Complete the Simon Says color wheel minigame. (AKA repeat what it shows)
+
+<div class="sub-sub-sub-title">Spell!</div>
+
+It’s just Squaredle.
+
+<div class="sub-sub-sub-title">Swat!</div>
+
+Click on the flies to swat them. Swat all the flies to complete the minigame.
+
+<div class="sub-sub-sub-title">Jump!</div>
+
+Jump over obstacles and get to the end. Click to jump. Hold click to float higher.
+
+If you ever fail any minigames, it’ll say “TOTAL MISPLAY” on the screen and you’ll have to restart that minigame. If you succeed, it’ll say “HACK SUCCESS” and you can move on.
+
+Once you’re done with the terminals, the core will explode and you’ll be taken to the white void.
+
+![oh](/images/secretuniverse/secretmultiverse/oh.png)
+
+Press the green button a few times. It’ll ask you for a password. If you look up at the “CIRCUIT INTEGRITY CRITICAL” text, you’ll see some of the letters flickering:
+
+![oh](/images/secretuniverse/secretmultiverse/jtoh.png)
+
+They spell out “UNREALITY”. That’s the password. Confirm the password then go to Underflow. Now that you have both puzzles done, head to the structure with the valve. You’ll see the pattern surrounding the eye has turned white. Interact with the valve and continue.
+
+Falling down takes you to the Coin Challenge where you have to collect all 424 coins in the obby. There are things that cripples you or gives you a distraction. These are (in chronological order):
+
+<div class="sub-sub-sub-title">Killbricks (in the obby)</div>
+
+Just avoid them.
+
+<div class="sub-sub-sub-title">osu!</div>
+
+Click the circles when the outer ring is near the circle.
+
+<div class="sub-sub-sub-title">Simon Says</div>
+
+Follow what it says. There are only a few basic commands<br>
+1) …hold your ground. (Do/don’t touch the ground) <br>
+2) …take your leave. (Do/don’t move left) <br>
+3) …carry onward (Do/don’t move forward) <br>
+4) …right your wrongs. (Do/don’t move right) <br>
+5) …stall for time (Do/don’t stop pressing your movement keys) <br>
+
+<div class="sub-sub-sub-title">Advertisement</div>
+
+Just close the ad.
+
+<div class="sub-sub-sub-title">Spikes</div>
+
+These will pop out of the ground. Avoid touching them.
+
+If you lose this challenge too many times, you’ll be given more time to do the challenge. This will give you 2 more minutes the first time so you’ll have 11 minutes instead of 9, then it’ll give you 3 more minutes, making it 14 minutes and so on.
+
+After you complete the coin challenge, you’ll be taken to the Crimson Arena where you have to fight Crimson Star.
+
+![oh](/images/secretuniverse/secretmultiverse/boss.png)
+
+At least that’s what the game wants you to think. You just need to survive until you’re taken to Outlined Normal Realm.
+
+![oh](/images/secretuniverse/secretmultiverse/outline.png)
+
+Talk to the Rhombus of Remorse (at the picnic blanket), he’ll give you the Capsule back for you to go to the next part of the secret.
+
+<div class="sub-chapter-title">That One Secret Game</div>
+
+Joining TOSG, you’ll see a glitchy dock and a boat with a person in it. Go in the boat and wait till the ride is over. Take a breather. You’ll be taken to the obby afterwards.
+
+The goal is to beat the obby. Touching the radio will reveal more paths, therefore, just follow the radio. Dying will restart the obby.
+
+Completing the obby will give you an end screen. Click continue then go into the cave. In the caves, there are 2 puzzles that you need to solve: the Slider puzzle and Lights Out.
+
+For the slider puzzle, you can solve it manually or use a puzzle solver like [this](https://puzzlenum.com/solver/sliding-puzzle/) site.
+
+Similarly, for lights out, you can solve it yourself or use a puzzle solve like [this](https://www.dcode.fr/lights-out-solver).
+
+After you solve both puzzles, the elevator will open up, allowing you to progress to the next game.
+
+<div class="sub-chapter-title">A Game Of Secrets</div>
+
+The elevator will bring you into a secret underground facility. To the left is our first puzzle:
+
+![oh](/images/secretuniverse/secretmultiverse/ohok.png)
+
+The module has a 5 digit module we need to render. This is random for every person, on every attempt.
+
+![oh](/images/secretuniverse/secretmultiverse/lol.png)
+
+There’s a reference we can use below the board:
+
+![oh](/images/secretuniverse/secretmultiverse/lol3.png)
+
+To render the number, we must first visualize what the number would look like on the board. The number I got is 69986, therefore, the board would look like this:
+
+![oh](/images/secretuniverse/secretmultiverse/number.png)
+
+Once you’ve visualized the render, use the calculator to get the base-10 number of each row and input it in the textbox with the label “Insert base-10” on the corresponding rows.
+
+![oh](/images/secretuniverse/secretmultiverse/binary.png)
+
+Render out the whole board and the code will appear. Now, you can convert this binary back into decimal using the calculator but in reverse or use [this](https://www.rapidtables.com/convert/number/binary-to-decimal.html) site to convert your number.
+
+This will be the code to the door. Input it and the door to the next puzzle will open.
+
+![oh](/images/secretuniverse/secretmultiverse/winner.png)
+
+The next puzzle is Loopover. 
+
+![oh](/images/secretuniverse/secretmultiverse/ada.png)
+
+This is a puzzle made by carykh. The goal is to make it so that letters on the grid are ordered alphabetically. You can use arrows to shift the columns up/downwards; rows left/right. However, this isn’t all to it. Sometimes, some arrows disappear. You can use the solver [here](https://pwoofy.me/tools/) to solve it!
+
+Once you solve the grid, the letters will change to the code for the door:
+
+![oh](/images/secretuniverse/secretmultiverse/knowledge.png)
+
+Simply read this in reading order to get “knowledgebeginswithwonder”. Once you enter the code, you’ll be met with a cutscene… This time you’ll be defusing a bomb under a time limit.
+
+There are 6 total modules on the bomb.
+
+<div class="sub-sub-sub-title">RGB Nonogram</div>
+
+![oh](/images/secretuniverse/secretmultiverse/ceop1.png)
+
+
+Each cell has a correct color in it, ranging from Red, Green, Blue and Black. Find the colors that decrease the numbers on the rows and columns. The goal is to make every number “0”.
+
+<div class="sub-sub-sub-title">Hashiwokakero</div>
+
+![oh](/images/secretuniverse/secretmultiverse/coep2.png)
+
+
+Click on the lines to connect the squares. Each square has a set amount of lines it can have. You’ll know the number of lines each square needs when the squares turn yellow. The goal is to make every square yellow. After you’ve done that, some squares will flash blue. Note down the number on the squares that flashed blue. That will be the code to defuse this module.
+
+<div class="sub-sub-sub-title">Prime Factors</div>
+
+![oh](/images/secretuniverse/secretmultiverse/cope3.png)
+
+You’ll be given 6 numbers. Find their prime factors and insert the primes incrementally. After you’re done, press “Confirm All 6”.
+
+<div class="sub-sub-sub-title">Laser Grid</div>
+
+![oh](/images/secretuniverse/secretmultiverse/cope4.png)
+
+Once you press “Start”, you’ll have 10 seconds to do the explanation down below: 
+There will be a number on the Vertical Axis and Horizontal Axis. Convert those numbers into binary. Input those numbers onto their respective grids.
+
+![oh](/images/secretuniverse/secretmultiverse/explanation.png)
+
+Then, use the “OR” logical operator on each and every cell in the grid (“OR” means that if there’s a “1”, it’s always red). Find the cells that’s “0” or black and move the cyan square to that tile. Alternatively, if you have time to input, use the solver  [here](https://pwoofy.me/tools/).
+
+<div class="sub-sub-sub-title">Loopover</div>
+
+![oh](/images/secretuniverse/secretmultiverse/cope56.png)
+
+Same as the one in the room before the bomb. Once you solve this, the [alphabetize_the_letters] will turn into [spell_(word)]. You simply spell the word given to you by clicking on the letters. Solver is [here](https://pwoofy.me/tools/).
+
+<div class="sub-sub-sub-title">Morse Code</div>
+
+![oh](/images/secretuniverse/secretmultiverse/cope7.png)
+
+Encode the word given to you into morse code and confirm each letter into the module. (The morse tree is for visual on whether or not you entered the letter correctly or not). Once you have defused the bomb, go back to the elevator whence you came and you’ll be teleported to the last part of the Secret Multiverse part 1 event.
+
+<div class="sub-chapter-title">How Many Ways Can You Join This Roblox Game</div>
+
+Once you join the game, you’ll see a BIG RED EVIL BUTTON right in front of you.
+
+![oh](/images/secretuniverse/secretmultiverse/dama.png)
+
+Pressing it will send you to the EVIL version of the game: How Many Ways Can You LEAVE This Roblox Game? The premise is simple. Find 4 ways to leave the game.
+
+<div class="sub-sub-sub-title">Method 1: Leave</div>
+
+The first way you can do it is ESC + L + Enter (or Menu -> Leave -> Leave). You’ll be rewarded with a structure when you rejoin.
+
+<div class="sub-sub-sub-title">Method 2: Leave</div>
+
+The second way is to Alt + F4 (must wait until the join text disappears). This structure will appear when you rejoin.
+
+<div class="sub-sub-sub-title">Method 3: Disconnect(?)</div>
+
+The third way is to afk for 20 minutes or use the Time Singularity by inputting “42” on it and activating it.
+
+<div class="sub-sub-sub-title">Method 4: Kicked</div>
+
+The final way is to get kicked by a neon brick behind the “Welcome to HELL” sign.
+
+Once you’ve done all that, go through the door at the middle structure. You’ll be teleported to Easiest Game Ever! evil version. Walk across the planks and into the portal.
+
+<div class="sub-chapter-title">Checkpoint</div>
+
+After you’ve been thrown straight into the camera, go across the gap, go to where the portal was.
+
+![oh](/images/secretuniverse/secretmultiverse/theend.png)
+
+You’ll be forced into first person while you go down the tunnel. Go straight and talk to Keith.
+
+![oh](/images/secretuniverse/secretmultiverse/keith1.png)
+
+![oh](/images/secretuniverse/secretmultiverse/keith2.png)
+
+![oh](/images/secretuniverse/secretmultiverse/keith3.png)
+
+Follow him back in Secret Universe, and...
+
+Congratulations you’ve finished the longest secret in the entire game!
+
+> POSTPRODUCTION NOTES
+
+I thank the following people for assisting me in writing the guide:
+
+- ALonelySadBoy (solitude_alsb) for helping me write the document.
+- The entirety of GGLAFC, for solving together.
+
+Thank you for reading.
+
+<!-- is it the end...? -->
+</div>
+<br>

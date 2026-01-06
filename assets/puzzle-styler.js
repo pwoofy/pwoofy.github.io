@@ -16,7 +16,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     if (titleElement && titleElement.firstChild && difficultyLi && personalDifficultyLi) {
       const id = titleElement.id;
+      
       const title = titleElement.firstChild.textContent.replace(/\[#\d+\]$/, '').trim();
+      const lowerTitle = title.toLowerCase();
       
       let secretNumber = null;
       const fullTitleText = titleElement.textContent;
@@ -27,28 +29,61 @@ document.addEventListener('DOMContentLoaded', function() {
       
       const personalDifficultyText = personalDifficultyLi.textContent.toLowerCase();
       const isPDUnknown = personalDifficultyText.includes('unknown');
-
-      if (isPDUnknown) {
-        entry.classList.add('difficulty-unknown');
-        if (titleElement.getAttribute('data-text') === null) {
-            titleElement.setAttribute('data-text', titleElement.textContent);
-        }
-        unknownCount++;
-      }
-
       const difficultyText = difficultyLi.textContent.toLowerCase();
       const difficultyValue = parseInt(difficultyText.split(':')[1].trim(), 10) || 0;
 
-      if (difficultyValue >= 1000) {
-        entry.classList.add('difficulty-1000');
-      } else if (difficultyValue > 950) {
-        entry.classList.add('difficulty-mythic');
-      } else if (difficultyValue > 900) {
-        entry.classList.add('difficulty-legendary');
-      } else if (difficultyValue > 800) {
-        entry.classList.add('difficulty-epic');
-      } else if (difficultyValue > 700) {
-        entry.classList.add('difficulty-rare');
+      
+
+      let specialClassApplied = false;
+
+      
+      if (lowerTitle.includes("secret multiverse")) {
+        entry.classList.add('secret-multiverse');
+        
+        
+        const starfield = document.createElement('div');
+        starfield.classList.add('starfield');
+        entry.prepend(starfield); 
+        
+        specialClassApplied = true;
+      }
+
+      
+      else if (lowerTitle.includes("puthing around") && isPDUnknown && difficultyValue >= 1000) {
+        entry.classList.add('difficulty-1000'); 
+        entry.classList.add('difficulty-unknown'); 
+        
+        
+        if (titleElement.getAttribute('data-text') === null) {
+            titleElement.setAttribute('data-text', titleElement.textContent);
+        }
+        specialClassApplied = true;
+        unknownCount++;
+      }
+      
+      
+      if (!specialClassApplied) {
+        if (isPDUnknown) {
+          entry.classList.add('difficulty-unknown');
+          if (titleElement.getAttribute('data-text') === null) {
+              titleElement.setAttribute('data-text', titleElement.textContent);
+          }
+          unknownCount++;
+        }
+        
+        
+        if (difficultyValue >= 1000 && !lowerTitle.includes("puthing around")) {
+           
+           entry.classList.add('difficulty-1000');
+        } else if (difficultyValue > 950) {
+          entry.classList.add('difficulty-mythic');
+        } else if (difficultyValue > 900) {
+          entry.classList.add('difficulty-legendary');
+        } else if (difficultyValue > 800) {
+          entry.classList.add('difficulty-epic');
+        } else if (difficultyValue > 700) {
+          entry.classList.add('difficulty-rare');
+        }
       }
 
       allSecretsData.push({
@@ -57,19 +92,22 @@ document.addEventListener('DOMContentLoaded', function() {
         difficulty: difficultyValue,
         displayDifficulty: difficultyValue.toString(),
         isPDUnknown: isPDUnknown,
-        secretNumber: secretNumber
+        secretNumber: secretNumber,
+        isMultiverse: lowerTitle.includes("secret multiverse"), 
+        isPuthingAround: lowerTitle.includes("puthing around")  
       });
     }
   });
 
+  
   allSecretsData.sort((a, b) => {
     if (a.isPDUnknown && !b.isPDUnknown) return 1;
     if (!a.isPDUnknown && b.isPDUnknown) return -1;
     return b.difficulty - a.difficulty;
   });
 
+  
   const documentedCountOnPage = allSecretsData.length - unknownCount;
-
   const indexContainer = document.createElement('div');
   indexContainer.id = 'secret-index-container';
   indexContainer.innerHTML = `
@@ -86,39 +124,52 @@ document.addEventListener('DOMContentLoaded', function() {
   `;
 
   const secretGrid = indexContainer.querySelector('#secret-grid');
+  
   allSecretsData.forEach(secret => {
     const gridItem = document.createElement('a');
     gridItem.href = '#' + secret.id;
     gridItem.classList.add('secret-grid-item');
 
-    if (secret.difficulty >= 1000) {
-      gridItem.classList.add('difficulty-gradient-1000');
-    } else if (secret.difficulty >= 990) {
-      gridItem.classList.add('difficulty-gradient-990');
-    } else if (secret.difficulty >= 901 && secret.difficulty <= 989) {
-      gridItem.classList.add('difficulty-gradient-901-989');
-    } else if (secret.difficulty >= 801 && secret.difficulty <= 900) {
-      gridItem.classList.add('difficulty-gradient-801-900');
-    } else if (secret.difficulty >= 701 && secret.difficulty <= 800) {
-      gridItem.classList.add('difficulty-gradient-701-800');
-    } else if (secret.difficulty >= 601 && secret.difficulty <= 700) {
-      gridItem.classList.add('difficulty-gradient-601-700');
-    } else if (secret.difficulty >= 501 && secret.difficulty <= 600) {
-      gridItem.classList.add('difficulty-gradient-501-600');
-    } else if (secret.difficulty >= 401 && secret.difficulty <= 500) {
-      gridItem.classList.add('difficulty-gradient-401-500');
-    } else if (secret.difficulty >= 301 && secret.difficulty <= 400) {
-      gridItem.classList.add('difficulty-gradient-301-400');
-    } else if (secret.difficulty >= 201 && secret.difficulty <= 300) {
-      gridItem.classList.add('difficulty-gradient-201-300');
-    } else if (secret.difficulty >= 101 && secret.difficulty <= 200) {
-      gridItem.classList.add('difficulty-gradient-101-200');
-    } else if (secret.difficulty >= 1 && secret.difficulty <= 100) {
-      gridItem.classList.add('difficulty-gradient-1-100');
+    
+    
+    if (secret.isMultiverse) {
+        
+        gridItem.classList.add('index-multiverse'); 
+    } 
+    else if (secret.isPuthingAround && secret.isPDUnknown) {
+        
+        gridItem.classList.add('difficulty-gradient-1000');
+        gridItem.classList.add('difficulty-gradient-unknown');
     }
-
-    if (secret.isPDUnknown) {
-      gridItem.classList.add('difficulty-gradient-unknown');
+    else {
+        
+        if (secret.isPDUnknown) {
+            gridItem.classList.add('difficulty-gradient-unknown');
+        } else if (secret.difficulty >= 1000) {
+            gridItem.classList.add('difficulty-gradient-1000');
+        } else if (secret.difficulty >= 990) {
+            gridItem.classList.add('difficulty-gradient-990');
+        } else if (secret.difficulty >= 901 && secret.difficulty <= 989) {
+            gridItem.classList.add('difficulty-gradient-901-989');
+        } else if (secret.difficulty >= 801 && secret.difficulty <= 900) {
+            gridItem.classList.add('difficulty-gradient-801-900');
+        } else if (secret.difficulty >= 701 && secret.difficulty <= 800) {
+            gridItem.classList.add('difficulty-gradient-701-800');
+        } else if (secret.difficulty >= 601 && secret.difficulty <= 700) {
+            gridItem.classList.add('difficulty-gradient-601-700');
+        } else if (secret.difficulty >= 501 && secret.difficulty <= 600) {
+            gridItem.classList.add('difficulty-gradient-501-600');
+        } else if (secret.difficulty >= 401 && secret.difficulty <= 500) {
+            gridItem.classList.add('difficulty-gradient-401-500');
+        } else if (secret.difficulty >= 301 && secret.difficulty <= 400) {
+            gridItem.classList.add('difficulty-gradient-301-400');
+        } else if (secret.difficulty >= 201 && secret.difficulty <= 300) {
+            gridItem.classList.add('difficulty-gradient-201-300');
+        } else if (secret.difficulty >= 101 && secret.difficulty <= 200) {
+            gridItem.classList.add('difficulty-gradient-101-200');
+        } else if (secret.difficulty >= 1 && secret.difficulty <= 100) {
+            gridItem.classList.add('difficulty-gradient-1-100');
+        }
     }
     
     const imageSrc = secret.secretNumber

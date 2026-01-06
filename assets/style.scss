@@ -9,9 +9,9 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-/**************/
-/* BASE RULES */
-/**************/
+
+
+
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @font-face{
@@ -260,9 +260,9 @@ p > img {
     clear: both;
 }
 
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
+
+
+
 
 //
 // .masthead
@@ -380,7 +380,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
+    
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
@@ -390,7 +390,7 @@ nav {
 
   .you-may-like{
     margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
+    
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
@@ -431,13 +431,13 @@ footer {
 }
 
 body:after {
-    background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
-    width: 100%;
-    height: 5px;
-    top: 0;
-    position: absolute;
-    left: 0;
-    content: '';
+  background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
+  width: 100%;
+  height: 5px;
+  top: 0;
+  position: absolute;
+  left: 0;
+  content: '';
 }
 
 #bar {
@@ -502,13 +502,13 @@ Modules - reusable parts of our design
 
 -------------------------------- */
 .cd-container {
-  /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
+  
   width: 90%;
   max-width: 1170px;
   margin: 0 auto;
 }
 .cd-container::after {
-  /* clearfix */
+  
   content: '';
   display: table;
   clear: both;
@@ -521,7 +521,7 @@ Modules - reusable parts of our design
   margin-bottom: 2em;
 }
 #cd-timeline::before {
-  /* this is the vertical line */
+  
   content: '';
   position: absolute;
   top: 0;
@@ -830,7 +830,7 @@ Modules - reusable parts of our design
     height: 60px;
     left: 50%;
     margin-left: -30px;
-    /* Force Hardware Acceleration in WebKit */
+    
     -webkit-transform: translateZ(0);
     -webkit-backface-visibility: hidden;
   }
@@ -1021,7 +1021,7 @@ Modules - reusable parts of our design
 }
 
 @media only screen and (min-width: 1170px) {
-  /* inverse bounce effect on even content blocks */
+  
   .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {
     -webkit-animation: cd-bounce-2-inverse 0.6s;
     -moz-animation: cd-bounce-2-inverse 0.6s;
@@ -1201,7 +1201,7 @@ h3:hover .header-link {
   inherits: true;
   initial-value: 0deg;
 }
-/* Difficulty styles */
+
 .puzzle-entry h2 {
   color: #f8e6e6;
   text-shadow: none;
@@ -1249,13 +1249,13 @@ h3:hover .header-link {
   -webkit-text-stroke-color: hsl(var(--rainbow-hue), 100%, 50%);
 }
 
-/* Keyframes for the rainbow text animation (for the fill) */
+
 @keyframes rainbow-text-animation {
   from { background-position: 0% 50%; }
   to { background-position: 200% 50%; }
 }
 
-/* Keyframes for the rainbow cycle (for the box and outline) */
+
 @keyframes rainbow-cycle {
   to { --rainbow-hue: 360deg; }
 }
@@ -1666,4 +1666,221 @@ h3:hover .header-link {
 #back-to-top-btn:hover {
   background-color: #777;
   opacity: 1;
+}
+
+/* --- SASS FUNCTION (FIXED) --- */
+@function generate-starfield($count, $size, $color-mix) {
+  $value: ();
+  @for $i from 1 through $count {
+    
+    $x: random(10000) * 0.01%; 
+    $y: random(10000) * 0.01%;
+    
+    $color: #fff;
+    @if $color-mix and random(10) > 8 { $color: $color-mix; }
+
+    $star: radial-gradient(#{$size} #{$size} at #{$x} #{$y}, #{$color}, transparent);
+    $value: append($value, $star, comma);
+  }
+  @return $value;
+}
+
+.secret-multiverse {
+  border: 2px solid transparent;
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+  background-image: 
+    linear-gradient(#1B2735, #090a0f), 
+    linear-gradient(135deg, #00ffff, #9d00ff, #ff00ff, #00ffff);
+  background-size: 200% 200%;
+  
+  border-radius: 16px;
+  padding: 2em;
+  margin-bottom: 2em;
+  position: relative;
+  overflow: hidden; 
+  transform-style: preserve-3d;
+  
+  animation: 
+    universe-float 25s ease-in-out infinite,
+    nebula-shift 10s ease infinite; 
+    
+  z-index: 1;
+}
+
+.secret-multiverse::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  
+  background-image: 
+    #{generate-starfield(400, 1px, null)},
+    #{generate-starfield(100, 2px, null)},
+    #{generate-starfield(20, 3px, #00ffff)};
+    
+  background-repeat: no-repeat; 
+  z-index: 0; 
+  pointer-events: none;
+  
+  opacity: 1;
+  animation: star-twinkle 5s ease-in-out infinite alternate;
+}
+
+.secret-multiverse::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  z-index: -2; 
+  background: linear-gradient(135deg, #00ffff, #9d00ff, #ff00ff);
+  background-size: 200% 200%;
+  transform: scale(0.98); 
+  filter: blur(25px);
+  opacity: 0.4;
+  animation: nebula-shift 10s ease infinite;
+}
+
+.secret-multiverse h2 {
+  background: linear-gradient(to right, #fff, #00ffff, #ff00ff, #fff);
+  background-size: 200% auto;
+  color: #fff;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: nebula-text 4s linear infinite;
+  
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-shadow: 0 0 20px rgba(0,255,255,0.3);
+  margin-top: 0;
+  
+  position: relative;
+  z-index: 2; 
+}
+
+.secret-multiverse ul, 
+.secret-multiverse p {
+  color: #d1eeff;
+  text-shadow: 0 2px 4px #000, 0 0 10px #000;
+  position: relative;
+  z-index: 2; 
+}
+
+
+
+.secret-grid-item.index-multiverse {
+  background: linear-gradient(135deg, #2b1055, #7597de);
+  border: 2px solid #fff;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0 15px #7597de;
+}
+
+.secret-grid-item.index-multiverse::before {
+  content: "";
+  position: absolute;
+  width: 200%; height: 200%;
+  top: -50%; left: -50%;
+  background: conic-gradient(from 0deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  animation: galaxy-spin 5s linear infinite;
+}
+
+.secret-grid-item.index-multiverse .secret-difficulty {
+  background: linear-gradient(45deg, #ff00ff, #00ffff);
+  color: #fff;
+  border: none;
+  box-shadow: 0 0 10px rgba(255,255,255,0.8);
+}
+
+
+
+@keyframes universe-float {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(-5px) scale(1.01); }
+}
+
+@keyframes nebula-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes star-twinkle {
+  0% { opacity: 0.4; }
+  50% { opacity: 1; }
+  100% { opacity: 0.6; }
+}
+
+@keyframes galaxy-spin {
+  0% { transform: rotate(0deg) scale(0.9); }
+  50% { transform: rotate(180deg) scale(1.1); }
+  100% { transform: rotate(360deg) scale(0.9); }
+}
+
+@keyframes nebula-text {
+  to { background-position: 200% center; }
+}
+
+.sub-chapter-title {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    font-size: 1.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #fff;
+    margin: 50px 0;
+    padding: 20px;
+    text-shadow: 
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #aa00ff,
+        0 0 30px #aa00ff,
+        0 0 40px #aa00ff;
+}
+
+.sub-sub-title {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    font-size: 1.2em;
+    color: #ff0000;
+    margin: 30px 0;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+}
+
+.sub-sub-title::before { content: "[ "; color: #ff0000; }
+.sub-sub-title::after { content: " ]"; color: #ff0000; }
+
+.entity-tag {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #ff4444;            
+    background-color: rgba(255, 0, 0, 0.1); 
+    border: 1px solid #ff4444; 
+    padding: 2px 8px;          
+    border-radius: 4px;        
+    text-transform: uppercase; 
+    letter-spacing: 1px;
+    
+    
+    box-shadow: 0 0 5px rgba(255, 0, 0, 0.4);
+}
+
+.sub-sub-sub-title {
+    font-family: 'Courier New', monospace;
+    font-size: 1.1em;           
+    font-weight: bold;
+    color: #d1a3ff;             
+    margin: 25px 0 10px 0;      
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.sub-sub-sub-title::before {
+    content: "> ";
+    color: #aa00ff;             
+    font-weight: 900;
 }
