@@ -531,25 +531,34 @@ function solveBinary() {
     const gridEl = document.getElementById('binary-grid');
     const colLabelsEl = document.getElementById('bin-col-labels');
     const rowLabelsEl = document.getElementById('bin-row-labels');
+    
     let vVal = parseInt(vInput) || 0;
     let hVal = parseInt(hInput) || 0;
+    
     if(vVal < 0) vVal = 0; if(vVal > 127) vVal = 127;
     if(hVal < 0) hVal = 0; if(hVal > 127) hVal = 127;
     
+    
     const vBin = vVal.toString(2).padStart(7, '0');
-    
-    
     const hBin = hVal.toString(2).padStart(7, '0');
+    
+    
     gridEl.innerHTML = '';
     colLabelsEl.innerHTML = '';
     rowLabelsEl.innerHTML = '';
+    
+    
+    
     for(let c = 0; c < 7; c++) {
         const lbl = document.createElement('div');
-        const val = hBin[c];
+        const val = hBin[6 - c]; 
         lbl.className = val === '1' ? 'bin-label on' : 'bin-label';
         lbl.innerText = val;
         colLabelsEl.appendChild(lbl);
     }
+    
+    
+    
     for(let r = 0; r < 7; r++) {
         const lbl = document.createElement('div');
         const val = vBin[r];
@@ -557,12 +566,16 @@ function solveBinary() {
         lbl.innerText = val;
         rowLabelsEl.appendChild(lbl);
     }
+    
+    
     for(let r = 0; r < 7; r++) {
         for(let c = 0; c < 7; c++) {
             const cell = document.createElement('div');
             cell.className = 'bin-cell';
+            
             const rowIsRed = vBin[r] === '1';
-            const colIsRed = hBin[c] === '1';
+            
+            const colIsRed = hBin[6 - c] === '1'; 
             
             if (rowIsRed || colIsRed) {
                 cell.classList.add('active');

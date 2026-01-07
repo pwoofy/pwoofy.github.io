@@ -2559,7 +2559,7 @@ Then, press the button until it says “42 generations later”. You’ll know y
 
 Now, let’s go back to Great Circuit and see what’s changed.
 
-Oh. Well, he whole place’s on lockdown now. Around the place, there are debug terminals that you can debug. Debugging makes you do warioware-like minigames.
+Oh. Well, the whole place’s on lockdown now. Around the place, there are debug terminals that you can debug. Debugging makes you do warioware-like minigames.
 
 <div class="sub-sub-sub-title">Concentrate</div>
 
