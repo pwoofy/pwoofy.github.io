@@ -428,3 +428,234 @@
   0%, 100% { opacity: 0.3; }
   50% { opacity: 1; }
 }
+
+
+
+
+
+.rbxl-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.rbxl-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #111;
+  padding: 10px;
+  border: 1px solid #333;
+  border-radius: 4px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.rbxl-toggles {
+  display: flex;
+  gap: 15px;
+}
+
+
+.cyber-check {
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding-left: 25px;
+  cursor: pointer;
+  font-size: 0.9em;
+  color: #ccc;
+  user-select: none;
+}
+.cyber-check input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 16px;
+  width: 16px;
+  background-color: #222;
+  border: 1px solid #555;
+}
+.cyber-check:hover input ~ .checkmark { background-color: #333; }
+.cyber-check input:checked ~ .checkmark { background-color: #00ffff; border-color: #00ffff; }
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+  left: 5px; top: 1px; width: 4px; height: 10px;
+  border: solid #000;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+.cyber-check input:checked ~ .checkmark:after { display: block; }
+
+.rbxl-inputs {
+  display: flex;
+  gap: 10px;
+  height: 300px;
+}
+
+.input-pane {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.code-textarea {
+  flex: 1;
+  background: #080808;
+  border: 1px solid #333;
+  color: #ccc;
+  font-family: 'Consolas', monospace;
+  font-size: 0.85em;
+  padding: 10px;
+  resize: none;
+  white-space: pre;
+  overflow-wrap: normal;
+  overflow-x: auto;
+}
+
+.diff-viewer {
+  height: 400px;
+  background: #1e1e1e;
+  border: 1px solid #333;
+  overflow-y: auto;
+  font-family: 'Consolas', monospace;
+  font-size: 0.9em;
+  padding: 5px 0;
+}
+
+
+.diff-line {
+  display: flex;
+  white-space: pre-wrap; 
+  padding: 2px 5px;
+  border-bottom: 1px solid #252525;
+}
+.diff-line.same { color: #666; }
+.diff-line.add { background-color: rgba(23, 56, 34, 0.8); color: #96f2d7; }
+.diff-line.rem { background-color: rgba(74, 24, 24, 0.8); color: #ffadad; }
+.diff-line.header { color: #00ffff; text-align: center; padding: 20px; }
+
+
+.diff-line.highlight {
+  outline: 2px solid #00ffff;
+  z-index: 10;
+}
+
+
+.system-selector {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.sys-btn {
+  background: transparent;
+  border: 1px solid #333;
+  color: #888;
+  padding: 10px 20px;
+  font-family: 'Courier New', monospace;
+  font-size: 1.1em;
+  cursor: pointer;
+  transition: all 0.3s;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.sys-btn:hover {
+  color: #fff;
+  border-color: #666;
+}
+
+.sys-btn.active {
+  background: #111;
+  color: #00ffff;
+  border-color: #00ffff;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
+}
+
+.code-textarea.drag-active {
+  background-color: #1a1a1a;
+  border-color: #00ff00;
+  box-shadow: inset 0 0 20px rgba(0, 255, 0, 0.2);
+  color: #fff;
+}
+
+.rbxl-toolbar {
+  display: flex;
+  align-items: center;
+  background: #111;
+  padding: 10px 15px;
+  border: 1px solid #333;
+  border-radius: 4px;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.main-toggle {
+  border-right: 1px solid #333;
+  padding-right: 20px;
+  margin-right: 10px;
+}
+
+.rbxl-sub-options {
+  display: flex;
+  gap: 15px;
+  flex-grow: 1;
+}
+
+
+.rbxl-sub-options.hidden {
+  display: none !important;
+}
+
+.rbxl-actions {
+  margin-left: auto; 
+}
+
+
+
+.diff-viewer-wrapper {
+  border: 1px solid #333;
+  background: #1e1e1e;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.diff-viewer {
+  height: 400px;
+  overflow-y: auto;
+  font-family: 'Consolas', monospace;
+  font-size: 0.9em;
+  padding: 5px 0;
+  
+  padding-bottom: 50px; 
+}
+
+.diff-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 45px;
+  background: rgba(17, 17, 17, 0.95);
+  border-top: 1px solid #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15px;
+  backdrop-filter: blur(5px);
+  z-index: 100;
+}

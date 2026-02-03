@@ -516,7 +516,7 @@ function solvePrimes() {
         resultText.innerText = `Analysis Incomplete. Residual factor: ${temp} (Not in target spectrum)`;
         resultText.style.color = "#ffaa00";
     } else if (foundAny) {
-        resultText.innerText = `Harmonic Decomposition Complete for ${num}.`;
+        resultText.innerText = `Factorization Complete for ${num}.`;
         resultText.style.color = "#00ffff";
     } else {
         resultText.innerText = `No target primes detected in ${num}.`;
