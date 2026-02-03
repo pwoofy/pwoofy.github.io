@@ -54,7 +54,7 @@ permalink: /tools/
     <div class="tool-card" onclick="switchTool('rbxl', this)">
       <div class="tool-icon">📄</div>
       <div class="tool-info">
-        <h3>RBXL XML Compare</h3>
+        <h3>Difference Checker</h3>
         <p>Diff Checker & Cleaner</p>
       </div>
     </div>
