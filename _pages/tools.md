@@ -186,7 +186,7 @@ permalink: /tools/
 
   <div id="view-rbxl" class="tool-view" style="display:none;">
     <div class="tool-header">
-      <h2>RBXL / XML Differential</h2>
+      <h2>File Difference</h2>
       <p style="color: #888;">Compare two file versions. Drag & Drop files supported.</p>
     </div>
 
