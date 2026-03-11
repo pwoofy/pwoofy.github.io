@@ -2803,3 +2803,15 @@ Thank you for reading.
 <p>I'm trying to get this out early, but you need to go to dimension 6 first. Stand right next to the thanos stud and orient yourself facing the set of chairs. Click on the stud, equip your speed coil, and walk straight until you touch a chair (in other words, run blindly to the chairs). If this doesn't work once, you need to redo it multiple times until you get the badge.</p>
 </div>
 <br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Worth A Try [#125]</h2>
+<ul>
+<li>Difficulty: 467</li>
+<li>Personal Difficulty: 500</li>
+<li>Official Solution: Try to open the Elite Door using the key from floor 2 of the Elevator Trials</li>
+<li>Unlocks: Obamid</li>
+</ul>
+<p>It's quite simple! You head to the elevator trials, head to floor 2, get the key, drop it (with backspace, but i assume you already know how to drop it), claim it, then head to the 100 secrets door under spawn holding out that key.</p>
+</div>
+<br>

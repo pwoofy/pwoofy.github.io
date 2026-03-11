@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   const puzzleEntries = document.querySelectorAll('.puzzle-entry');
   const allSecretsData = [];
-  const totalSecretsDocumented = 124; 
+  const totalSecretsDocumented = 125; 
   let unknownCount = 0;
 
   puzzleEntries.forEach((entry, index) => {
