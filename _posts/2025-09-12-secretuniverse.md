@@ -2791,3 +2791,15 @@ Thank you for reading.
 <!-- is it the end...? -->
 </div>
 <br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Ground Zero [#124]</h2>
+<ul>
+<li>Difficulty: 670</li>
+<li>Personal Difficulty: 600</li>
+<li>Official Solution: Keep snapping the Thanos Stud and leaving the dimension until you are a floating head.</li>
+<li>Unlocks: Obamid</li>
+</ul>
+<p>I'm trying to get this out early, but you need to go to dimension 6 first. Stand right next to the thanos stud and orient yourself facing the set of chairs. Click on the stud, equip your speed coil, and walk straight until you touch a chair (in other words, run blindly to the chairs). If this doesn't work once, you need to redo it multiple times until you get the badge.</p>
+</div>
+<br>
