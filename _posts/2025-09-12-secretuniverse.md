@@ -2810,8 +2810,20 @@ Thank you for reading.
 <li>Difficulty: 467</li>
 <li>Personal Difficulty: 500</li>
 <li>Official Solution: Try to open the Elite Door using the key from floor 2 of the Elevator Trials</li>
-<li>Unlocks: Obamid</li>
+<li>Unlocks: Bidome</li>
 </ul>
 <p>It's quite simple! You head to the elevator trials, head to floor 2, get the key, drop it (with backspace, but i assume you already know how to drop it), claim it, then head to the 100 secrets door under spawn holding out that key.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Stack Overflow[#126]</h2>
+<ul>
+<li>Difficulty: 190</li>
+<li>Personal Difficulty: 100</li>
+<li>Official Solution: Write a message longer than the Chat character limit in Replacement chat.</li>
+<li>Unlocks: Bidome</li>
+</ul>
+<p>Quite obvious. On the bottom right, there's replacement chat. Just paste in something like... I don't know. The entirety of this website? Something long works.</p>
 </div>
 <br>
