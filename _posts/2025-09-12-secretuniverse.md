@@ -2817,7 +2817,7 @@ Thank you for reading.
 <br>
 
 <div class="puzzle-entry" markdown="1">
-<h2>Stack Overflow[#126]</h2>
+<h2>Stack Overflow [#126]</h2>
 <ul>
 <li>Difficulty: 190</li>
 <li>Personal Difficulty: 100</li>
