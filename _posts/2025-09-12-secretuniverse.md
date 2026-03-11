@@ -2793,7 +2793,7 @@ Thank you for reading.
 <br>
 
 <div class="puzzle-entry" markdown="1">
-<h2>Ground Zero [#124]</h2>
+<h2>Head Honcho [#124]</h2>
 <ul>
 <li>Difficulty: 670</li>
 <li>Personal Difficulty: 600</li>
