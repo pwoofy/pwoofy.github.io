@@ -2061,24 +2061,78 @@ h3:hover .header-link {
 }
 
 
+/* --- TO BE CONTINUED INDEX ITEM (Exact Mirror of Standard Layout) --- */
+
 .secret-grid-item.theme-to-be-continued {
+  /* Use the exact same flex and spacing as your .secret-grid-item */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+  height: 150px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  
+  /* Applying your specific Sequel colors */
   background: linear-gradient(135deg, #18092b, #3a2503);
-  border: 2px solid transparent;
-  background-clip: padding-box, border-box;
-  background-origin: padding-box, border-box;
-  background-image: 
-    linear-gradient(#18092b, #3a2503), 
-    linear-gradient(45deg, #8c1eff, #ffb732);
-  border-radius: 16px; 
-  box-shadow: 0 0 12px rgba(255, 183, 50, 0.2);
+  border: 1px solid #ffb732;
 }
 
+/* Ensure the icon matches the size and positioning of Historian/Dimension-1 */
+.secret-grid-item.theme-to-be-continued .secret-image-placeholder {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-top: 20px; 
+  margin-bottom: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.2); 
+  z-index: 5;
+}
+
+/* Dock the difficulty badge exactly like the others */
 .secret-grid-item.theme-to-be-continued .secret-difficulty {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 2px 5px;
+  border-radius: 4px;
+  z-index: 10;
+  /* Sequel Color Gradient */
   background: linear-gradient(45deg, #8c1eff, #ffb732);
-  color: #ffffff;
-  font-weight: 900;
-  border: none;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+/* Ensure the title text matches the standard grid font/size */
+.secret-grid-item.theme-to-be-continued .secret-title {
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1.2;
+  flex-grow: 1; 
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+/* Optional: Keep the spinny background effect if you want, 
+   but strictly contained within the border */
+.secret-grid-item.theme-to-be-continued::before {
+  content: "";
+  position: absolute;
+  width: 200%; height: 200%;
+  top: -50%; left: -50%;
+  background: conic-gradient(from 0deg, transparent, rgba(255, 183, 50, 0.15), transparent);
+  animation: galaxy-spin 5s linear infinite;
+  z-index: 0;
+  pointer-events: none;
 }
 
 
