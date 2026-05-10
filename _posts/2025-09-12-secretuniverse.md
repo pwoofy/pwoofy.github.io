@@ -2827,3 +2827,316 @@ Thank you for reading.
 <p>Quite obvious. On the bottom right, there's replacement chat. Just paste in something like... I don't know. The entirety of this website? Something long works.</p>
 </div>
 <br>
+
+<div class="puzzle-entry theme-to-be-continued" id="secret-127" markdown="1">
+  
+  <div class="entry-toolbar">
+    <button class="cyber-btn tiny" onclick="toggleDetails('secret-127', true)">⮟ EXPAND ALL</button>
+    <button class="cyber-btn tiny" onclick="toggleDetails('secret-127', false)">⮝ COLLAPSE ALL</button>
+  </div>
+
+  <h2>TO BE CONTINUED [#127]</h2> 
+  <ul>
+    <li>Difficulty: 860</li>
+    <li>Personal Difficulty: 890</li>
+    <li>Official Solution: Complete the "IN 1 MINUTE YOU WILL EXPLODE" quest and enter Hammerspace as Keith.</li>
+    <li>Unlocks: Lockbox</li>
+  </ul>
+
+  <h1>Starting</h1>
+  <p>Welcome back to Secret Multiverse! Or is it? Well. Let’s check the update logs.</p>
+  
+  <img src="/images/secretuniverse/tobecontinued/upd.png" alt="Update Log" class="content-img">
+
+  <p>Alright, so stack overflow. This unlocks the Makeshift Portal at Dimension-7. Make your way there, and you should find another SU portal!</p>
+  
+  <img src="/images/secretuniverse/tobecontinued/portal.png" alt="Portal" class="content-img">
+
+  <p>Entering it will take you to I1MYWE. That’s quite odd. If you check your surroundings from where you spawned, you should see another SU portal. Head to it. Once you grab it, you can see that there are particles from it, so you need to keep following the portal (make sure you use the blue speed orbs to increase your speed). You should be circling around the perimeter of the island. Once you’ve obtained everything, the world around you should collapse, and you will get sucked into a black hole.</p>
+
+  <p>Now it’s time for…</p>
+
+  <h1>EGOR [2]</h1>
+  <p>Welcome to EGOR! Or shall I say, welcome back? You’re now transported in EGOR, but slightly different. Follow the list of endings in a row, since some endings depend on other endings!</p>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 1: Fell</h2></summary>
+    <div class="collapse-content">
+      <p>Just fall right into the gap.</p>
+      <img src="/images/secretuniverse/tobecontinued/unnamed.png" alt="Fell Ending" class="content-img">
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 2: You won!</h2></summary>
+    <div class="collapse-content">
+      <p>Go across the bridge and touch the winpad.</p>
+      <img src="/images/secretuniverse/tobecontinued/win.png" alt="Win Ending" class="content-img">
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 3: Explode</h2></summary>
+    <div class="collapse-content">
+      <p>Simply wait for the bomb timer to run out.</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 4: Stranded</h2></summary>
+    <div class="collapse-content">
+      <p>Go into the Theory of Relativity machine, travel forward/backward, then walk out before the cutscene triggers.</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 5: Cheese</h2></summary>
+    <div class="collapse-content">
+      <p>Once you have the previous endings, you should have enough fuel to transit to travel forward to Cheese (7.01). From there on out, just walk to the cheese.</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 6: Void</h2></summary>
+    <div class="collapse-content">
+    	<p>Travel to any dimension that’s not: Easy (7.00) or Diamond (7.14), go right out of the gap and jump into the void.</p>
+		<img src="/images/secretuniverse/tobecontinued/voided.png" alt="Win Ending" class="content-img">
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 7: Lost</h2></summary>
+    <div class="collapse-content">
+      	<p>Make your way up to where the Sewers hole in EGOR would be and jump in.</p>
+	  	<img src="/images/secretuniverse/tobecontinued/sewer.png" alt="Win Ending" class="content-img">
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 8: Apple</h2></summary>
+    <div class="collapse-content">
+    	<p>Travel forward to Apple (7.02) and touch the apple.</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 9: Grapes</h2></summary>
+    <div class="collapse-content">
+    	<p>Travel forward to Grape (7.03) and touch the grape.</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 10: Laser</h2></summary>
+    <div class="collapse-content">
+    	<p>Travel forward to Angry (7.06), walk out of the machine and die to the laser.</p>
+	  	<img src="/images/secretuniverse/tobecontinued/malaysia.png" alt="Win Ending" class="content-img">
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 11: Angry</h2></summary>
+    <div class="collapse-content">
+    	<p>You may notice that <i>each</i> dimension has 2 planks that you can pick up.. just like the original EGOR. If you combine 5 planks together, you can make a plank shield, which will be a useful tool later. For now, after you obtained said plank shield, go to Angry (7.06), equip the plank shield. This should shield you from the laser that constantly shoots at you (no need to worry about being shot from behind, it won’t kill you). From here on, simply walk towards the winpad.</p>
+	  	<img src="/images/secretuniverse/tobecontinued/pew.png" alt="Win Ending" class="content-img">
+    </div>
+  </details>
+
+   <details class="cosmic-collapse">
+    <summary><h2>Ending 12: Retro</h2></summary>
+    <div class="collapse-content">
+    	<p>For this one, touching the winpad does not award you the badge, rather the winpad teleports around the map. Simply just walk up to every position of the pad, until it awards you with the ending.</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 13: Bluescreen</h2></summary>
+    <div class="collapse-content">
+    	<p>Head to the travel machine. The first thing you should see is on the side of the table under the screen, there is a USB stick.</p>
+		<img src="/images/secretuniverse/tobecontinued/us.png" alt="Win Ending" class="content-img">
+		<p>Take the USB stick, and put it back in. You should notice that on the top right of the travel screen, there is a popup. It says click for options. Click on that popup, and click on the USB (titled Chomco T_OS-v4.2). It should go into boot mode. While in the loading screen, take the USB Drive out. The screen should bluescreen, and you should get the ending shortly after.</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 14: Invisible</h2></summary>
+    <div class="collapse-content">
+    	<p>Travel to Invisible (7.13). From here, simply walk towards the winpad using Click to Move!</p>
+		<img src="/images/secretuniverse/tobecontinued/invis.png" alt="Win Ending" class="content-img">
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 15: Diamond</h2></summary>
+    <div class="collapse-content">
+    	<p>Travel to Diamond (7.14), and head straight towards the diamond to claim it.</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 16: Globe</h2></summary>
+    <div class="collapse-content">
+    	<p><b>Please read this first before attempting. First, get the yellow orb in Easy (7.00) (This will give you extra time for what’s about to come, about 1 min to be exact)</b></p>
+		<img src="/images/secretuniverse/tobecontinued/yelow.png" alt="Win Ending" class="content-img">
+		<p>Then, travel <i>backwards</i> <b>twice</b> to Globe (7.85). Once you arrived, IMMEDIATELY RUSH TO THE WINPAD. (as your timer decreases FOUR TIMES as fast)</p>
+		<img src="/images/secretuniverse/tobecontinued/globe.png" alt="Win Ending" class="content-img">
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 17: Burger</h2></summary>
+    <div class="collapse-content">
+    	<p><b>This is fucking terrible, but expect to do this loop a few more times from here on out. Additionally, please read through the end of this so you get a grip as for what you need to do, as the timing might be rather strict.</b></p>
+		<p>Upon spawning in the world, <b>IMMEDIATELY</b> head for the yellow orb in Easy (7.00) for the extra 1 minute timer. You should have around 1 minute and 53 seconds (± 2 seconds) when entering the Theory of Relativity machine. Then, by spam-clicking (or autoclicking) the “Travel Forward” button, head towards Diamond (7.14). From there, <b>IMMEDIATELY</b> click “Travel Backwards” towards Invisible (7.13). And from there, <b>IMMEDIATELY</b> click “Travel Forwards” towards Diamond (7.14) again. </p>
+		<p>The reason why we are doing this is because by travelling from Diamond to Invisible, the tree gets broken. It gets split into two parts: the top part and the bottom part. The top part is the ball part, and that is what we need.</p>
+		<img src="/images/secretuniverse/tobecontinued/idolium.png" alt="Win Ending" class="content-img">
+		<p>Push the ball towards the diamond, and it should be shattered.</p>
+		<img src="/images/secretuniverse/tobecontinued/crash.png" alt="Win Ending" class="content-img">
+		<p>Each of the diamond shards is an extra fuel, so make sure you get every single one of them. Once you collect every single shard, head back to the Theory of Relativity machine and travel to the next dimension, which is Burger (7.42). Just head towards the end, and you will get Burger ending!</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 18: Candyland</h2></summary>
+    <div class="collapse-content">
+    	<p>This is the first complicated ending in the entire secret. When using the Theory of Relativity machine, you may notice that when travelling backwards, your machine actually slams into a tree and demolishes it. This secret will utilize that mechanic.</p>
+		<p>First, take the yellow orb for extra time (this is crucial). Then, travel to Diamond (7.14) and travel back to Invisible (7.13). This will demolish the tree in the Diamond dimension. Next, travel forward back to Diamond (7.14). Upon arrival, immediately rush to push the Glass Ball part of the tree into the Diamond to shatter it (like ending 17). The diamond’s shattered pieces will provide fuel for the Theory of Relativity machine.</p>
+		<img src="/images/secretuniverse/tobecontinued/owo.png" alt="Win Ending" class="content-img">
+		<p>After you’ve gotten all parts of the diamond, quickly make your way back to the machine and travel back to Easy (7.00). After you arrive in Easy, immediately press travel back twice into Globe (7.85). Then, same thing in Globe, after you arrive, immediately press travel forward twice to get back to Easy (7.00). Once you’re back, this time, instead of pushing the ball towards the winpad, you’re gonna want to push the ball towards the floating orb that spawned in place of the tree, use it as a boost to get the floating orb. This orb will then give you a total of 25 hours of time on the bomb.</p>
+		<img src="/images/secretuniverse/tobecontinued/owo2.png" alt="Win Ending" class="content-img">
+		<p>After you’ve gotten the orb, go back to the machine and travel backward once into Candyland (7.99). Once you have arrived, immediately rush towards the winpad and that should get you the Candyland secret. (you should rush because the timer goes down ~2 hours per second so realistically you have ~13 seconds to get to the winpad)</p>
+		<img src="/images/secretuniverse/tobecontinued/candyland.png" alt="Win Ending" class="content-img">
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 19: Sick</h2></summary>
+    <div class="collapse-content">
+    	<p><b>Worst ending ever (or easiest, depending on how used you are to very strict pacing). I will also be providing my times to see if you are on pace or not.</b></p>
+		<p>Spawn in the game and grab the 1 minute yellow orb in Easy (7.00). By the time you enter the Theory of Relativity machine, you should still have 1:54 on the clock. Autoclick (or spam click) to head to Diamond (7.14). Similar to the Burger ending, you need to head to Invisible (7.13) and then back to Diamond (7.14) to shatter the diamond (for reasoning on why we do so, please check previous endings. Images are recycled from previous endings too) and collect the shards for extra fuel. <b>This is the worst part of the run, as some luck is required to get the ball to hit the diamond when you come back. This is the optimal way, as pushing it yourself manually is not worth it, unless the ball is very close to the diamond.</b></p>
+		<img src="/images/secretuniverse/tobecontinued/crash.png" alt="Win Ending" class="content-img">
+		<p>When you shatter the diamond and collect all the shards, head back to the Theory of Relativity machine. You should have around 0:47 (± 0:02) left on the clock. With this time, travel BACKWARDS to Cheese (7.01) and grab the cheese.</p>
+		<p>When you head back from getting the cheese, you should have around 0:30 left on the clock. Head to the Theory of Relativity machine, and Travel Backwards to Easy (7.00). Once you’re at Easy (7.00), immediately travel backwards to Globed (7.85 (backwards 2x)). Once you’re at Globed (7.85), IMMEDIATELY travel forwards to Easy  (7.00). You should have around 10 seconds left on your timer.</p>
+		<img src="/images/secretuniverse/tobecontinued/pwp.png" alt="Win Ending" class="content-img">
+		<p>You should then see the 1-day orb. Utilize the ball to get yourself up there. Once you do so, drop the cheese in Easy (7.00). You can drop it anywhere.</p>
+		<img src="/images/secretuniverse/tobecontinued/chez.png" alt="Win Ending" class="content-img">
+		<p>After you’ve done that, head to Candyland (7.99). You might notice that for every second you spend in Candyland, you lose 1 hour of your timer. Let this timer tick down until it reaches around 1 hour left on your in-game timer (so in other words, 1 second left of your REAL timer). It is quite lenient, as long as your timer is around 1 hour left.</p>
+		<p>Once you do so, head back to Easy (7.00) and you might notice that the cheese has aged, and has turned green. Eat it, and you should get the Sick ending.</p>
+		<img src="/images/secretuniverse/tobecontinued/ch2.png" alt="Win Ending" class="content-img">
+		<p>Visual guide!</p>
+		<div class="video-wrapper">
+			<iframe 
+				src="https://www.youtube.com/embed/S84u5kpLQSA" 
+				title="YouTube video player" 
+				frameborder="0" 
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+				referrerpolicy="strict-origin-when-cross-origin" 
+				allowfullscreen>
+			</iframe>
+		</div>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 20: Paintbrush</h2></summary>
+    <div class="collapse-content">
+    	<p><b>Before you start, it is worth noting that I don’t know if this ending is a prerequisite for the secret. I suggest you get it.</b></p>
+		<p>One of the ultimatums. To start, grab the 2 planks in the Easy (7.00) dimension, then immediately rush to grab the yellow orb and give yourself an extra minute.</p>
+		<img src="/images/secretuniverse/tobecontinued/shu.png" alt="Win Ending" class="content-img">
+		<p>Then do the diamond routine of traveling to Diamond (7.14), going back to Invisible (7.13), then head back to (7.14). This time, you’ll be grabbing the 2 planks from Diamond as you go to push the ball to break the diamond.</p>
+		<img src="/images/secretuniverse/tobecontinued/gig.png" alt="Win Ending" class="content-img">
+		<p>After you shattered the diamond and collected all of its fuel, travel backward to Bomb (7.04). In this dimension, time decreases slower so grab a plank, make a plank shield and defuse the bomb by going near it with the plank shield.</p>
+		<img src="/images/secretuniverse/tobecontinued/shil.png" alt="Win Ending" class="content-img">
+		<p>You will take damage and be flung backwards. You will also bleed out. The timer will stop ticking. Use the fling to your advantage to get back to the machine faster. From here, travel backwards to Cyber (7.67). Immediately rush your way to the computer. If you die while near the computer, it is fine if you can click the computer monitor to open up the commands interface.</p>
+		<img src="/images/secretuniverse/tobecontinued/comp.png" alt="Win Ending" class="content-img">
+		<img src="/images/secretuniverse/tobecontinued/console.png" alt="Win Ending" class="content-img">
+		<p>Once the console is opened, type the following lines in order:</p>
+			<ol>
+			<li>
+				<code>whoami</code>
+			</li>
+			<li>
+				<code>set LOCALCHAR=%USERPROFILE%\character.dat</code>
+				<br><small>(It should output: “Character Found.”)</small>
+			</li>
+			<li>
+				<code>rundll32 "%LOCALCHAR%",RefreshCharacter</code>
+				<br><small>(It should output: “Successfully refreshed character.”)</small>
+			</li>
+			</ol>
+		<p>Once you’ve respawned, close out of the console, make your way back to the Theory of Relativity machine, and take the USB out.</p>
+		<img src="/images/secretuniverse/tobecontinued/stick.png" alt="Win Ending" class="content-img">
+		<p>Then, insert it into the computer.</p>
+		<img src="/images/secretuniverse/tobecontinued/stick2.png" alt="Win Ending" class="content-img">
+		<p>Once done, re-open the console (by clicking the computer monitor) and type in these lines in order:</p>
+			<ol>
+			<li>
+				<code>wmic logicaldisk where "drivetype=2" get name</code>
+				<br><small>(It should output: “External Drive “E:” has been mounted”)</small>
+			</li>
+			<li>
+				<code>findstr "Dimensions" config.sys</code>
+				<br><small>(It should output: “Output: “Dimensions=7.00, 7.01,...(13)””)</small>
+			</li>
+			<li>
+				<code>replace 'Dimensions=.*', 'Dimensions=NaN' | Set-Content config.sys</code>
+				<br><small>(It should output: “[WARN] Writing non-numeric value to Dimensions…”)</small>
+			</li>
+			<li>
+				Wait until the console displays: <b>“Write complete.”</b>
+			</li>
+			</ol>
+		<p>Close out of the console afterwards, remove the USB stick, and insert it back into the Theory of Relativity machine. Once inserted, there will be an option to switch devices located at the top right of the screen. Click for options, then select the USB, let it load, the screen will now display this:</p>
+		<img src="/images/secretuniverse/tobecontinued/nan.png" alt="Win Ending" class="content-img">
+		<p>Just press any button. You’ll be given a warning about photosensitive epilepsy warning. Watch it or skip it, it depends on you. After watching (or skipping) the cutscene, you’ll be teleported to the Glitched dimension (7.??) where your timer keeps going up and up and up and up and up and</p>
+		<img src="/images/secretuniverse/tobecontinued/oou.png" alt="Win Ending" class="content-img">
+		<p>Oh, it stopped at 68 years... Nevermind that, in the distance, you’ll see a box. This is the Theory of Relativity device. Head towards it.</p>
+		<img src="/images/secretuniverse/tobecontinued/HELP.png" alt="Win Ending" class="content-img">
+		<p>In here, insert back the USB stick. Same with the previous step with the computer, click for options, and then select the USB. Instead of letting it load, bluescreen yourself (like the ending, yes). Let the system reload, it will then issue this warning:</p>
+		<img src="/images/secretuniverse/tobecontinued/lir.png" alt="Win Ending" class="content-img">
+		<p>Then, you’ll be taken to another dimension. Upon arrival, the Theory of Relativity device will be dark, signalling that it’s night time. Navigate your way to the door and open it. You will now appear back in EGOR, but now it’s night time. What you need to do here is, DO NOT TOUCH THE TROPHY. Instead, turn 180 degrees from the trophy, you’ll see that there’s a truss on the terrain leading up to the top of the map.</p>
+		<img src="/images/secretuniverse/tobecontinued/tru.png" alt="Win Ending" class="content-img">
+		<p>Climb up here and walk around the borders of the EGOR map until you see this flashing lamp post. Drop down to it, and there should be a code pad right next to it.</p>
+		<img src="/images/secretuniverse/tobecontinued/pain.png" alt="Win Ending" class="content-img">
+		<p>Similar to the original EGOR, this lamp will flash in morse code: “ILOVEPAINT”, which is the code to the Paint Ending in the original game. Entering ILOVEPAINT onto the codepad will send you to the Paint Dimension (7.??). From here, simply walk to the paintbrush.</p>
+    </div>
+  </details>
+
+  <details class="cosmic-collapse">
+    <summary><h2>Ending 21: Reincarnated</h2></summary>
+    <div class="collapse-content">
+    	<p>Do Paintbrush ending all over again. However, instead of stepping on the winpad at the end, click on the Paintbrush. You should get a Paintbrush item. Go back to the Theory of Relativity machine, and you should realize that on the other end of the room, there is a door that you can open. This opens a capsule containing a humanoid. Remove its accessories, and you should be able to color it. With your paintbrush, you can click on a color vial to copy its color to the humanoid.</p>
+		<img src="/images/secretuniverse/tobecontinued/erm.png" alt="Win Ending" class="content-img">
+		<p>
+		<em><b>Note:</b> At the time of writing, the yellow vial is unfortunately invisible. If you cannot see it, simply interact with the empty space directly between the red and blue vials.</em>
+		</p>
+		<p>To proceed, apply the color mixtures to the character's body parts exactly as follows:</p>
+		<ul>
+		<li>
+			<b>Head, Left Arm, & Right Arm:</b> <code>Yellow</code> <small>(Max Yellow)</small>
+		</li>
+		<li>
+			<b>Torso:</b> <code>Blue</code> <small>(Max Blue)</small>
+		</li>
+		<li>
+			<b>Left Leg & Right Leg:</b> <code>Green</code> <small>(1x Yellow + 1x Blue)</small>
+		</li>
+		</ul>
+		<img src="/images/secretuniverse/tobecontinued/keith.png" alt="Win Ending" class="content-img">
+		<p>The objective now should be Return. You should be able to jump inside the spawn pad.</p>
+		<img src="/images/secretuniverse/tobecontinued/reds.png" alt="Win Ending" class="content-img">
+		<p>You should be teleported to the original world. Now, close the door to the Theory of Relativity machine. Once you do so, the objective now is to Hide. Hide? Well, you’re supposed to go on top of the Theory of Relativity machine.</p>
+		<img src="/images/secretuniverse/tobecontinued/six.png" alt="Win Ending" class="content-img">
+		<p>Yeah, just stand on top of it. A cutscene will play and you’ll get the ending.</p>
+		<p>Well… what now? “I did all of this but I didn’t get the secret??” you might ponder to yourself. And to that, I say: you should rejoin, and you’ll realize that everything is different. Your objective is to get into position. What does Keith do? Well, head into the sewer! </p>
+		<img src="/images/secretuniverse/tobecontinued/swr.png" alt="Win Ending" class="content-img">
+		<p>Once you’re in, lock yourself in the sewer.</p>
+		<img src="/images/secretuniverse/tobecontinued/lck.png" alt="Win Ending" class="content-img">
+		<p>I won’t spoil the cutscene, but after the cutscene rolls by, you will be at the surface. Drop down into the winpad hole. Sit on the chair. You’ll see what happens. If you are ever in a black void, jump and sit down on the chair again.</p>
+    </div>
+  </details>
+  <h1>Secret Universe</h1>
+  <p>Welcome back to Secret Universe. Head to Dimension-7. Good luck. You can do the rest. Trust me!</p>
+
+</div>
+<br>

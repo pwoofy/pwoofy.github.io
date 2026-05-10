@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   const puzzleEntries = document.querySelectorAll('.puzzle-entry');
   const allSecretsData = [];
-  const totalSecretsDocumented = 126; 
+  const totalSecretsDocumented = 127; 
   let unknownCount = 0;
 
   puzzleEntries.forEach((entry, index) => {
@@ -32,14 +32,11 @@ document.addEventListener('DOMContentLoaded', function() {
       const difficultyText = difficultyLi.textContent.toLowerCase();
       const difficultyValue = parseInt(difficultyText.split(':')[1].trim(), 10) || 0;
 
-      
-
       let specialClassApplied = false;
 
       
       if (lowerTitle.includes("secret multiverse")) {
         entry.classList.add('secret-multiverse');
-        
         
         const starfield = document.createElement('div');
         starfield.classList.add('starfield');
@@ -49,10 +46,15 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       
+      else if (lowerTitle.includes("to be continued")) {
+        entry.classList.add('theme-to-be-continued'); 
+        specialClassApplied = true;
+      }
+
+      
       else if (lowerTitle.includes("puthing around") && isPDUnknown && difficultyValue >= 1000) {
         entry.classList.add('difficulty-1000'); 
         entry.classList.add('difficulty-unknown'); 
-        
         
         if (titleElement.getAttribute('data-text') === null) {
             titleElement.setAttribute('data-text', titleElement.textContent);
@@ -71,9 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
           unknownCount++;
         }
         
-        
         if (difficultyValue >= 1000 && !lowerTitle.includes("puthing around")) {
-           
            entry.classList.add('difficulty-1000');
         } else if (difficultyValue > 950) {
           entry.classList.add('difficulty-mythic');
@@ -94,19 +94,18 @@ document.addEventListener('DOMContentLoaded', function() {
         isPDUnknown: isPDUnknown,
         secretNumber: secretNumber,
         isMultiverse: lowerTitle.includes("secret multiverse"), 
+        isToBeContinued: lowerTitle.includes("to be continued"), 
         isPuthingAround: lowerTitle.includes("puthing around")  
       });
     }
   });
 
-  
   allSecretsData.sort((a, b) => {
     if (a.isPDUnknown && !b.isPDUnknown) return 1;
     if (!a.isPDUnknown && b.isPDUnknown) return -1;
     return b.difficulty - a.difficulty;
   });
 
-  
   const documentedCountOnPage = allSecretsData.length - unknownCount;
   const indexContainer = document.createElement('div');
   indexContainer.id = 'secret-index-container';
@@ -133,16 +132,17 @@ document.addEventListener('DOMContentLoaded', function() {
     
     
     if (secret.isMultiverse) {
-        
         gridItem.classList.add('index-multiverse'); 
     } 
-    else if (secret.isPuthingAround && secret.isPDUnknown) {
+    else if (secret.isToBeContinued) {
         
+        gridItem.classList.add('theme-to-be-continued'); 
+    }
+    else if (secret.isPuthingAround && secret.isPDUnknown) {
         gridItem.classList.add('difficulty-gradient-1000');
         gridItem.classList.add('difficulty-gradient-unknown');
     }
     else {
-        
         if (secret.isPDUnknown) {
             gridItem.classList.add('difficulty-gradient-unknown');
         } else if (secret.difficulty >= 1000) {
@@ -207,3 +207,17 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
+
+function toggleDetails(containerId, forceOpen) {
+  const container = document.getElementById(containerId);
+  if (!container) return;
+  const collapsibles = container.querySelectorAll('details.cosmic-collapse');
+  
+  collapsibles.forEach(item => {
+    if (forceOpen) {
+      item.setAttribute('open', '');
+    } else {
+      item.removeAttribute('open');
+    }
+  });
+}
