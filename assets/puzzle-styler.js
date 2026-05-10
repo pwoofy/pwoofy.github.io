@@ -173,17 +173,17 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     const imageSrc = secret.secretNumber
-      ? `/images/secretuniverse/icons/${secret.secretNumber}.png`
-      : `/images/secretuniverse/icons/placeholder.png`;
+    ? `/images/secretuniverse/icons/${secret.secretNumber}.png`
+    : `/images/secretuniverse/icons/placeholder.png`;
 
-    gridItem.innerHTML = `
-      <div class="secret-difficulty">${secret.displayDifficulty}</div>
-      <img src="${imageSrc}" 
-           alt="${secret.title} icon" 
-           class="secret-image-placeholder" 
-           onerror="this.onerror=null; this.src='/images/secretuniverse/icons/placeholder.png';">
-      <div class="secret-title">${secret.title}</div>
-    `;
+  gridItem.innerHTML = `
+    <div class="secret-difficulty">${secret.displayDifficulty}</div>
+    <img src="${imageSrc}" 
+        alt="${secret.title} icon" 
+        class="secret-image-placeholder" 
+        onerror="this.onerror=null; this.src='/images/secretuniverse/icons/placeholder.png';">
+    <div class="secret-title">${secret.title}</div>
+  `;
     secretGrid.appendChild(gridItem);
   });
 

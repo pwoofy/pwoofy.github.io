@@ -3040,7 +3040,7 @@ Thank you for reading.
   <details class="cosmic-collapse">
     <summary><h2>Ending 20: Paintbrush</h2></summary>
     <div class="collapse-content">
-    	<p><b>Before you start, it is worth noting that I don’t know if this ending is a prerequisite for the secret. I suggest you get it.</b></p>
+    	<p><b>Before you start, it is worth noting that this ending is NOT a prerequisite for the secret. It is only here for the sake of completeness.</b></p>
 		<p>One of the ultimatums. To start, grab the 2 planks in the Easy (7.00) dimension, then immediately rush to grab the yellow orb and give yourself an extra minute.</p>
 		<img src="/images/secretuniverse/tobecontinued/shu.png" alt="Win Ending" class="content-img">
 		<p>Then do the diamond routine of traveling to Diamond (7.14), going back to Invisible (7.13), then head back to (7.14). This time, you’ll be grabbing the 2 planks from Diamond as you go to push the ball to break the diamond.</p>
