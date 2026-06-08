@@ -30,8 +30,8 @@ i also volunteer for organizations, most notable feat was mentoring students in 
 as a typical southeast asian person, of course i play rhythm games. mostly chunimai & mobile rgs, but hey if you're curious here's my feats
 
 - Phigros: 16.00
-- Chunithm: 15.93
-- maimai: 13281
+- Chunithm: 16.01
+- maimai: 14897
 - PJSK: diff 32 fc
 
 ---
@@ -58,8 +58,8 @@ also, there might be puzzles in my website someday.
 <h2> I HAVE NO LIFE !!! </h2>
 ---
 
-currently mainly grinding hypixel skyblock
+there used to be a section about hypixel skyblock here, but i quit that game. now im moving to
 
-skycrypt: https://sky.shiiyu.moe/stats/Pawthetic
-
-![Nadeshiko Stats](https://nadeshiko.io/card/eyJuYW1lIjoiUGF3dGhldGljIiwiZ2FtZSI6IlNLWUJMT0NLX0dFTkVSQUwiLCJzaXplIjoiRk9SVU1TIn0=)
+STAR TECHNOLOGY!!!!!
+- 108 hours of gameplay
+- currently in HV (but close to EV)
