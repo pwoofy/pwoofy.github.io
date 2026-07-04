@@ -1,8 +1,7 @@
 ---
-layout: post
-title: Secret Universe, All Secrets Fully Explained
-categories: Puzzling
-excerpt: The following contains all of Secret Universe's Secrets, explained. Hopefully you can learn something from this.
+layout: guide
+title: Secret Universe Guide
+banner: "/images/secretuniverse/gulp.webp"
 has_secret_index: true
 ---
 

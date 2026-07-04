@@ -100,3 +100,7 @@ exclude:
   - README.md
   - CNAME
 
+collections:
+  guides:
+    output: true
+    permalink: /guides/:path/
