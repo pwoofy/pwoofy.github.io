@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       
-      else if (lowerTitle.includes("puthing around") && isPDUnknown && difficultyValue >= 1000) {
+      else if (lowerTitle.includes("puthing around") && difficultyValue >= 1000) {
         entry.classList.add('difficulty-1000'); 
         entry.classList.add('difficulty-unknown'); 
         
@@ -138,7 +138,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         gridItem.classList.add('theme-to-be-continued'); 
     }
-    else if (secret.isPuthingAround && secret.isPDUnknown) {
+    else if (secret.isPuthingAround) {
         gridItem.classList.add('difficulty-gradient-1000');
         gridItem.classList.add('difficulty-gradient-unknown');
     }

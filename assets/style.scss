@@ -380,12 +380,11 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
     font-style: italic;
-    background-color: #ede1ff;
+    background-color: #000;
   }
 
   .you-may-like{
@@ -1365,9 +1364,9 @@ h3:hover .header-link {
   );
   background-size: 200% 200%;
   border: 1px solid #fff;
-  animation: 
-    void-shake 0.2s infinite, 
-    data-stream 4s linear infinite; 
+  // animation: 
+  //   void-shake 0.2s infinite, 
+  //   data-stream 4s linear infinite; 
   box-shadow: 0 0 15px rgba(255, 255, 255, 0.15);
   position: relative;
   z-index: 1;

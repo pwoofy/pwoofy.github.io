@@ -450,11 +450,47 @@ print("Finished prompting for all assets.")
 <h2>Puthing Around [#33]</h2>
 <ul>
 <li>Difficulty: 1000</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: TO BE FOUND</li>
+<li>Personal Difficulty: 1000</li>
+<li>Official Solution: Decode the crossword using the Eternity Code from Artemis Fowl and input the secret answer at the Paths structure.</li>
 <li>Unlocks: Cat Therapy</li>
 </ul>
-<p>this....is.........horrible.</p>
+<p>So, let's start with a thing that a lot of people missed, or didn't go through with it.</p>
+<p>And warning! To the people who thought that the trusses in the puths structure looked like EToH's color scheme, and thus correlated the Eternal with Eternity code, that is not correct! See more info under postprod notes.</p>
+
+![Puths](/images/secretuniverse/puta.png)
+
+<p>Don't they look weird? Well, good for you, they are! Unfortunately for you, this part is mindreading. Again, check post-production notes for the entire thing. You are (and this is serious) supposed to find a cipher that is similar to the crosswords. The only cipher is the Eternity Code from Artemis Fowl, the book.</p>
+
+![Puths](/images/secretuniverse/wlp.png)
+
+<p>Using the straight centered line in the middle as red, you can use the above cipher on the crossword to get THROZYCKD, which you need to enter in the puths board.</p>
+
+> POSTPRODUCTION NOTES
+
+<p>Let's get a few things straight.</p>
+
+<p>1. The Elephant In The Room</p>
+<br>
+<p>As many of you know, the puzzle didn't end here originally. Since there was a leak, Feodoric implemented an anticheat. Originally, you were supposed to guess a random word in the dictionary after inserting the code. The word used to be brokerage, and then it became splendid. The way we knew it was brokerage was due to the official SU source code, and the other one was from guessing.</p>
+
+![Puths](/images/secretuniverse/image-538.png)
+
+<br>
+<br>
+<p>2. Is it Really Guessing?</p>
+<br>
+<p>Yes, Feodoric has confirmed it. And I quote from him:</p>
+
+> Q: oh yeah just asking for the sake of completeness is it actually true that you're supposed to get the eternity code from the pillars referring to etoh?
+
+<br>
+
+> A: no there's no hint<br>
+> A: i was working under the pretext that every cipher site would have that cipher<br>
+> A: dcode and allat<br>
+> A: but i never actually checked<br>
+> A: until the puzzle was out<br>
+
 </div>
 <br>
 
