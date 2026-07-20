@@ -658,9 +658,13 @@ Left Leg, Right Leg: Bright Green (Very Green)<br>
 <li>Unlocks: Baseplate Hole Punch</li>
 </ul>
 <p>This will be a bit hard for those of you who doesn't have a keen eye, but if you stand at the void, and you look hard enough, you can see this:</p>
+
 ![AASB Image](/images/secretuniverse/AASBnormal.png)
+
 <p>Can't see it? Let me help you sharpen it a bit more!</p>
+
 ![AASB Edited Image](/images/secretuniverse/AASBEdited.png)
+
 <p>From here, it is very obvious. You have to set your (0,0) to the top left, and count 11 studs to the right, and 42 studs down, then when you're at the spot, jump 6 times as indicated.</p>
 </div>
 <br>
@@ -2827,42 +2831,6 @@ Thank you for reading.
 </div>
 <br>
 
-<div class="puzzle-entry" markdown="1">
-<h2>Head Honcho [#124]</h2>
-<ul>
-<li>Difficulty: 670</li>
-<li>Personal Difficulty: 600</li>
-<li>Official Solution: Keep snapping the Thanos Stud and leaving the dimension until you are a floating head.</li>
-<li>Unlocks: Obamid</li>
-</ul>
-<p>I'm trying to get this out early, but you need to go to dimension 6 first. Stand right next to the thanos stud and orient yourself facing the set of chairs. Click on the stud, equip your speed coil, and walk straight until you touch a chair (in other words, run blindly to the chairs). If this doesn't work once, you need to redo it multiple times until you get the badge.</p>
-</div>
-<br>
-
-<div class="puzzle-entry" markdown="1">
-<h2>Worth A Try [#125]</h2>
-<ul>
-<li>Difficulty: 467</li>
-<li>Personal Difficulty: 500</li>
-<li>Official Solution: Try to open the Elite Door using the key from floor 2 of the Elevator Trials</li>
-<li>Unlocks: Bidome</li>
-</ul>
-<p>It's quite simple! You head to the elevator trials, head to floor 2, get the key, drop it (with backspace, but i assume you already know how to drop it), claim it, then head to the 100 secrets door under spawn holding out that key.</p>
-</div>
-<br>
-
-<div class="puzzle-entry" markdown="1">
-<h2>Stack Overflow [#126]</h2>
-<ul>
-<li>Difficulty: 190</li>
-<li>Personal Difficulty: 100</li>
-<li>Official Solution: Write a message longer than the Chat character limit in Replacement chat.</li>
-<li>Unlocks: Bidome</li>
-</ul>
-<p>Quite obvious. On the bottom right, there's replacement chat. Just paste in something like... I don't know. The entirety of this website? Something long works.</p>
-</div>
-<br>
-
 <div class="puzzle-entry theme-to-be-continued" id="secret-127" markdown="1">
   
   <div class="entry-toolbar">
@@ -2870,7 +2838,7 @@ Thank you for reading.
     <button class="cyber-btn tiny" onclick="toggleDetails('secret-127', false)">⮝ COLLAPSE ALL</button>
   </div>
 
-  <h2>TO BE CONTINUED [#127]</h2> 
+  <h2>TO BE CONTINUED [#124]</h2> 
   <ul>
     <li>Difficulty: 860</li>
     <li>Personal Difficulty: 890</li>
@@ -3173,5 +3141,292 @@ Thank you for reading.
   <h1>Secret Universe</h1>
   <p>Welcome back to Secret Universe. Head to Dimension-7. Good luck. You can do the rest. Trust me!</p>
 
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Head Honcho [#125]</h2>
+<ul>
+<li>Difficulty: 670</li>
+<li>Personal Difficulty: 600</li>
+<li>Official Solution: Keep snapping the Thanos Stud and leaving the dimension until you are a floating head.</li>
+<li>Unlocks: Obamid</li>
+</ul>
+<p>I'm trying to get this out early, but you need to go to dimension 6 first. Stand right next to the thanos stud and orient yourself facing the set of chairs. Click on the stud, equip your speed coil, and walk straight until you touch a chair (in other words, run blindly to the chairs). If this doesn't work once, you need to redo it multiple times until you get the badge.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Worth A Try [#126]</h2>
+<ul>
+<li>Difficulty: 467</li>
+<li>Personal Difficulty: 500</li>
+<li>Official Solution: Try to open the Elite Door using the key from floor 2 of the Elevator Trials</li>
+<li>Unlocks: Bidome</li>
+</ul>
+<p>It's quite simple! You head to the elevator trials, head to floor 2, get the key, drop it (with backspace, but i assume you already know how to drop it), claim it, then head to the 100 secrets door under spawn holding out that key.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Stack Overflow [#127]</h2>
+<ul>
+<li>Difficulty: 190</li>
+<li>Personal Difficulty: 100</li>
+<li>Official Solution: Write a message longer than the Chat character limit in Replacement chat.</li>
+<li>Unlocks: Bidome</li>
+</ul>
+<p>Quite obvious. On the bottom right, there's replacement chat. Just paste in something like... I don't know. The entirety of this website? Something long works.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Ultramarathon [#128]</h2>
+<ul>
+<li>Difficulty: 699</li>
+<li>Personal Difficulty: 727</li>
+<li>Official Solution: Use the Astral Projector to complete an extended version of the Relay Race across multiple dimensions.</li>
+<li>Unlocks: Secret Miniverse</li>
+</ul>
+<p>Let's run an ultramarathon! How would we do that? Well, I'm sure you remember an earlier secret, titled "Relay Race". Some of you might think, what if we went further with it? What if the main dimension isn't the only place with gates? And you'll be correct! But first of all, let's go through all 16 gates without going to the finish line in Dimension-6!</p>
+<p>Once you do that, go back to Dimension-3 (the main world) and go through these two gates!</p>
+
+![oh](/images/secretuniverse/2gate.png)
+
+<p>Now, you should go to Dimension-5. If you have Cognitohazard, use the chair. If you don't, get the Magnifying Glass and the Parachute (from the Photobomb and the Spawn Shop, respectively). Next, get the Astral Projector from the Unnatural Selection secret, submit the Magnifying Glass to the structure, and you should be teleported to Dimension-5. From there, just use your parachute and glide to the baseplate. Once you're there, hit the two gates here! You can reset to get back to the Astral Projector.</p>
+
+![oh](/images/secretuniverse/2more.png)
+
+<p>Next, go to Dimension-7, and hit the large gate right next to spawn!</p>
+
+![oh](/images/secretuniverse/dats1.png)
+
+<p>Now go back to the Astral Projector and submit the Strange Orb (open your inventory, there should be an orb there) into the altar. Hit the five gates by the house.</p>
+
+![oh](/images/secretuniverse/cantcount.png)
+
+<p>Now, go back to the Astral Projector and submit the Linked Sword into the altar. This next part might be tricky if you don't have rainbow carpet. If you do, just fly up the building. If you don't, get yourself a Subspace Tripmine. Place a few of them down near the spawn, equip the gravity coil, and jump on top of the tripmines. You should be flung upwards. Make your way above the building. You can then use the same trick to scale up the massive piles of ledges.</p>
+
+![oh](/images/secretuniverse/bombs.png)
+
+<p>Once you're up there, activate all ten gates.</p>
+
+![oh](/images/secretuniverse/gulp.png)
+
+<p>Once you've done so, make your way to Dimension-8, and hit the two gates.</p>
+
+![oh](/images/secretuniverse/2aga.png)
+
+<p>Next, make your way to Dimension-4, and get these two gates.</p>
+
+![oh](/images/secretuniverse/uidlt.png)
+
+<p>And lastly, make your way to Dimension-6, hit the 2 new gates that showed up, and head to the end.</p>
+
+![oh](/images/secretuniverse/dim6.png)
+
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Try Everything [#129]</h2>
+<ul>
+<li>Difficulty: ???</li>
+<li>Personal Difficulty: UNRELEASED</li>
+<li>Official Solution: UNRELEASED</li>
+<li>Unlocks: UNRELEASED</li>
+</ul>
+<p>It's! Unreleased!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Dexpert [#130]</h2>
+<ul>
+<li>Difficulty: 330</li>
+<li>Personal Difficulty: 330</li>
+<li>Official Solution: Open dimension 35's description in the Dimedex and claim the secret.</li>
+<li>Unlocks: TeleportData Machine</li>
+</ul>
+<p>You will need the Total Wipeout secret for this, but once you have that, go to the Astral Projector and submit your Linked Sword, and go in the portal to unlock Dimension-35. Once you do so, head back to the Dimedex from Total Wipeout, scroll down to Dimension-35, click on it, and click on it again to get the secret.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Ending Spoiler [#131]</h2>
+<ul>
+<li>Difficulty: 599</li>
+<li>Personal Difficulty: 600</li>
+<li>Official Solution: Satisfy the TeleportData condition from dimension 0's dialogue and speak to the owner in dimension 11.</li>
+<li>Unlocks: Vocational Cube</li>
+</ul>
+<p>If you make your way to Dimension-0 by submitting the Strange Orb to the Astral Projector, you can find a house with Feodoric in it. Approaching Feodoric gives you some cutscene, but notice one part of the cutscene:</p>
+
+![oh](/images/secretuniverse/sorry.png)
+
+It says ["VerifyTPCodeMethod"] = "AcceptUserId". If you have the structure for the TeleportData Machine, you can intuitively enter your UserID into the TeleportData section. In case you don't know your own UserID, just head [here](https://www.roblox.com/users/profile) and you should get a link like this: https://www.roblox.com/users/56766013/profile. The numbers before the /profile is your UserID. In my case, it's 56766013. 
+
+![oh](/images/secretuniverse/ins.png)
+
+Insert it there, and press teleport. Once you do so, make your way to the Elevator Trials to obtain the Elevator Key. With this Elevator Key, submit it to the Astral Projector. You should be teleported to Dimension-11. Make your way to the house, and talk to Feodoric to obtain the secret.
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>㊙️ [#132]</h2>
+<ul>
+<li>Difficulty: 879</li>
+<li>Personal Difficulty: 888</li>
+<li>Official Solution: Solve the "Pizza Cubes" puzzle and click the cubes in your assigned order.</li>
+<li>Unlocks: 42 Stud Jump</li>
+</ul>
+<p>From the Pizza Slice from the Puthilicious puzzle, we can see that there are 5 cubes surrounding it.</p>
+
+![oh](/images/secretuniverse/lovely.png)
+
+<p>Each of the cube represents a pre-requisite.</p>
+<p>👨‍🦲: Your character must be bald.</p>
+<p>🔒: You are currently in a VIP server.</p>
+<p>🚀: You are currently in a server that used the launchData set to "Rocket"</p>
+<p>👥: You are currently in a server that was referred to by a friend.</p>
+<p>🎉: You are currently in a party.</p>
+
+<p>The biggest assumption here is the goal. The goal requires you to fulfill all of them at the same time. The only way you can do that is to have a bald character, while being in a party, being in a VIP server that is referred to by a friend with the launchData set to "Rocket". You can do all of them by launching Roblox through your web browser, which you can do like this:</p>
+
+<p>roblox://placeId=137630300324059&referredByPlayerId=57134484&launchData=rocket&accessCode=[CODE]</p>
+
+<p>To break it down, the placeId leads to Secret Universe. The referredByPlayerId will allow the check for 👥 to be fulfilled, as it is a server that you are referred to. The launchData will allow the check for 🚀 to be fulfilled, as it means you are joining the server with Rocket as the launchData. And the accessCode will allow 🔒 to be fulfilled, as it is in your own VIP server. You can get your VIP server accessCode by having a Roblox Extension, such as RoSeal, to copy the access code. From here, all you need to do is make your character bald and be in a party. You can just invite your alt account to a party through Roblox's Party feature.</p>
+
+![oh](/images/secretuniverse/sopy.png)
+
+<p>Once you do all that, head back to the pizza slice. It should all be cleared up now, and as a result, underneath that is an image. The image is similar to this island in the main dimension:</p>
+
+![oh](/images/secretuniverse/howto.png)
+
+<p>And sure enough, you can find the answer there!</p>
+
+![oh](/images/secretuniverse/bald.png)
+
+<p>All you need to do now is insert 👨‍🦲🚀👥🎉🔒👨‍🦲👨‍🦲🎉👥🔒🔒 in the Pizza Cubes, and you should get the secret.</p>
+</div>
+<br>
+
+
+<div class="puzzle-entry" markdown="1">
+<h2>Unprecipitated Immunosenescence Indubitability [#133]</h2>
+<ul>
+<li>Difficulty: ???</li>
+<li>Personal Difficulty: UNRELEASED</li>
+<li>Official Solution: UNRELEASED</li>
+<li>Unlocks: UNRELEASED</li>
+</ul>
+<p>It's! Unreleased!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Nuclear Launch Codes [#134]</h2>
+<ul>
+<li>Difficulty: ???</li>
+<li>Personal Difficulty: UNRELEASED</li>
+<li>Official Solution: UNRELEASED</li>
+<li>Unlocks: UNRELEASED</li>
+</ul>
+<p>It's! Unreleased!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Puthilicious [#135]</h2>
+<ul>
+<li>Difficulty: 600</li>
+<li>Personal Difficulty: 626</li>
+<li>Official Solution: Input the correct combination on the paths structure for the box to press the Waffle button in dimension-35.</li>
+<li>Unlocks: Pizza Cubes</li>
+</ul>
+<p>Heading to Dimension-35 by placing the Linked Sword in the Astral Projector, we can find a 4x4 grid. We can easily trace this back to the puths board. However, this time, it is a different puzzle.</p>
+
+![oh](/images/secretuniverse/bad.png)
+
+<p>There is a cube spawner on the bottom left, and the objective is getting to the E (for Exit) by utilizing the conveyors (they are toggleable. Red means the box will pass through it, Green means the box will move in the direction) and teleporters. Trying stuff out, you can see that the following is a valid solution.</p>
+
+![oh](/images/secretuniverse/valsqotch.png)
+
+<p>Tracing this back to the puths board, we can input SOYQHRWZT on the puths board, resetting, heading back to Dimension-35, and then spawning the cube. You should get the secret then.</p>
+
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>ᅠ  [#136]</h2>
+<ul>
+<li>Difficulty: 750</li>
+<li>Personal Difficulty: 550</li>
+<li>Official Solution: ᅠ (if you translation Feedback the solution, you get "Make your TeleportData surpass the TextBox Character Limit to crash ChomcoOS using Dimension 0's dialogue.)</li>
+<li>Unlocks: ᅠ</li>
+</ul>
+<p>This one is a try things out secret, but you'll realize you can just make a teleportdata that is very long (it needs to be >199900 characters long), and use it on the TeleportData machine to "crash" the TeleportData check during the Dimension-0 dialogue with Feodoric. However, what I did (and because I found this secret before I got the TeleportData machine) was to create my own game, enable third party teleports, and pasted this in my server console (as the owner of the game):</p>
+
+```lua
+game:GetService("TeleportService"):Teleport(137630300324059, game.Players.PLAYERNAME, string.rep("A", 200000))
+```
+
+<p>Just substitute PLAYERNAME with your own name. But if you're too lazy to that, go find yourself a 199900+ characters long string, and you should be able to fulfill the requirement. After doing that, submit your Strange Orb to the Astral Projector, go to the house, and talk to Feodoric.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Face Off [#137]</h2>
+<ul>
+<li>Difficulty: 909</li>
+<li>Personal Difficulty: 900</li>
+<li>Official Solution: Make Evil Keith and Antonio interact on the Anything Island.</li>
+<li>Unlocks: Bloxing Ring</li>
+</ul>
+<p>Perhaps the icon of this secret gives it away, but you need to have the Anything Island from Straight and Narrow. Next, you need to bring Evil Keith down to the Anything Island using the Ardy's Ship, then push it so it talks to the noob. A cutscene will happen, and you should get it shortly after.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Obsessive-Compulsive [#138]</h2>
+<ul>
+<li>Difficulty: 877</li>
+<li>Personal Difficulty: 910</li>
+<li>Official Solution: UNRELEASED</li>
+<li>Unlocks: Cursed Chessboard</li>
+</ul>
+<p>By now, you might have understood the gimmick of Astral Projector. You submit an item, and you get a dimension from it. That gives us a thought: What items can be submitted? Turns out, any items! One of them is the keypad used for Access Granted! What you have to do is use the baseplate hole puncher on top of where the elevator used to be (more information in Access Granted), and get the 1 keypad. It should be located between the target and chest. Once you got that, make your way to the Astral Projector, and use it. You will be teleported to Hammerspace, in which you will encounter this puzzle:</p>
+
+![oh](/images/secretuniverse/ocd.png)
+
+<p>First of all, you might notice the two darker colored bricks inside of the red box. Make sure to position both of your legs so they fit in perfectly. Absurd as it may seem, the red box and the white outline at the top is supposed to represent your taskbar. Since the red box is small, you are supposed to make your window as small as it can get, and then align your cursor so that it is at the center of the crosshair.</p>
+
+![oh](/images/secretuniverse/canva.png)
+
+<p>Well, my cursor isn't visible, but make sure it's centered. Anyways, one thing that you may notice is there are many images surrounding you of items that are in Secret Universe. Since images are placed as GUIs, you can see the GUIObject in view if you center your cursor in the middle of the crosshair. This will determine our order of items to equip. You can see the values by pressing Shift+F2. An example is as follows: </p>
+
+![oh](/images/secretuniverse/wuh.png)
+
+<p>You can see that the GUIObject in view of Teddy Bear is 36. You can repeat this with everything else. You get the following values:</p>
+<p>LinkedSword: 32</p>
+<p>CheeseBurger: 33</p>
+<p>LuckyClover: 34</p>
+<p>Illumina: 35</p>
+<p>TeddyBear: 36</p>
+<p>SpeedCoil: 37</p>
+<p>Tripmine: 38</p>
+<p>RegenCoil: 39</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Unnatural Selection [#139]</h2>
+<ul>
+<li>Difficulty: 909</li>
+<li>Personal Difficulty: 900</li>
+<li>Official Solution: Make Evil Keith and Antonio interact on the Anything Island.</li>
+<li>Unlocks: Bloxing Ring</li>
+</ul>
+<p>Perhaps the icon of this secret gives it away, but you need to have the Anything Island from Straight and Narrow. Next, you need to bring Evil Keith down to the Anything Island using the Ardy's Ship, then push it so it talks to the noob. A cutscene will happen, and you should get it shortly after (im writing the rest of the ones please wait lol)</p>
 </div>
 <br>
