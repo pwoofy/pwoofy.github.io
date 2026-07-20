@@ -3399,7 +3399,7 @@ game:GetService("TeleportService"):Teleport(137630300324059, game.Players.PLAYER
 
 ![oh](/images/secretuniverse/ocd.png)
 
-<p>First of all, you might notice the two darker colored bricks inside of the red box. Make sure to position both of your legs so they fit in perfectly. Absurd as it may seem, the red box and the white outline at the top is supposed to represent your taskbar. Since the red box is small, you are supposed to make your window as small as it can get, and then align your cursor so that it is at the center of the crosshair.</p>
+<p>First of all, you might notice the two darker colored bricks inside of the red box.  And also, unequip your items. It is important for later. Make sure to position both of your legs so they fit in perfectly. Absurd as it may seem, the red box and the white outline at the top is supposed to represent your taskbar. Since the red box is small, you are supposed to make your window as small as it can get, and then align your cursor so that it is at the center of the crosshair.</p>
 
 ![oh](/images/secretuniverse/canva.png)
 
@@ -3408,6 +3408,7 @@ game:GetService("TeleportService"):Teleport(137630300324059, game.Players.PLAYER
 ![oh](/images/secretuniverse/wuh.png)
 
 <p>You can see that the GUIObject in view of Teddy Bear is 36. You can repeat this with everything else. You get the following values:</p>
+
 <p>LinkedSword: 32</p>
 <p>CheeseBurger: 33</p>
 <p>LuckyClover: 34</p>
@@ -3416,17 +3417,19 @@ game:GetService("TeleportService"):Teleport(137630300324059, game.Players.PLAYER
 <p>SpeedCoil: 37</p>
 <p>Tripmine: 38</p>
 <p>RegenCoil: 39</p>
+
+<p>With that in mind, we are expected to use these item from the lowest value to highest value. You can do this by equipping the item through your inventory. Equip it in the order of LinkedSword - CheeseBurger - LuckyClover - Illumina - TeddyBear - SpeedCoil - Tripmine - RegenCoil. You should see that the platform turns green for every correct item, and once you did everything, you should get the secret.</p>
 </div>
 <br>
 
 <div class="puzzle-entry" markdown="1">
 <h2>Unnatural Selection [#139]</h2>
 <ul>
-<li>Difficulty: 909</li>
-<li>Personal Difficulty: 900</li>
-<li>Official Solution: Make Evil Keith and Antonio interact on the Anything Island.</li>
-<li>Unlocks: Bloxing Ring</li>
+<li>Difficulty: 202</li>
+<li>Personal Difficulty: 200</li>
+<li>Official Solution: Throw one of the animals in dimension 4 into the void.</li>
+<li>Unlocks: Astral Projector</li>
 </ul>
-<p>Perhaps the icon of this secret gives it away, but you need to have the Anything Island from Straight and Narrow. Next, you need to bring Evil Keith down to the Anything Island using the Ardy's Ship, then push it so it talks to the noob. A cutscene will happen, and you should get it shortly after (im writing the rest of the ones please wait lol)</p>
+<p>(im writing the rest of the ones please wait lol)</p>
 </div>
 <br>
