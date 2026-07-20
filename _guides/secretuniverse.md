@@ -3287,7 +3287,7 @@ Insert it there, and press teleport. Once you do so, make your way to the Elevat
 <p>Each of the cube represents a pre-requisite.</p>
 <p>👨‍🦲: Your character must be bald.</p>
 <p>🔒: You are currently in a VIP server.</p>
-<p>🚀: You are currently in a server that used the launchData set to "Rocket"</p>
+<p>🚀: You are currently in a server that used a launchData (in this explanation, I will set it to "Rocket")</p>
 <p>👥: You are currently in a server that was referred to by a friend.</p>
 <p>🎉: You are currently in a party.</p>
 
@@ -3392,7 +3392,7 @@ game:GetService("TeleportService"):Teleport(137630300324059, game.Players.PLAYER
 <ul>
 <li>Difficulty: 877</li>
 <li>Personal Difficulty: 910</li>
-<li>Official Solution: UNRELEASED</li>
+<li>Official Solution: Solve the Tool puzzle in Dimension 100 and equip them into your inventory in the correct order.</li>
 <li>Unlocks: Cursed Chessboard</li>
 </ul>
 <p>By now, you might have understood the gimmick of Astral Projector. You submit an item, and you get a dimension from it. That gives us a thought: What items can be submitted? Turns out, any items! One of them is the keypad used for Access Granted! What you have to do is use the baseplate hole puncher on top of where the elevator used to be (more information in Access Granted), and get the 1 keypad. It should be located between the target and chest. Once you got that, make your way to the Astral Projector, and use it. You will be teleported to Hammerspace, in which you will encounter this puzzle:</p>
@@ -3430,6 +3430,129 @@ game:GetService("TeleportService"):Teleport(137630300324059, game.Players.PLAYER
 <li>Official Solution: Throw one of the animals in dimension 4 into the void.</li>
 <li>Unlocks: Astral Projector</li>
 </ul>
-<p>(im writing the rest of the ones please wait lol)</p>
+<p>This one's a fairly easy try-things-out secret. You are just expected to blow up any animal in Dimension-4 and/or push them to the void. Once you do so, you'll get the badge.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Total Wipeout [#140]</h2>
+<ul>
+<li>Difficulty: 262</li>
+<li>Personal Difficulty: 220</li>
+<li>Official Solution: Throw every animal in dimension 4 into the void.</li>
+<li>Unlocks: Astral Projector</li>
+</ul>
+<p>This one's also a fairly easy try-things-out secret. In Unnatural Selection, you were expected to blow up an animal and throw it into the void. This time, you're expected to blow up every animal and/or throw it into the void. Once you so, you'll get the secret too!</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Probability Storm [#141]</h2>
+<ul>
+<li>Difficulty: 420</li>
+<li>Personal Difficulty: 450</li>
+<li>Official Solution: Spin the update log so fast it launches into other dimensions.</li>
+<li>Unlocks: [your roblox username]'s Chair</li>
+</ul>
+<p>This one is also a bit weird, but you're supposed to kind of do a guessing game. In this case, the guessing is about what you need to do. In this case, with little thought process behind it, you're supposed to get the update log to spin very fast. How would one do this? Well, just place down a few tripmines near the update log at the spawn, and detonate them all. It should spin, and you should go through a cutscene that is quite long, where you get to name your own dimension in the end! What the name you give doesn't matter, but you can't change it after you name it.</p>
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Secret Scenario [#142]</h2>
+<ul>
+<li>Difficulty: 814</li>
+<li>Personal Difficulty: 870</li>
+<li>Official Solution: Uncover Secret's Identity through ROBLOX website research.</li>
+<li>Unlocks: Kohl's Jail</li>
+</ul>
+<p>Now that we have obtained Probability Storm's dimension, going to the Dimedex shows us this:</p>
+
+![oh](/images/secretuniverse/secse.png)
+
+Interesting, so the guardian of the dimension is named secret, just like the secret! Well, obviously that might be a coincidence, but if you look at the other Dimensions, you can see that it is tied to a creator. For example, the "Many" dimension's guardian is K1ndaConfused, which is the creator of there are many secrets. Or "Royale"'s guardian being Regionality, this implies that secret is an actual person. If you look them up, you can find that "secret" is actually a [real person](https://www.rolimons.com/player/10190), with the ID of 10190. Under the assumption that each guardian has their own game, this means that Dimension-1863 is secret's place! Unfortunately, since the account is terminated, we are no longer able to see the games that they made, so it's over...
+
+...or is it? Going to the user page of secret, you'll find [nothing](https://www.roblox.com/users/10190/profile). But what if we go back? say, instead of 10190, its 10189? [Nothing](https://www.roblox.com/users/10190/profile). Maybe 1088? And indeed, [10188 is a real person](https://www.roblox.com/users/10188/profile)! We can now go to their creations, and hope that they do have a game that was made around the time they first joined Roblox, because this must be their starterplace!
+
+And indeed, [they do](https://www.roblox.com/games/22752/AquaGenerals-Place), and better yet, it was made around the time they joined! This is our starting point, as if you increment the ID up by one you'll find more assets uploaded around this time as well! For example, earlier, the place ID was 22752, but what about 22753? 22753 exists, but it's a model titled Figure1! 22754 exists, so does 22755, which is also Figure1! But when it comes to 22756, we can see that it...[is not available](https://www.roblox.com/games/22756/Title-Unavailable)? That's weird, [I wonder what the API will say](https://economy.roblox.com/v2/assets/22756/details)?
+
+![oh](/images/secretuniverse/interesting.png)
+
+It seems that it is actually secret's place! We can confirm this further by checking the past pattern! It has always been game, then Figure1, then game, then Figure1. If this one is game, then 22757 must be a Figure1 uploaded by secret, right? And indeed, [it is](https://create.roblox.com/store/asset/22757/Figure1)! This must be secret's place! If you've seen Identity Fraud, then you'd know we can download the game if it's uncopylocked. I hope it's uncopylo-
+
+[download](https://assetdelivery.roblox.com/v1/assetId/22756)
+
+W secret. We now have the file, so let's see what's in here!
+
+![oh](/images/secretuniverse/gaster.png)
+
+VERY. VERY. INTERESTING. It seems to be a replica of Dimension-1863, so what else can we find here?
+
+![oh](/images/secretuniverse/snmth.png)
+
+Seems like there is a green blob up there. I wonder if we can access it in Secret Universe? Let's trace this path downwards.
+
+![oh](/images/secretuniverse/666.png)
+
+
+Interestingly, it seems like it is hovering above the chair. It seems like we can also put a lot of tripmines near the chair, and blast your way upwards with the help of gravity coil. Let's place some tripmines near the chair, and use it to launch ourselves upwards.
+
+![oh](/images/secretuniverse/whatswrong.png)
+
+Oh, it seems that there is another puzzle to be done here. Well, it's alright, we have the RBXL anyways. It asks, what's wrong with this world? So let's see our world in Secret Universe!
+
+![oh](/images/secretuniverse/theworld.png)
+
+And now, let's see our world through the RBXL file!
+
+![oh](/images/secretuniverse/notice.png)
+
+Interesting, it seems like there is an extra part in the RBXL file that is not present in Secret Universe, I wonder what the name of the part is...?
+
+![oh](/images/secretuniverse/super.png)
+
+Supershield. If we try to insert this in the prompt earlier, we are able to get through easily, continuing the cutscene, and ultimately, getting banned! Well, that gives you the secret anyways.
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>The Great Nothing [#143]</h2>
+<ul>
+<li>Difficulty: 890</li>
+<li>Personal Difficulty: 890</li>
+<li>Official Solution: Evade your ban and get Secret deleted from Banland, and their dimension destroyed.</li>
+<li>Unlocks: Library of Error Codes</li>
+</ul>
+
+Well, the previous secret was a journey, but now I'm banned. Let's see if there's another way I can join Secret Universe...Oh, wait, [Secret Meetup](https://www.roblox.com/games/98419386331120/Secret-Meetup)! I shall join the game, and use the teleport portal to go back to Secret Universe. So let's join the game and then go back to Secret Universe. (if you can't join the game, you can just do roblox://placeId=98419386331120 on your browser)
+
+![oh](/images/secretuniverse/scary.png)
+
+Ah, right. Well, there's a chair, so we can sit there. Oh, oops. Cutscene. Oh, I got the secret. Horray.
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>[CONTENT DELETED] [#144]</h2>
+<ul>
+<li>Difficulty: 990</li>
+<li>Personal Difficulty: UNKNOWN</li>
+<li>Official Solution: UNKNOWN</li>
+<li>Unlocks: Deletion Shrine</li>
+</ul>
+
+Not feodoric here. Um. Hi
+</div>
+<br>
+
+<div class="puzzle-entry" markdown="1">
+<h2>Connection Terminated [#145]</h2>
+<ul>
+<li>Difficulty: ???</li>
+<li>Personal Difficulty: UNRELEASED</li>
+<li>Official Solution: UNRELEASED</li>
+<li>Unlocks: UNRELEASED</li>
+</ul>
+<p>It's! Unreleased!</p>
 </div>
 <br>
