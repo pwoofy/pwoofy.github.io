@@ -1010,8 +1010,8 @@ But what is the subject? Well, let's check out what we have for Swinburne, the p
 <div class="puzzle-entry" markdown="1">
 <h2>Agent Orange [#67]</h2>
 <ul>
-<li>Difficulty: 980</li>
-<li>Personal Difficulty: 981 (200)</li>
+<li>Difficulty: 638</li>
+<li>Personal Difficulty: 638 (200)</li>
 <li>Official Solution: Click the particle that flies off your forcefield in the Quiet Dimension.</li>
 <li>Unlocks: Box of Death</li>
 </ul>
