@@ -3545,7 +3545,7 @@ Let's pick up on loose pieces that people seem to have missed. First of all, I'm
 
 One thing that we can analyze is the sound. Void ambient. Is it truly void though? Well, if you head and press F9, go to the memory tab, search Sounds, you'll find a list of all sounds that are loaded in. One of them has the ID of 82673028766199. You can put this in the Roblox Library and obtain [this link](https://create.roblox.com/store/asset/82673028766199/ambient).
 
-There are two ways to go on from here. If you know the Common Ball Knowledge, then you can just download the asset yourself (or just make your own asset downloader like I did teehee :3c). I did this part for you if you are curious, and you can get the file [here!](/images/secretuniverse/amnbient.ogg) The alternate path is to max your volume, and record the next 5 minutes. Once you get the audio, you can speed it up, and it will sound like [this.](/images/secretuniverse/gig.ogg)
+There are two ways to go on from here. If you know the Common Ball Knowledge, then you can just download the asset yourself (or just make your own asset downloader like I did teehee :3c). I did this part for you if you are curious, and you can get the file [here!](/images/secretuniverse/ambient.ogg) The alternate path is to max your volume, and record the next 5 minutes. Once you get the audio, you can speed it up, and it will sound like [this.](/images/secretuniverse/gig.ogg)
 
 You can hear the words "puthilicious trxsydazwk". Let's try to input this into the puths board, resetting (make sure that the lights are still on!), and check out our puthilicious board in Dimension-35 by spawning the cube!
 
