@@ -3440,7 +3440,7 @@ game:GetService("TeleportService"):Teleport(137630300324059, game.Players.PLAYER
 <li>Difficulty: 262</li>
 <li>Personal Difficulty: 220</li>
 <li>Official Solution: Throw every animal in dimension 4 into the void.</li>
-<li>Unlocks: Astral Projector</li>
+<li>Unlocks: Dimedex</li>
 </ul>
 <p>This one's also a fairly easy try-things-out secret. In Unnatural Selection, you were expected to blow up an animal and throw it into the void. This time, you're expected to blow up every animal and/or throw it into the void. Once you so, you'll get the secret too!</p>
 </div>
@@ -3536,12 +3536,129 @@ Ah, right. Well, there's a chair, so we can sit there. Oh, oops. Cutscene. Oh, I
 <h2>[CONTENT DELETED] [#144]</h2>
 <ul>
 <li>Difficulty: 990</li>
-<li>Personal Difficulty: UNKNOWN</li>
-<li>Official Solution: UNKNOWN</li>
+<li>Personal Difficulty: 980</li>
+<li>🏆 Puzzle Award: Coolest puzzle gimmick ever! 🏆</li>
+<li>Official Solution: Compelete the entire Dimension 35 quest and have your account deleted by Evil Keith.</li>
 <li>Unlocks: Deletion Shrine</li>
 </ul>
+Let's pick up on loose pieces that people seem to have missed. First of all, I'm sure you've entered DIM-42 once. If you haven't, make your way to DIM-42 by inserting a gravity coil into the astral projector. You'll realize that you are teleported into an empty void, with nothing but the words "if you are reading this, then that means the dimension you are trying to access does not exist yet". Most people would shrug it off, but as an experienced solver, you need to figure out what that means. 
 
-Not feodoric here. Um. Hi
+One thing that we can analyze is the sound. Void ambient. Is it truly void though? Well, if you head and press F9, go to the memory tab, search Sounds, you'll find a list of all sounds that are loaded in. One of them has the ID of 82673028766199. You can put this in the Roblox Library and obtain [this link](https://create.roblox.com/store/asset/82673028766199/ambient).
+
+There are two ways to go on from here. If you know the Common Ball Knowledge, then you can just download the asset yourself (or just make your own asset downloader like I did teehee :3c). I did this part for you if you are curious, and you can get the file [here!](/images/secretuniverse/amnbient.ogg) The alternate path is to max your volume, and record the next 5 minutes. Once you get the audio, you can speed it up, and it will sound like [this.](/images/secretuniverse/gig.ogg)
+
+You can hear the words "puthilicious trxsydazwk". Let's try to input this into the puths board, resetting (make sure that the lights are still on!), and check out our puthilicious board in Dimension-35 by spawning the cube!
+
+![oh](/images/secretuniverse/boxgone.png)
+
+Wait, what? There's a secret place out of bounds? Looks like our main goal now is to try to activate this. I do wonder if we're missing anything else? Let's go back to the [ ] secret, and wait until we get kicked from the game...
+
+...now what? Well, there's two ways to find the next step. The intended step is to sit there in the kick screen and...wait...
+
+...and you continue waiting, until a voice says "VMUpRuFKNm8" after around 4 minutes 50 seconds.
+
+The alternative way is to [dump](https://create.roblox.com/store/asset/76579939922104/dialogue) the entire game, but you didn't hear that from me, hehe.
+
+Anyways, that leads to a [youtube video.](https://www.youtube.com/watch?v=VMUpRuFKNm8) What you need to do here is...well, need I say more?
+
+Vagueposting aside, the entire gimmick of the video is that it is focused more on the time travel aspect. Surely, this means that we can time travel in Secret Universe, right? Now, how do we achieve time travel? Well, if you notice carefully in the time machine, there are these words on the lever (timestamped at 9:11)
+
+![oh](/images/secretuniverse/wuha.png)
+
+Notice what it says? Control the past, control the future. Searching this up, you can find a quote from the book "1984", which is also referenced later on in the video. The full quote reads "Who controls the past controls the future. Who controls the present controls the past." This quote will make sense soon.
+
+Now, aren't we missing something else? Obviously, if you've explored a bit of Dimension-35, you'd notice that on top of the escape experiment, there is a white box with a painting in it.
+
+![oh](/images/secretuniverse/boopsyou.png)
+
+We can actually get in this room if you look around. Simply subspace tripmine + coil your way up above that white box, there should be another ledge.
+
+![oh](/images/secretuniverse/als.png)
+
+Making your way through the little hallway on the right, you can find a hole in the wall. Go in, and get inside of the room. Inside of it, you should find a painting. In front of this painting, type in the earlier quote in chat (or replacement chat). Simply type in "Who controls the past controls the future. Who controls the present controls the past." 
+
+If you do it correctly, you should get a notification saying "Behind You". Make your way to the newly-opened capsule and press the ø button, and summon the cube again. This time, the cube should pass the conveyor, but this shows up.
+
+![oh](/images/secretuniverse/override.png)
+
+Alongside the audio cue of "\[Beep\]. Connection Terminated." (Very important! Keep this in mind!) Clearly, we are missing something again. This is the time for: A SEQUENCE BREAK!
+
+This time, we're going to look at The Great Nothing! Specifically, how do we escape The Great Nothing? Well...start by making a new account. This account should NOT have "The Great Nothing". What it should have is the Evil Keith avatar color (it's somewhere in this page, CTRL+F and search for Dimension-1). This will make sense soon.
+
+What you want to do is go re-do secret scenario on this alt account, and do The Great Nothing up until you get teleported to the Banlands. Whilst you're in the Banland, press escape, and head towards the Abyss Chair. This should allow you to escape Banlands. Make your way to feodoric through the Astral Projector via the Strange Orb, and talk to feodoric. You can see that your TeleportData is set to...a peculiar string that changes every hour. (To the people who are reading this, you need to do this to get the hourly code. Again, it changes every hour, and it's the same for each players regardless of UserID)
+
+The format of the code is `override_TENLETTERCODE_timeleft_MINUTESLEFT`. For this tutorial, my TeleportData is `BLFRSMKPJY`, so I will insert it in the Emergency Override Protocol. If you get it correct, you should be teleported to a white room. If you don't see anything around you, set your graphics quality to max, but you should see a time machine. Make your way to the time machine, and flick the lever. You should now be teleported to Natural Disaster Survival. You'll notice that you can't really do anything, and there's really nothing, except for this sign:
+
+![oh](/images/secretuniverse/gga.png)
+
+In a true Feodoric style, do you know what you can spell with these letters? Obviously, you need to spell "CONNECTIONTERMINATED". This is indicated through the previous audio cue. Spell that by clicking on the letters on the sign. It doesn't matter which one you click, as long as it corresponds to the correct character.
+
+Anyways, spelling "CONNECTIONTERMINATED" (in first person preferably) will pop a badge up on the bottom right. Make sure to IMMEDIATELY click it. If you missed the pop up and didn't click it, you'll need to rejoin. 
+
+If you're successful, you'll be teleported to...DEATHRUN!!! My favorite game :3
+
+![oh](/images/secretuniverse/vip.png)
+
+In the lobby of deathrun, you'll notice that there is a VIP door. This is a common ball knowledge, but back then, most games allow you to unlock VIP doors by equipping the shirt related to it. The only person with the shirt is Antonio, which is currently the killer in deathrun. Going to the end of deathrun, we'll realize that we can actually push Antonio, but there is no way to get back to the lobby. 
+
+![oh](/images/secretuniverse/imstuck.png)
+
+Let's go back to the lobby by resetting. Playing around with whatever exists on the lobby, if you walk towards the wall while standing on top of the left trophy by the VIP door, you can push it down, revealing a button that you can click!
+
+![oh](/images/secretuniverse/help.png)
+
+Clicking on this button reveals a cutscene, which reveals a door opening at the end, so let's go back there. Also, pro tip, you can stand on these green things to practically cheese through the entire obby.
+
+![oh](/images/secretuniverse/wcheeses.png)
+
+Anyways, head to the end.
+
+![oh](/images/secretuniverse/may.png)
+
+You can push Antonio through the tightrope into the portal! (If you accidentally entered the portal, leaving Antonio behind, you can reset character) (If you accidentally fell down the platform you spawned in at the lobby, you can always head back up through stairs.)
+
+Push Antonio down, then push him into the VIP door. Claim the badge, and like previously, REMEMBER TO IMMEDIATELY CLICK THE POPUP AT THE BOTTOM RIGHT!!!
+
+If you do that correctly, we are now at...THE MALL OF ROBLOXIA!!! 
+
+![oh](/images/secretuniverse/staf.png)
+
+Go inside the mall, turn right, head inside this door to the right of the restroom, and walk to the end. Claim your own tycoon! Go inside of your own owner door, and start collecting money, cause we're gonna get the badge in no time!
+
+![oh](/images/secretuniverse/problem.png)
+
+Well, there's no way in hell we're gonna get that much money... While waiting for our money to be made, let's look around. Walking outside and turning left all the way to the end of the hallway, we can see that Antonio has their own shop!
+
+
+And inside it, there's enough money to buy the badge!
+
+![oh](/images/secretuniverse/rich.png)
+
+If only there was a way to become Antonio...
+
+![oh](/images/secretuniverse/swap.png)
+
+Right. The body swap potion you get from progressing at your own tycoon. Anyways, take the body swap potion, swap bodies with Antonio, enter their place, buy the badge, and again....DON'T FORGET TO CLICK ON THE POPUP ON THE BOTTOM RIGHT! 
+
+Anyways, now, it is night time. Time to head home, and. Hm.
+
+![oh](/images/secretuniverse/endtime.png)
+
+Don't look at the moon? Let's look at the moon in first person while walking towards it. And now you're transported to...Ah, of course, SFOTH. Make your way up the conveyor, and take a look at your surroundings. Everything is destroyed. 
+
+![oh](/images/secretuniverse/boats.png)
+
+Is that evil keith on the left? Let's get to him. Head to the tightrope (you can find your own way, right?) in front of me here.
+
+![oh](/images/secretuniverse/helphim.png)
+
+Interesting...
+
+![oh](/images/secretuniverse/evilk.png)
+
+Well, I'll let the cutscene speak for itself. That's everything. (P.S. Don't forget to click the Log Out button ;3)
+
+
 </div>
 <br>
 
