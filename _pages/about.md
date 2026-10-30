@@ -24,21 +24,37 @@ also, i do ctfs. you will see ctf writeups here sometimes. nerd out. hmu if you'
 i also volunteer for organizations, most notable feat was mentoring students in writing academic essays (and oo, they got accepted to good unis worldwide!)
 
 ---
+<h2> SYSTEM STUFF </h2>
+---
+
+we're a system yada yada the main person whos ths host is pwoofy/choco (same person) but there's also ampere and butane. rest doesn't matter nya
+
+---
 <h2> RHYTHM GAMES </h2>
 ---
 
 as a typical southeast asian person, of course i play rhythm games. mostly chunimai & mobile rgs, but hey if you're curious here's my feats
 
-- Phigros: 16.00
-- Chunithm: 16.01
-- maimai: 14897
-- PJSK: diff 32 fc
+- Chunithm: Peak 16.72, Current 16.42 (Active) <br>
+-- Latest B50 (updated Oct 30 2026):
+
+![oh](/images/about/CHUNIB50.png)
+
+- maimai: Peak 14996, Current 14687 (Not Active) <br>
+-- Latest B50 (updated Oct 30 2026):
+
+![oh](/images/about/MAIB50.png)
+
+
+- PJSK: diff 33 fc i forgot what it was lol
+- Phigros: I ALSO FORGOT BUT I SWEAR I PLAY IT BUT I HAVENT PLAYED THE LATEST UPDATE
+- Arcaea: I ALSO FORGOT well i think it was like 12 point something
 
 ---
 <h2> MORE NERD STUFF </h2>
 ---
 
-i'm also a puzzler. i do puzzles since 2019-2020, and i have a few achievements under my name (will link youtube for some of these later when i have the chances)
+i'm also a puzzler. i do puzzles since 2018, and i have a few achievements under my name (will link youtube for some of these later when i have the chances)
 
 - UDG1 Batch 1
 - UDG2 Lore Writer
@@ -49,7 +65,8 @@ i'm also a puzzler. i do puzzles since 2019-2020, and i have a few achievements 
 - MITMH 2022 (though, didn't even get far)
 - MITMH 2023 (w/DGCMITMH) (also didn't get far)
 - MITMH 2024 (w/LAF) (finished!)
-- Find The Chomiks: Über Secret Chomik First Victor
+- [Find The Chomiks: Über Secret Chomik First Victor
+](https://www.youtube.com/watch?v=BTL3PNmN6q0)
 - Secret Universe: Historian First Victor
 
 also, there might be puzzles in my website someday.
@@ -58,8 +75,10 @@ also, there might be puzzles in my website someday.
 <h2> I HAVE NO LIFE !!! </h2>
 ---
 
-there used to be a section about hypixel skyblock here, but i quit that game. now im moving to
+there used to be a section about hypixel skyblock here, but i quit that game (quit at lv 423). 
+i am also doing star technology (well not really, we finished it already), moving to gtnh soon
 
-STAR TECHNOLOGY!!!!!
-- 108 hours of gameplay
-- currently in HV (but close to EV)
+currently i am obsessed with PHIGHTING!
+
+T3: Slingshot, Rocket, Medkit<br>
+T2: EVERYTHING ELSE!!!!!!!!!
