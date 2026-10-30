@@ -87,10 +87,13 @@ T2: EVERYTHING ELSE!!!!!!!!!
 <h2> MUSIC !!! </h2>
 ---
 
-here's my recents, but i listen to a lot more albums than this hehe
+here's my recent songs i listened to in the past month and how much times, but i listen to a lot more albums than this hehe
 
-<img 
+<iframe 
   src="https://lastfm-embed.vercel.app/api/top-tracks?user=pwoofy&lang=en&theme=catppuccinLatte&borderSize=0&borderRadius=16&showTitle=true&bgColor=%2313161a&textColor=%23f0f3f6&urlColor=%232cbfa2&scrobbleColor=%238596a0&limit=15&period=1month&layout=horizontal&itemsPerRow=5" 
-  alt="pwoofy's Top Tracks" 
-  style="border-radius: 16px; max-width: 100%; height: auto;" 
-/>
+  width="100%" 
+  height="400" 
+  style="border: none; border-radius: 16px;"
+  loading="lazy">
+</iframe>
+
