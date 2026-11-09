@@ -1,0 +1,791 @@
+- id: 1
+  name: "Search"
+  diff_level: 1
+  diff_sub: 4.0
+  diff_name: "Complex"
+  color: "#FF6162"
+  icon: "/images/sanctuaryepoch/Puzzle1.png"
+
+- id: 2
+  name: "Duology"
+  diff_level: 2
+  diff_sub: 5.8
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle2.png"
+
+- id: 3
+  name: "Trilogy"
+  diff_level: 4
+  diff_sub: 7.7
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle3.png"
+
+- id: 4
+  name: "LAEOCHELDRTXTE"
+  diff_level: 3
+  diff_sub: 6.3
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle4.png"
+
+- id: 5
+  name: "Articulation"
+  diff_level: 2
+  diff_sub: 5.2
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle5.png"
+
+- id: 6
+  name: "Elements"
+  diff_level: 2
+  diff_sub: 5.0
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle6.png"
+
+- id: 7
+  name: "Onswer"
+  diff_level: 2
+  diff_sub: 5.3
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle7.png"
+
+- id: 8
+  name: "Golf"
+  diff_level: 5
+  diff_sub: 8.2
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle8.png"
+
+- id: 9
+  name: "The Door"
+  diff_level: 4
+  diff_sub: 7.8
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle9.png"
+
+- id: 10
+  name: "Snake"
+  diff_level: 3
+  diff_sub: 6.2
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle10.png"
+
+- id: 11
+  name: "Literature"
+  diff_level: 5
+  diff_sub: 8.6
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle11.png"
+
+- id: 12
+  name: "mayakovskaya"
+  diff_level: 3
+  diff_sub: 6.8
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle12.png"
+
+- id: 13
+  name: "Hieroglyphs"
+  diff_level: 3
+  diff_sub: 6.8
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle13.png"
+
+- id: 14
+  name: "Mosaic"
+  diff_level: 3
+  diff_sub: 6.3
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle14.png"
+
+- id: 15
+  name: "Happy Home"
+  diff_level: 4
+  diff_sub: 7.8
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle15.png"
+
+- id: 16
+  name: "Bliss"
+  diff_level: 5
+  diff_sub: 8.6
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle16.png"
+
+- id: 17
+  name: "Plain"
+  diff_level: 6
+  diff_sub: 9.6
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle17.png"
+
+- id: 18
+  name: "Pressure"
+  diff_level: 3
+  diff_sub: 6.5
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle18.png"
+
+- id: 19
+  name: "Rorhythm"
+  diff_level: 4
+  diff_sub: 7.5
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle19.png"
+
+- id: 20
+  name: "Who's That Pokemon"
+  diff_level: 6
+  diff_sub: 9.3
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle20.png"
+
+- id: 21
+  name: "ArPeEs"
+  diff_level: 4
+  diff_sub: 7.3
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle21.png"
+
+- id: 22
+  name: "Stickmen"
+  diff_level: 3
+  diff_sub: 6.8
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle22.png"
+
+- id: 23
+  name: "Arcade"
+  diff_level: 5
+  diff_sub: 8.7
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle23.png"
+
+- id: 24
+  name: "Reflections"
+  diff_level: 7
+  diff_sub: 10.3
+  diff_name: "Aleph"
+  color: "linear-gradient(to top, #000000, #ffffff)"
+  icon: "/images/sanctuaryepoch/Puzzle24.png"
+
+- id: 25
+  name: "Stuck"
+  diff_level: 5
+  diff_sub: 8.5
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle25.png"
+
+- id: 26
+  name: "Turn Off Your Internet To Solve"
+  diff_level: 3
+  diff_sub: 6.5
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle26.png"
+
+- id: 27
+  name: "the Key and the Lock"
+  diff_level: 3
+  diff_sub: 6.8
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle27.png"
+
+- id: 28
+  name: "Rutherfordium"
+  diff_level: 2
+  diff_sub: 5.5
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle28.png"
+
+- id: 29
+  name: "Harmony"
+  diff_level: 4
+  diff_sub: 7.2
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle29.png"
+
+- id: 30
+  name: "Sanctuary"
+  diff_level: 4
+  diff_sub: 7.7
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle30.png"
+
+- id: 31
+  name: "Force"
+  diff_level: 2
+  diff_sub: 5.3
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle31.png"
+
+- id: 32
+  name: "Erstwhile"
+  diff_level: 3
+  diff_sub: 6.4
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle32.png"
+
+- id: 33
+  name: "Convergence"
+  diff_level: 3
+  diff_sub: 6.7
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle33.png"
+
+- id: 34
+  name: "Unlock"
+  diff_level: 4
+  diff_sub: 7.8
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle34.png"
+
+- id: 35
+  name: "Linglox"
+  diff_level: 4
+  diff_sub: 7.2
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle35.png"
+
+- id: 36
+  name: "Sensational"
+  diff_level: 5
+  diff_sub: 8.3
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle36.png"
+
+- id: 37
+  name: "Minesweeper"
+  diff_level: 3
+  diff_sub: 6.4
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle37.png"
+
+- id: 38
+  name: "Standard"
+  diff_level: 3
+  diff_sub: 6.9
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle38.png"
+
+- id: 39
+  name: "Tower"
+  diff_level: 3
+  diff_sub: 6.0
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle39.png"
+
+- id: 40
+  name: "Stonk"
+  diff_level: 4
+  diff_sub: 7.7
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle40.png"
+
+- id: 41
+  name: "Apparent"
+  diff_level: 2
+  diff_sub: 5.6
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle41.png"
+
+- id: 42
+  name: "Mythology"
+  diff_level: 7
+  diff_sub: 10.1
+  diff_name: "Aleph"
+  color: "linear-gradient(to top, #000000, #ffffff)"
+  icon: "/images/sanctuaryepoch/Puzzle42.png"
+
+- id: 43
+  name: "Aura"
+  diff_level: 5
+  diff_sub: 8.3
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle43.png"
+
+- id: 44
+  name: "Terra"
+  diff_level: 4
+  diff_sub: 7.4
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle44.png"
+
+- id: 45
+  name: "Vortex"
+  diff_level: 6
+  diff_sub: 9.9
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle45.png"
+
+- id: 46
+  name: "Stardust"
+  diff_level: 3
+  diff_sub: 6.5
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle46.png"
+
+- id: 47
+  name: "Solar"
+  diff_level: 5
+  diff_sub: 8.9
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle47.png"
+
+- id: 48
+  name: "Nebula"
+  diff_level: 4
+  diff_sub: 7.2
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle48.png"
+
+- id: 49
+  name: "Coalescence"
+  diff_level: 6
+  diff_sub: 9.0
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle49.png"
+
+- id: 50
+  name: "Vroom"
+  diff_level: 7
+  diff_sub: 10.6
+  diff_name: "Aleph"
+  color: "linear-gradient(to top, #000000, #ffffff)"
+  icon: "/images/sanctuaryepoch/Puzzle50.png"
+
+- id: 51
+  name: "The Password Game"
+  diff_level: 5
+  diff_sub: 8.0
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle51.png"
+
+- id: 52
+  name: "Wenn"
+  diff_level: 3
+  diff_sub: 6.6
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle52.png"
+
+- id: 53
+  name: "Moonlight"
+  diff_level: 6
+  diff_sub: 9.7
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle53.png"
+
+- id: 54
+  name: "Oxyphen Butazone"
+  diff_level: 4
+  diff_sub: 7.9
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle54.png"
+
+- id: 55
+  name: "aqua.flashvideo"
+  diff_level: 3
+  diff_sub: 6.7
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle55.png"
+
+- id: 56
+  name: "wordlewin"
+  diff_level: 4
+  diff_sub: 7.6
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle56.png"
+
+- id: 57
+  name: "Scratch"
+  diff_level: 5
+  diff_sub: 8.2
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle57.png"
+
+- id: 58
+  name: "Netted"
+  diff_level: 6
+  diff_sub: 9.2
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle58.png"
+
+- id: 59
+  name: "Apism"
+  diff_level: 2
+  diff_sub: 5.9
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle59.png"
+
+- id: 60
+  name: "Plushie"
+  diff_level: 7
+  diff_sub: 10.2
+  diff_name: "Aleph"
+  color: "linear-gradient(to top, #000000, #ffffff)"
+  icon: "/images/sanctuaryepoch/Puzzle60.png"
+
+- id: 61
+  name: "Hymn"
+  diff_level: 2
+  diff_sub: 5.2
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle61.png"
+
+- id: 62
+  name: "Prowess"
+  diff_level: 5
+  diff_sub: 8.7
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle62.png"
+
+- id: 63
+  name: "Getting It"
+  diff_level: 5
+  diff_sub: 8.8
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle63.png"
+
+- id: 64
+  name: "Importance"
+  diff_level: 4
+  diff_sub: 7.6
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle64.png"
+
+- id: 65
+  name: "Table"
+  diff_level: 4
+  diff_sub: 7.5
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle65.png"
+
+- id: 66
+  name: "Numbers"
+  diff_level: 3
+  diff_sub: 6.4
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle66.png"
+
+- id: 67
+  name: "PhorLlicData"
+  diff_level: 7
+  diff_sub: 10.0
+  diff_name: "Aleph"
+  color: "linear-gradient(to top, #000000, #ffffff)"
+  icon: "/images/sanctuaryepoch/Puzzle67.png"
+
+- id: 68
+  name: "Suguru"
+  diff_level: 4
+  diff_sub: 7.0
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle68.png"
+
+- id: 69
+  name: "Message"
+  diff_level: 4
+  diff_sub: 7.6
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle69.png"
+
+- id: 70
+  name: "Differentiation"
+  diff_level: 3
+  diff_sub: 6.5
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle70.png"
+
+- id: 71
+  name: "somethingwentwrong"
+  diff_level: 5
+  diff_sub: 8.0
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle71.png"
+
+- id: 72
+  name: "Chomik"
+  diff_level: 4
+  diff_sub: 7.0
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle72.png"
+
+- id: 73
+  name: "Connections"
+  diff_level: 3
+  diff_sub: 6.3
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle73.png"
+
+- id: 74
+  name: "Instructions"
+  diff_level: 2
+  diff_sub: 5.5
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle74.png"
+
+- id: 75
+  name: "Depth"
+  diff_level: 4
+  diff_sub: 7.3
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle75.png"
+
+- id: 76
+  name: "Athens"
+  diff_level: 4
+  diff_sub: 7.1
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle76.png"
+
+- id: 77
+  name: "Kolakoski"
+  diff_level: 5
+  diff_sub: 8.5
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle77.png"
+
+- id: 78
+  name: "Accident"
+  diff_level: 6
+  diff_sub: 9.5
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle78.png"
+
+- id: 79
+  name: "Flocab"
+  diff_level: 3
+  diff_sub: 6.6
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle79.png"
+
+- id: 80
+  name: "Chronon"
+  diff_level: 5
+  diff_sub: 8.5
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle80.png"
+
+- id: 81
+  name: "Before and Beyond"
+  diff_level: 6
+  diff_sub: 9.8
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle81.png"
+
+- id: 82
+  name: "Compliment"
+  diff_level: 3
+  diff_sub: 6.6
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle82.png"
+
+- id: 83
+  name: "Sakura"
+  diff_level: 6
+  diff_sub: 9.1
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle83.png"
+
+- id: 84
+  name: "Chess"
+  diff_level: 2
+  diff_sub: 5.1
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle84.png"
+
+- id: 85
+  name: "Askkgmcdmol"
+  diff_level: 4
+  diff_sub: 7.4
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle85.png"
+
+- id: 86
+  name: "Fractions"
+  diff_level: 3
+  diff_sub: 6.5
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle86.png"
+
+- id: 87
+  name: "Volution"
+  diff_level: 5
+  diff_sub: 8.4
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle87.png"
+
+- id: 88
+  name: "Stradivarius"
+  diff_level: 3
+  diff_sub: 6.1
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle88.png"
+
+- id: 89
+  name: "Esoteric"
+  diff_level: 6
+  diff_sub: 9.3
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle89.png"
+
+- id: 90
+  name: "Octal"
+  diff_level: 2
+  diff_sub: 5.4
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle90.png"
+
+- id: 91
+  name: "Mountains"
+  diff_level: 4
+  diff_sub: 7.7
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle91.png"
+
+- id: 92
+  name: "easymathproblem"
+  diff_level: 4
+  diff_sub: 7.5
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle92.png"
+
+- id: 93
+  name: "Kakuro"
+  diff_level: 2
+  diff_sub: 5.4
+  diff_name: "Intricate"
+  color: "#7BFFFE"
+  icon: "/images/sanctuaryepoch/Puzzle93.png"
+
+- id: 94
+  name: "Dashing"
+  diff_level: 6
+  diff_sub: 9.0
+  diff_name: "Denial"
+  color: "#191919"
+  icon: "/images/sanctuaryepoch/Puzzle94.png"
+
+- id: 95
+  name: "Stars"
+  diff_level: 5
+  diff_sub: 8.1
+  diff_name: "Calamity"
+  color: "#FE4BFE"
+  icon: "/images/sanctuaryepoch/Puzzle95.png"
+
+- id: 96
+  name: "JSaB"
+  diff_level: 3
+  diff_sub: 6.5
+  diff_name: "Problematic"
+  color: "#12B4FD"
+  icon: "/images/sanctuaryepoch/Puzzle96.png"
+
+- id: 97
+  name: "Keep Talking And Nobody Explodes"
+  diff_level: 7
+  diff_sub: 10.4
+  diff_name: "Aleph"
+  color: "linear-gradient(to top, #000000, #ffffff)"
+  icon: "/images/sanctuaryepoch/Puzzle97.png"
+
+- id: 98
+  name: "Marker"
+  diff_level: 4
+  diff_sub: 7.5
+  diff_name: "Arduous"
+  color: "#B41BFF"
+  icon: "/images/sanctuaryepoch/Puzzle98.png"
+
+- id: 99
+  name: "Penultimate"
+  diff_level: 1
+  diff_sub: 4.7
+  diff_name: "Complex"
+  color: "#FF6162"
+  icon: "/images/sanctuaryepoch/Puzzle99.png"

@@ -1,0 +1,98 @@
+
+- title: "properly sustain a relationship"
+  ticked: true
+  desc: "hi verna"
+
+- title: "go hiking"
+  ticked: false
+
+- title: "help in more charity events"
+  ticked: true
+  desc: "well i helped a charity event as a volunteer...yay?"
+
+- title: "host a competition"
+  ticked: false
+
+- title: "16 rating chuni"
+  ticked: false
+
+
+- title: "a day out at the park for relaxing"
+  ticked: true
+  desc: "i loved it"
+
+- title: "go socialise and party (don't get drunk!)"
+  ticked: true
+  desc: "i said hi to people i guess"
+
+- title: "win a competition"
+  ticked: true
+  desc: "i won something i guess"
+
+- title: "14k rating maimai"
+  ticked: true
+  desc: "i grinded all the 13s i guess"
+
+- title: "ss a 15+ in chuni"
+  ticked: false
+
+
+- title: "4.0 gpa"
+  ticked: false
+
+- title: "go to another convention"
+  ticked: true
+  desc: "straight up furuming it."
+
+- title: "free"
+  short_title: "free"
+  ticked: true
+  desc: "wawa"
+  free_space: true
+
+- title: "do a 10km run"
+  ticked: false
+
+- title: "document uni journey to anyone"
+  ticked: false
+
+
+- title: "big coding project"
+  ticked: true
+  desc: "glaceon bot yay"
+
+- title: "get a source of income"
+  ticked: true
+  desc: "i had a part time job that i quit to play games"
+
+- title: "reconnect with older friend"
+  ticked: true
+  desc: "i miss you guys"
+
+- title: "learn to draw"
+  ticked: false
+
+- title: "be notable member of a community"
+  ticked: true
+  desc: "thanks SU"
+
+
+- title: "watch movie with 6+ people"
+  ticked: true
+  desc: "zootopia 2"
+
+- title: "mentoring other people"
+  ticked: true
+  desc: "i mentored people to get a scholarship and they got it"
+
+- title: "be satisfied and love yourself before birthday"
+  ticked: true
+  desc: "I LOVE MHYSELF"
+
+- title: "get a study buddy, or a new best friend"
+  ticked: true
+  desc: "thanks zed"
+
+- title: "...hold hands..."
+  ticked: true
+  desc: "wawa2"
