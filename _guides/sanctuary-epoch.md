@@ -1,7 +1,7 @@
 ---
 layout: guide
-title: "Sanctuary Epoch - 100 Puzzles Guide"
-banner: "/images/guides/sanctuary-epoch.png"
+title: "Sanctuary Epoch All Puzzles Fully Explained"
+banner: "/images/sanctuaryepoch/sorrow.webp"
 ---
 
 <link rel="stylesheet" href="/assets/css/sanctuary.css">
