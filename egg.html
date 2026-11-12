@@ -1,0 +1,222 @@
+---
+layout: null
+permalink: /egg
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Well...</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #1a1a1a;
+            color: #eee;
+            font-family: monospace;
+        }
+        canvas {
+            border: 4px solid #333;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            image-rendering: pixelated;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        
+        /* --- D-PAD CONTROLLER STYLES --- */
+        .controls {
+            margin-top: 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 5px;
+        }
+        .controls-row {
+            display: flex;
+            gap: 5px;
+        }
+        .controls button {
+            background-color: #000;
+            color: #fff;
+            border: 2px solid #fff;
+            border-radius: 4px;
+            padding: 15px 25px;
+            font-size: 16px;
+            font-family: monospace;
+            font-weight: bold;
+            cursor: pointer;
+            user-select: none;
+            touch-action: manipulation; /* Prevents zooming on mobile double-taps */
+            transition: background-color 0.1s;
+        }
+        .controls button:active {
+            background-color: #444;
+        }
+        /* ------------------------------- */
+        
+        #dialogueBox {
+            display: none; 
+            width: 600px;
+            margin-top: 20px;
+            padding: 25px 30px;
+            background-color: #000000; 
+            border: 6px solid #ffffff; 
+            border-radius: 0px; 
+            font-size: 28px; 
+            font-weight: bold;
+            font-family: "Courier New", Courier, monospace; 
+            color: #ffffff;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Autoplay Audio (Requires interaction first) -->
+    <audio id="bgMusic" src="/assets/music/man.ogg" loop></audio>
+
+    <p>Use WASD, Arrow Keys, or buttons to move.</p>
+    <canvas id="gameCanvas" width="640" height="512"></canvas>
+    
+    <!-- On-Screen Controller -->
+    <div class="controls">
+        <button id="btnUp">W / ↑</button>
+        <div class="controls-row">
+            <button id="btnLeft">A / ←</button>
+            <button id="btnDown">S / ↓</button>
+            <button id="btnRight">D / →</button>
+        </div>
+    </div>
+    
+    <div id="dialogueBox">* Well, there is a man here.</div>
+
+    <script>
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+        const dialogueBox = document.getElementById('dialogueBox');
+        const bgMusic = document.getElementById('bgMusic');
+
+        const TILE_SIZE = 32; 
+        const COLS = 20; 
+        const ROWS = 16; 
+        
+        const tilemap = [
+            [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+            [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+            [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+            [0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0],
+            [0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0],
+            [0,0,0,0,0,1,0,0,0,2,2,0,0,0,1,0,0,0,0,0],
+            [0,0,0,0,0,1,0,0,0,2,3,0,0,0,1,0,0,0,0,0],
+            [0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0],
+            [0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0],
+            [0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0],
+            [0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0],
+            [0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0],
+            [0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0],
+            [0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0],
+            [0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0], 
+            [0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0]  
+        ];
+
+        const player = {
+            gridX: 9, 
+            gridY: 15 
+        };
+        
+        const bgImage = new Image();
+        bgImage.src = '/images/secretstuff/egg.jpg'; 
+        let isBgLoaded = false;
+        bgImage.onload = () => {
+            isBgLoaded = true;
+            drawGame();
+        };
+        
+        const playerSprite = new Image();
+        playerSprite.src = '/images/secretstuff/soul.png'; 
+        let isPlayerLoaded = false;
+        playerSprite.onload = () => {
+            isPlayerLoaded = true;
+            drawGame();
+        };
+
+        // --- AUDIO AUTOPLAY WORKAROUND ---
+        const playMusic = () => {
+            if (bgMusic.paused) {
+                bgMusic.play().catch(() => {});
+            }
+        };
+        // Trigger on any interaction
+        window.addEventListener('keydown', playMusic, { once: true });
+        window.addEventListener('mousedown', playMusic, { once: true });
+        window.addEventListener('touchstart', playMusic, { once: true });
+
+        // --- MOVEMENT LOGIC ---
+        function movePlayer(dx, dy) {
+            let nextX = player.gridX + dx;
+            let nextY = player.gridY + dy;
+
+            if (nextX >= 0 && nextX < COLS && nextY >= 0 && nextY < ROWS) {
+                const targetTile = tilemap[nextY][nextX];
+                if (targetTile === 0 || targetTile === 2 || targetTile === 3) {
+                    player.gridX = nextX;
+                    player.gridY = nextY;
+                }
+            }
+            drawGame();
+            playMusic(); // Ensure music plays if they click the on-screen buttons first
+        }
+
+        // Keyboard listeners
+        window.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowUp' || e.key === 'w') movePlayer(0, -1);
+            if (e.key === 'ArrowDown' || e.key === 's') movePlayer(0, 1);
+            if (e.key === 'ArrowLeft' || e.key === 'a') movePlayer(-1, 0);
+            if (e.key === 'ArrowRight' || e.key === 'd') movePlayer(1, 0);
+        });
+
+        // On-screen button listeners
+        document.getElementById('btnUp').addEventListener('click', () => movePlayer(0, -1));
+        document.getElementById('btnDown').addEventListener('click', () => movePlayer(0, 1));
+        document.getElementById('btnLeft').addEventListener('click', () => movePlayer(-1, 0));
+        document.getElementById('btnRight').addEventListener('click', () => movePlayer(1, 0));
+
+        // --- RENDER LOGIC ---
+        function drawGame() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            if (isBgLoaded) {
+                ctx.drawImage(bgImage, 0, 0, canvas.width, canvas.height);
+            }
+            
+            const currentTile = tilemap[player.gridY][player.gridX];
+            
+            if (currentTile === 3) {
+                dialogueBox.style.display = 'block';
+            } else {
+                dialogueBox.style.display = 'none';
+            }
+            
+            if (isPlayerLoaded && currentTile !== 2 && currentTile !== 3) { 
+                ctx.drawImage(
+                    playerSprite, 
+                    player.gridX * TILE_SIZE, 
+                    player.gridY * TILE_SIZE, 
+                    TILE_SIZE, 
+                    TILE_SIZE
+                );
+            }
+        }
+
+        drawGame();
+    </script>
+</body>
+</html>

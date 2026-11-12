@@ -97,3 +97,21 @@ here's my recent songs i listened to in the past month and how much times, but i
   loading="lazy">
 </iframe>
 
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const navEntries = performance.getEntriesByType("navigation");
+    const isReload = navEntries.length > 0 && navEntries[0].type === "reload";
+
+    if (isReload) {
+      let count = parseInt(sessionStorage.getItem("eggStreak") || "0") + 1;
+      sessionStorage.setItem("eggStreak", count);
+      if (count >= 10) {
+        sessionStorage.removeItem("eggStreak"); 
+        window.location.href = "/egg"; 
+      }
+    } else {
+      sessionStorage.removeItem("eggStreak");
+    }
+  });
+</script>
